@@ -52,7 +52,7 @@ class MyWeb():
 
         try:
 
-            content = urllib2.urlopen(request)
+            content = urllib2.urlopen(request, timeout = 2)
 
             return content
 
@@ -88,7 +88,7 @@ class MyWeb():
  
         try:
 
-            content = urllib2.urlopen(request)
+            content = urllib2.urlopen(request, timeout = 2)
 
             return content
 
