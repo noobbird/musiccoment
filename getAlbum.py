@@ -36,7 +36,7 @@ def getSong(url):
     sorted_dic = sorted(singers.items(), lambda x, y: cmp(x[1], y[1]), reverse=True)
     for i in sorted_dic:
         print i[0] +" "+ str(i[1])    
-    path = "C:\Windows\Fonts\STSONG.TTF"
+    path = "./STSONG.TTF"
     wordcloud = WordCloud(font_path = path,
                             background_color = "white",
                             width=1920,
