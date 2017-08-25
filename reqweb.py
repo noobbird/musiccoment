@@ -14,8 +14,14 @@ def post(posturl, dictdata, proxies = None):
             else:
                 r = requests.post(url=posturl, data=dictdata, proxies = proxies, timeout =2)
             return r
-        except Exception, e:
-            print "post: " + str(e)
+        except requests.exceptions.ConnectTimeout:
+            print 'ConnectTimeout except'
+        except requests.exceptions.ProxyError,e:
+            print str(e)
+        except requests.exceptions.ConnectionError,e:
+            print str(e)
+        except Exception,e:
+            print str(e)
             return None
 def get(url, proxies = None):
         try:
