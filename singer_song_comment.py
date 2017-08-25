@@ -5,6 +5,7 @@
 
 import sys
 from time import ctime, sleep
+import cloudoffile
 import threading
 import urllib
 import Queue
@@ -39,7 +40,7 @@ def is_exclude_album(name):
         return False
 
 def get_albums(singer_id):
-    singer_albumlist_url = 'http://music.163.com/artist/album?id=%s&limit=120&offset=0'
+    singer_albumlist_url = 'http://music.163.com/artist/album?id=%s&limit=300&offset=0'
     url = singer_albumlist_url %singer_id
     path = ".//*[@id='m-song-module']/li/p/a"
     singer_name_path = ".//h2[@id='artist-name']"
@@ -114,8 +115,8 @@ def album_thread():
             tmp[name] = value
             print '\t' + name +' ' + str(value)
             sleep(1)
-            gd[k] = tmp
-            tmp = {}
+        gd[k] = tmp
+        tmp = {}
         queue.task_done()
 
 def get_all_songs(singer_id):
@@ -203,12 +204,16 @@ if __name__ == "__main__":
                 sleep(1)
             gd[k] = tmp
             tmp = {}
+    print '\n代理失败次数统计\n'
     for k,v in proxy_stat.items():
         print k + ': ' + str(v)
     fname = singer_name[0] + '.pick'
     output = open(fname,"wb")
     pickle.dump(gd,output)
+    output.close()
     print 'dump success!'
+    print fname
+    cloudoffile.rank(fname)
 @register
 def _atexit():
     print 'all DONE at:', ctime()
