@@ -4,7 +4,7 @@
 #History: 2017/8/22
 
 import sys
-from time import ctime, sleep
+from time import ctime, sleep, time
 import cloudoffile
 import threading
 import urllib
@@ -17,7 +17,10 @@ import json
 from threading import Thread, Lock
 from atexit import register
 import pickle
+reload(sys) # Python2.5 初始化后会删除 sys.setdefaultencoding 这个方法，我们需要重新载入
+sys.setdefaultencoding('utf-8') 
 
+#all album and song
 gd = {}
 singer_name = ['n']
 pqueue = Queue.Queue()
@@ -40,7 +43,7 @@ def is_exclude_album(name):
         return False
 
 def get_albums(singer_id):
-    singer_albumlist_url = 'http://music.163.com/artist/album?id=%s&limit=300&offset=0'
+    singer_albumlist_url = 'http://music.163.com/artist/album?id=%s&limit=50000&offset=0'
     url = singer_albumlist_url %singer_id
     path = ".//*[@id='m-song-module']/li/p/a"
     singer_name_path = ".//h2[@id='artist-name']"
@@ -155,7 +158,7 @@ if __name__ == "__main__":
         print "baned"
     else:
         print u'专辑数: ' + str(len(albums_dict))
-    sinle_thread = False
+    single_thread = False
     song_comment_dict = {}
     proxies_pick = file("proxy.pick")
     proxies = pickle.load(proxies_pick)
@@ -166,7 +169,8 @@ if __name__ == "__main__":
     proxy_stat = init_proxy_stat_dict(proxies)
     isbaned = False
     print "At", ctime(), "start get..."
-    if not sinle_thread:
+    start_time = time()
+    if not single_thread:
         put_data_in_queue(albums_dict,proxies)
         threads_nums = 6
         for i in xrange(threads_nums):
@@ -204,15 +208,30 @@ if __name__ == "__main__":
                 sleep(1)
             gd[k] = tmp
             tmp = {}
-    print '\n代理失败次数统计\n'
-    for k,v in proxy_stat.items():
-        print k + ': ' + str(v)
+    #count songs
+    song_sum = 0
+    for k,v in gd.items():
+         song_sum += len(v)
+    print 'song count: %d'%song_sum
+    end_time = time()
+    total_time = int(end_time - start_time)
+    print 'total time: %dmin %ds' %(total_time/60, total_time%60)
+    try:
+        f = open('time_stat.txt', 'a')
+        line = singer_name[0]+ ' '+ str(song_sum)+' '+ str(total_time)+\
+' ' + str(single_thread)+'\n'
+        f.write(line)
+    except Exception,e:
+        print 'write time stat' +str(e)
+    finally:
+        f.close()
+    #print '\n代理失败次数统计\n'
+    #for k,v in proxy_stat.items():
+    #    print k + ': ' + str(v)
     fname = singer_name[0] + '.pick'
     output = open(fname,"wb")
     pickle.dump(gd,output)
     output.close()
-    print 'dump success!'
-    print fname
     cloudoffile.rank(fname)
 @register
 def _atexit():

@@ -40,11 +40,9 @@ if __name__ == "__main__":
     params = '{"rid":"R_SO_%s","offset":"0","total":"true","limit":"100","csrf_token":""}' %song_id
     proxies = {"http": "http://47.52.24.117:80"}
     data = crypt.get_postData(params)
-    res = post(song_url, data, proxies)
-    try:
-        comment_json = json.loads(res.text)
-    except Exception, e:
-        print str(e)
+    res = post(song_url, data)
+    print res.text
+    comment_json = json.loads(res.text)
     print comment_json["total"]
     for c in comment_json["hotComments"]:
         print c["user"]["nickname"] + ': ' + c['content']
