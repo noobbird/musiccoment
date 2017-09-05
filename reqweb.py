@@ -41,9 +41,25 @@ if __name__ == "__main__":
     proxies = {"http": "http://47.52.24.117:80"}
     data = crypt.get_postData(params)
     res = post(song_url, data)
-    print res.text
     comment_json = json.loads(res.text)
     print comment_json["total"]
-    for c in comment_json["hotComments"]:
-        print c["user"]["nickname"] + ': ' + c['content']
+    for h in comment_json["hotComments"]:
+        content = h['content']
+        commentId = h['commentId']
+        likedCount = h['likedCount']
+        time = h['time']
+        replied = h['beReplied']
+        rep = ''
+        user= h['user']
+        user_name = user['nickname']
+        user_id = user['userId']
+        user_avatar = user['avatarUrl']
+        if replied:
+            rep = replied[0]['content']
+        
+        print '\trep: ' + rep +'\ncontent' + content
+        print 'user: '+user_name+'\t'+str(user_id)+'\t'+user_avatar+str(likedCount)
+        
+    #for c in comment_json["hotcomments"]:
+    #    print c["user"]["nickname"] + ': ' + c['content']
     print res.headers['X-From-Src'] 

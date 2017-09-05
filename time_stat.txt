@@ -3,3 +3,14 @@ Coldplay 389 135 False
 Taylor Swift 301 110 False
 Lana Del Rey 516 368 False
 群星 7941 2373 False
+周杰伦 248 122 False
+周杰伦 248 106 False
+周杰伦 248 123 False
+周杰伦 248 127 False
+周杰伦 248 135 False
+周杰伦 248 122 False
+周杰伦 248 130 False
+周杰伦 248 120 False
+周杰伦 248 123 False
+周杰伦 248 120 False
+张惠妹 443 209

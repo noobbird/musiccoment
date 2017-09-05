@@ -1,7 +1,0 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
-music.163.com	FALSE	/	FALSE	1504493022	MUSIC_U	2357e24b5adb9e180318a893349b60ed99dcb9d14e06692fa5745df19af1762414df125699f25be6a1b71773c11de9e32cc764a1ede8de485d6875572a075826c3061cd18d77b7a0
-music.163.com	FALSE	/	FALSE	1504493032	__csrf	d7b2524463ab9f27562f23baf8af91d2
-music.163.com	FALSE	/	FALSE	1504493022	__remember_me	true
