@@ -17,7 +17,8 @@ album_songs_url = "http://music.163.com/album?id=%s" %album_id
 def getPage(url):
     #s = urllib.urlopen(url)
     #return s.read().decode('utf-8')
-    return requests.get(url).text
+    proxy = {'http':"http://184.185.166.27:8080"}
+    return requests.get(url,proxies=proxy).text
 
 def getSonglist(url):
     page = getPage(url)
@@ -30,6 +31,7 @@ def getSonglist(url):
     res = tree.xpath(title_path)
     songs = tree.xpath(song_path)
     song_json = json.loads(songs[0].text)
+    count = 0
     for e in song_json:
         song = models.Song()
         song.song_name = e["name"]
@@ -46,7 +48,10 @@ def getSonglist(url):
         artist_name = '/'.join([i['name'] for i in artists])
         song.artist_name = artist_name
         song.artist_id = artist_id
-        song.save()
+        models.db.rollback()
+        if count%2==0:
+            song.save()
+        count +=1
         print artist_id + '\t' + artist_name
     for e in res:
         #print e.text +' ' + e.get('href')

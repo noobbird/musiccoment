@@ -25,9 +25,7 @@ gd = {}
 singer_name = ['n']
 pqueue = Queue.Queue()
 queue = Queue.Queue()
-global_proxies = []
-proxy_stat = {}
-
+fail_stat = {}
 L = Lock()
 
 def path_filter(page, path):
@@ -44,13 +42,15 @@ def is_exclude_album(name):
     else:
         return False
 
-def get_albums(singer_id):
+def get_albums(singer_id,proxy=None):
     singer_albumlist_url = 'http://music.163.com/artist/album?id=%s&limit=50000&offset=0'
     url = singer_albumlist_url %singer_id
     path = ".//*[@id='m-song-module']/li/p/a"
     singer_name_path = ".//h2[@id='artist-name']"
-    response = reqweb.get(url)
-    res = path_filter(response.text, path) 
+    response = reqweb.get(url,proxy)
+    res = path_filter(response.text, path)
+    if not res:
+         return None
     singer_name[0] = path_filter(response.text, singer_name_path)[0].text
     print u'歌手: ' + singer_name[0]
     album_dict = {}
@@ -80,7 +80,11 @@ def save_songs(song_json):
         artist_name = '/'.join([i['name'] for i in artists])
         song.artist_name = artist_name
         song.artist_id = artist_id
-        song.save()
+        try:
+            song.save()
+        except Exception,e:
+            models.db.rollback()
+            sys.stderr.write('song.save: ' +str(e))
 
 
 def get_songs(album_tuple,proxy=None):
@@ -93,10 +97,13 @@ def get_songs(album_tuple,proxy=None):
     song_path = './/div[@id="song-list-pre-cache"]/textarea'
     response = reqweb.get(url,proxy)
     if not response:
+        print 'out index: '+album_name
         return None 
     res = path_filter(response.text, title_path)
     des = path_filter(response.text, description_path)
     songs = path_filter(response.text, song_path)
+    if len(songs)==0:
+        return None
     song_json = json.loads(songs[0].text)
     save_songs(song_json)
     pic_url = song_json[0]["album"]["picUrl"]
@@ -113,7 +120,11 @@ def get_songs(album_tuple,proxy=None):
                         publisher = cop,\
                         pic_url = pic_url,\
                         description = des)
-    album.save()
+    try:
+        album.save()
+    except Exception,e:
+        models.db.rollback()
+        sys.stderr.write('album.save: aid= '+ str(album_id)+str(e))
     song_dict = {}
     for e in song_json:
         name = e["name"]
@@ -142,7 +153,11 @@ def save_comment(comment,comment_thread):
     thread_count = models.CommentThread()
     thread_count.comment_thread = comment_thread
     thread_count.total = comment["total"]
-    thread_count.save() 
+    try:
+        thread_count.save()
+    except Exception,e:
+        models.db.rollback()
+        sys.stderr.write('thread_count.save: comment_thread = '+ comment_thread+str(e))
     hot_comment = comment['hotComments']
     for h in hot_comment:
         content = h['content']
@@ -168,7 +183,11 @@ def save_comment(comment,comment_thread):
                                 time = time,\
                                 content = content,\
                                 rep = rep)
-        comment.save()
+        try:
+            comment.save()
+        except Exception,e:
+            models.db.rollback()
+            sys.stderr.write('comment.save: ' + str(e))
     L.release()
     
 
@@ -176,14 +195,20 @@ def album_thread():
     while not queue.empty():
         album_tuple = queue.get()
         song_dict = get_songs(album_tuple)
+        try_count = 0
         while song_dict == None:
                 tp1 = pqueue.get()
                 proxy = {"http":"http://"+tp1}
                 song_dict= get_songs(album_tuple, proxy)
                 if not song_dict:
-                    proxy_stat[tp1] += 1                
+                    fail_stat[tp1] +=1
                 pqueue.put(tp1)
-
+                if try_count>10:
+                    break
+                try_count += 1
+        if try_count>10:
+            queue.task_done()
+            continue
         k = album_tuple[0]
         tmp = {}
         print k
@@ -193,15 +218,15 @@ def album_thread():
             while song_comment == None:
                 tp = pqueue.get()
                 proxy = {"http":"http://"+tp}
-                song_comment = get_song_comment(j, proxy)                 
-                if not song_comment:
-                    proxy_stat[tp] += 1
+                song_comment = get_song_comment(j, proxy)
+                if not save_comment:
+                    fail_stat[tp] +=1
                 pqueue.put(tp)
             save_comment(song_comment,j)
             value = song_comment['total'] 
             tmp[name] = value
             print '\t' + name +' ' + str(value)
-            sleep(1)
+            sleep(0.5)
         gd[k] = tmp
         tmp = {}
         queue.task_done()
@@ -209,6 +234,12 @@ def album_thread():
 def get_all_songs(singer_id):
     res_dict = {}
     albums_dict = get_albums(singer_id)
+    while albums_dict == None:
+        tp1 = pqueue.get()
+        proxy = {"http": "http://" + tp1}
+        albums_dict = get_albums(singer_id,proxy)
+        pqueue.put(tp1)
+    print albums_dict
     print '专辑数: ' + str(len(albums_dict))
     if not albums_dict:
         print 'get baned'
@@ -223,60 +254,103 @@ def get_all_songs(singer_id):
         res_dict[k] = tmp
         tmp = {}
     return res_dict
-      
-def put_data_in_queue(albums, proxies):
+
+
+def load_albums_in_queue(albums):
     for k,v in albums.items():
         queue.put((k,v))
+
+
+def load_proxies_in_queue(proxies):
     for p  in proxies:
         pqueue.put(p)
 
-def init_proxy_stat_dict(proxies):
-    stat_dict = {}
-    for i in proxies:
-        stat_dict[i] = 0
-    return stat_dict
-    
-if __name__ == "__main__":
-    albums_dict = get_albums(sys.argv[1])
-    if not albums_dict:
-        print "baned"
-    else:
-        print u'专辑数: ' + str(len(albums_dict))
-    song_comment_dict = {}
+
+def log(start_time, end_time):
+    # count songs
+    song_sum = 0
+    for k, v in gd.items():
+        song_sum += len(v)
+    print 'song count: %d' % song_sum
+    total_time = int(end_time - start_time)
+    print 'total time: %dmin %ds' % (total_time / 60, total_time % 60)
+    try:
+        f = open('time_stat.txt', 'a')
+        line = singer_name[0] + ' ' + str(song_sum) + ' ' + str(total_time) + '\n'
+        f.write(line)
+    except Exception, e:
+        sys.stderr.write('write time stat' + str(e))
+    finally:
+        f.close()
+
+
+def get_singer_all_song(singer_id):
     #load proxies
     proxies_pick = file("proxy.pick")
     proxies = pickle.load(proxies_pick)
-    lenp = len(proxies)
-    proxy_stat = init_proxy_stat_dict(proxies)
-    start_time = time()
-    put_data_in_queue(albums_dict,proxies)
-    threads_nums = 6
+    for i in proxies:
+        fail_stat[i] = 0
+    load_proxies_in_queue(proxies)
+    albums_dict = get_albums(singer_id)
+    while albums_dict == None:
+        tp1 = pqueue.get()
+        proxy = {"http": "http://" + tp1}
+        albums_dict = get_albums(singer_id,proxy)
+        if not albums_dict:
+            fail_stat[tp1] += 1
+        pqueue.put(tp1)
+    load_albums_in_queue(albums_dict)
+    print u'专辑数: ' + str(len(albums_dict))
+    threads_nums = 12
     for i in xrange(threads_nums):
         t = threading.Thread(target = album_thread)
         t.setDaemon(True)
         t.start()
     queue.join()
-    #count songs
-    song_sum = 0
-    for k,v in gd.items():
-         song_sum += len(v)
-    print 'song count: %d'%song_sum
+    print '\ndone'
+
+
+
+    
+if __name__ == "__main__":
+
+    start_time = time()
+    get_singer_all_song("6452")
     end_time = time()
-    total_time = int(end_time - start_time)
-    print 'total time: %dmin %ds' %(total_time/60, total_time%60)
+
     try:
-        f = open('time_stat.txt', 'a')
-        line = singer_name[0]+ ' '+ str(song_sum)+' '+ str(total_time)+'\n'
-        f.write(line)
-    except Exception,e:
-        print 'write time stat' +str(e)
+        log(start_time, end_time)
+        fname = singer_name[0] + '.pick'
+        output = open(fname, "wb")
+        pickle.dump(gd, output)
+    except Exception, e:
+        sys.stderr.write(str(e))
     finally:
-        f.close()
-    #print '\n代理失败次数统计\n'
-    #for k,v in proxy_stat.items():
-    #    print k + ': ' + str(v)
-    fname = singer_name[0] + '.pick'
-    output = open(fname,"wb")
-    pickle.dump(gd,output)
-    output.close()
-    cloudoffile.rank(fname)
+        output.close()
+
+    for k,v in fail_stat.items():
+        print k + ': '+ str(v)
+
+    gd = {}
+
+    # f = open('singer_id.pick')
+    # l = pickle.load(f)
+    # f.close()
+    # for e in l:
+    #     start_time = time()
+    #     get_singer_all_song(e)
+    #     end_time = time()
+    #
+    #     try:
+    #         log(start_time, end_time)
+    #         fname = singer_name[0] + '.pick'
+    #         output = open(fname,"wb")
+    #         pickle.dump(gd,output)
+    #     except Exception,e:
+    #         print str(e)
+    #     finally:
+    #         output.close()
+    #     gd = {}
+
+    # output.close()
+    # cloudoffile.rank(fname)

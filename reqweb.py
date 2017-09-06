@@ -6,32 +6,39 @@
 import requests
 import crypt
 import json
+import sys
 
 def post(posturl, dictdata, proxies = None):
         try:
             if proxies== None:
-                r = requests.post(url=posturl, data=dictdata, timeout =2)
+                r = requests.post(url=posturl, data=dictdata, timeout =12)
             else:
-                r = requests.post(url=posturl, data=dictdata, proxies = proxies, timeout =2)
+                r = requests.post(url=posturl, data=dictdata, proxies = proxies, timeout =12)
             return r
         except requests.exceptions.ConnectTimeout:
-            print 'ConnectTimeout except'
+            sys.stderr.write('post ConnectTimeout except\n')
         except requests.exceptions.ProxyError,e:
-            print str(e)
+            sys.stderr.write('post ProxyError\n')
         except requests.exceptions.ConnectionError,e:
-            print str(e)
+            sys.stderr.write('post ConnectionError\n')
         except Exception,e:
-            print str(e)
+            sys.stderr.write('post '+str(e))
             return None
 def get(url, proxies = None):
         try:
             if proxies == None:
-                r = requests.get(url=url, timeout = 2)
+                r = requests.get(url=url, timeout = 12)
             else:
-                r = requests.get(url=url, proxies = proxies, timeout = 2)
+                r = requests.get(url=url, proxies = proxies, timeout = 12)
             return r
+        except requests.exceptions.ConnectTimeout:
+            sys.stderr.write('get ConnectTimeout except\n')
+        except requests.exceptions.ProxyError, e:
+            sys.stderr.write('get ProxyError\n')
+        except requests.exceptions.ConnectionError, e:
+            sys.stderr.write('get ConnectionError\n')
         except Exception, e:
-            print "get: " + str(e)
+            sys.stderr.write('get' + str(e))
             return None
 
 if __name__ == "__main__":
