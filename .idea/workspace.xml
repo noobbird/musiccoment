@@ -113,8 +113,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="399" />
-    <option name="y" value="85" />
+    <option name="x" value="656" />
+    <option name="y" value="90" />
     <option name="width" value="1173" />
     <option name="height" value="857" />
   </component>
@@ -223,10 +223,18 @@
       <option name="presentableId" value="Default" />
       <updated>1504602613387</updated>
     </task>
+    <task id="LOCAL-00001" summary="one singer well">
+      <created>1504701498615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504701498616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="399" y="85" width="1173" height="857" extended-state="0" />
+    <frame x="656" y="90" width="1173" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29838023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -255,6 +263,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="one singer well" />
+    <option name="LAST_COMMIT_MESSAGE" value="one singer well" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -310,6 +322,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
