@@ -44,9 +44,9 @@ def getSong(url):
     for i in sorted_dic:
         #print i[0] +" "+ str(i[1])
         #print i[0] +' '  + str(singer_ids[i[0]])
-        if count >29:
+        if count >45:
             print i[0]
-            l.append(str(singer_ids[i[0]]))
+            l.append(singer_ids[i[0]])
         count += 1
     pickle.dump(l,f)
     f.close()

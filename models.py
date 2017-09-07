@@ -46,6 +46,11 @@ class CommentThread(Model):
     class Meta:
         database = db
 
+class Singer(Model):
+    singer_name = CharField()
+    singer_id = IntegerField()
+    class Meta:
+        database = db
 
 if __name__ == '__main__': 
     try:
@@ -62,5 +67,9 @@ if __name__ == '__main__':
         print str(e)
     try:
         CommentThread.create_table()
+    except Exception,e:
+        print str(e)
+    try:
+        Singer.create_table()
     except Exception,e:
         print str(e)

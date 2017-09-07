@@ -1,4 +1,4 @@
-#_*_coding : utf-8 _*_
+#_*_coding: utf-8 _*_
 #FileName : playrecord.py
 #Author : YMY
 #Create time: 2017/8/20

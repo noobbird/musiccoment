@@ -1,0 +1,470 @@
+(dp0
+S'The Innocence Mission'
+p1
+(dp2
+VBroken Circle
+p3
+I2
+sVMercy
+p4
+I1
+sVWonder of Birds
+p5
+I2
+sVCurious
+p6
+I2
+sVCome Around and See Me
+p7
+I3
+sVMedjugorje
+p8
+I2
+sVClear to You
+p9
+I6
+sVSurreal
+p10
+I4
+sVPaper Dolls
+p11
+I6
+sVI Remember Me
+p12
+I1
+sVYou Chase the Light
+p13
+I1
+sVNotebook
+p14
+I3
+sVBlack Sheep Wall
+p15
+I13
+ssS'Befriended'
+p16
+(dp17
+VSweep Down Early
+p18
+I13
+sVWalking Around
+p19
+I3
+sVNo Storms Come
+p20
+I2
+sVOne For Sorrow, Two For Joy
+p21
+I20
+sVWhen Mac Was Swimming
+p22
+I1123
+sVMartha Avenue Love Song
+p23
+I6
+sVI Never Knew You From The Sun
+p24
+I23
+sVTomorrow On The Runway
+p25
+I33
+sVLook For Me As You Go By
+p26
+I7
+sVBeautiful Change
+p27
+I9
+ssS'Umbrella'
+p28
+(dp29
+VRevolving Man
+p30
+I1
+sVUmbrella
+p31
+I8
+sVSorry and Glad Together
+p32
+I4
+sVEvensong
+p33
+I25
+sVFlags
+p34
+I2
+sVSomeday Coming
+p35
+I2
+sVNow in the Hush
+p36
+I2
+sVMy Waltzing Days Are Over/Minta's Waltz
+p37
+I1
+sVEvery Hour Here
+p38
+I4
+sVBeginning the World
+p39
+I1
+sVJoan
+p40
+I1
+sVAnd Hiding Away
+p41
+I2
+ssS'Now The Day Is Over'
+p42
+(dp43
+VMy Love Goes With You
+p44
+I55
+sVBye-Lo
+p45
+I127
+sVEdelweiss
+p46
+I1185
+sVNow The Day Is Over
+p47
+I57
+sVSomewhere A Star Shines For Everyone
+p48
+I134
+sVPrelude In A
+p49
+I30
+sVOnce Upon A Summertime
+p50
+I18
+sVWhat A Wonderful World
+p51
+I540
+sVOver The Rainbow
+p52
+I747
+sVSonata No. 8
+p53
+I107
+sVStay Awake
+p54
+I36
+sVIt Is Well With My Soul
+p55
+I24
+sVMoon River
+p56
+I241
+ssS'Birds Of My Neighborhood'
+p57
+(dp58
+VFollow Me
+p59
+I30
+sVLakes Of Canada
+p60
+I12
+sVGoing Away
+p61
+I3
+sVShe May Turn Around
+p62
+I4
+sVWhere Does The Time Go?
+p63
+I8
+sVSnow
+p64
+I15
+sVBirdless
+p65
+I5
+sVGreen Grass, Red Tree
+p66
+I5
+sVJuly
+p67
+I10
+sVYou Are The Light
+p68
+I35
+sVI Haven't Seen This Day Before
+p69
+I3
+sVI Was In The Air
+p70
+I16
+ssS'Street Map'
+p71
+(dp72
+VPioneering
+p73
+I1
+sVYou Draw the Streets of Rome
+p74
+I2
+sVFair Hill
+p75
+I3
+sVSunshine Roof
+p76
+I4
+sVWe Wake Up in the Earliest Blue of All
+p77
+I1
+sVA Thousand Miles
+p78
+I12
+sVFrom a Homeland
+p79
+I4
+sVSuitcase Waltz
+p80
+I43
+ssS'Small Planes'
+p81
+(dp82
+VSong About Traveling
+p83
+I2
+sVThe Girl on My Left
+p84
+I2
+sVRooftop
+p85
+I3
+sVOh Do Not Fly Away
+p86
+I2
+sVI Have Loved You
+p87
+I331
+sVSome Clear Joy Is Coming
+p88
+I1
+sVToo Early to Say
+p89
+I2
+sVMigration
+p90
+I2
+sVSmall Planes
+p91
+I1
+sVToday
+p92
+I4
+sVI Left the Grounds
+p93
+I1
+ssS'We Walked In Song'
+p94
+(dp95
+VInto Brooklyn, Early In The Morning
+p96
+I3
+sVColors Of The World
+p97
+I10
+sVHappy Birthday
+p98
+I350
+sVMy Sisters Return From Ireland
+p99
+I1
+sVBrotherhood Of Man
+p100
+I7
+sVLake Shore Drive
+p101
+I11
+sVA Wave Is Rolling
+p102
+I2
+sVSince I Still Tell You My Every Day
+p103
+I6
+sVLove That Boy
+p104
+I28
+sVOver The Moon
+p105
+I5
+sVSong For Tom
+p106
+I9
+ssS'Christ Is My Hope'
+p107
+(dp108
+VChrist Is My Hope
+p109
+I19
+sVO Lord of Light
+p110
+I15
+sVNo Storms Come
+p111
+I10
+sVBeautiful Saviour
+p112
+I10
+sVO Sacred Head Surrounded
+p113
+I12
+sVWere You There?
+p114
+I24
+sV500 Miles
+p115
+I8084
+sVMorning Star
+p116
+I12
+sVIt Is Well With My Soul
+p117
+I39
+sVFare Thee Well
+p118
+I11
+ssS'Hello I Feel the Same'
+p119
+(dp120
+VSpring Is Written on Your Door
+p121
+I22
+sVBlue and Yellow
+p122
+I9
+sVWhen the One Flowered Suitcase
+p123
+I13
+sVWashington Field Trip
+p124
+I16
+sVTom on the Boulevard
+p125
+I24
+sVBarcelona
+p126
+I20
+sVHello I Feel the Same
+p127
+I32
+sVThe Color Green
+p128
+I9
+sVState Park
+p129
+I35
+sVDaily
+p130
+I89
+sVFred Rogers
+p131
+I14
+ssS'The Lakes of Canada'
+p132
+(dp133
+VPrayer of St. Francis
+p134
+I3
+sVThe Lakes of Canada
+p135
+I12
+sVMoon River
+p136
+I30
+sVSnow
+p137
+I5
+sVSnow (Gus Gus Remix)
+p138
+I3
+ssS'my room in the trees'
+p139
+(dp140
+VAll the Weather
+p141
+I3
+sVSpring
+p142
+I19
+sVThe Leaves Lift High
+p143
+I7
+sVThe Happy Mondays
+p144
+I7
+sVMile-Marker
+p145
+I2
+sVRhode Island
+p146
+I11
+sVNorth American Field Song
+p147
+I9
+sVShout for Joy
+p148
+I4
+sVI'd Follow If I Could
+p149
+I13
+sVRain (Setting Out in the Leaf Boat)
+p150
+I36
+sVGentle the Rain At Home
+p151
+I34
+sVGod Is Love
+p152
+I237
+sVThe Melendys Go Abroad
+p153
+I6
+ssS'Trip'
+p154
+(dp155
+VTrip
+p156
+I410
+ssS'Glow'
+p157
+(dp158
+VKeeping Awake
+p159
+I3
+sVBrave
+p160
+I3
+sVOur Harry
+p161
+I2
+sVThere
+p162
+I5
+sVEverything's Different Now
+p163
+I1
+sVSpeak Our Minds
+p164
+I1
+sVSpinning
+p165
+I3
+sVThat Was Another Country
+p166
+I11
+sVBright as Yellow
+p167
+I18
+sVHappy, the End
+p168
+I6
+sVGo
+p169
+I2
+sVI Hear You Say So
+p170
+I2
+ss.

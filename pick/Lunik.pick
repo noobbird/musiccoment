@@ -1,0 +1,404 @@
+(dp0
+S'Rumour'
+p1
+(dp2
+VRumour
+p3
+I5
+sVPast
+p4
+I1
+sVElektro
+p5
+I1
+sVRemember
+p6
+I2
+sVLost
+p7
+I4
+sVSometimes
+p8
+I1
+sVZoom
+p9
+I2
+sVSnelle Pig
+p10
+I1
+sVSo On
+p11
+I7
+sVInterlude - intro
+p12
+I1
+sVCorner
+p13
+I3
+sVMother Earth
+p14
+I5
+sVOther Side
+p15
+I9
+ssS'The Most Beautiful Song'
+p16
+(dp17
+VThe Most Beautiful Song
+p18
+I1
+sVThe Most Beautiful Song (Orchestral Version)
+p19
+I0
+sVYou Won't Stop Me
+p20
+I1
+sVVirtual Shadows
+p21
+I1
+ssS'Life Is On Our Side'
+p22
+(dp23
+VLie
+p24
+I10
+sVSize
+p25
+I3
+sVWhat You Are
+p26
+I9
+sVSlide
+p27
+I4
+sVWeather
+p28
+I4
+sVSerenity
+p29
+I5
+sVOtherside
+p30
+I3
+sVThrough Your Eyes
+p31
+I3
+sVBackup
+p32
+I1
+sVNew Day
+p33
+I10
+sVSummer's Gone
+p34
+I109
+ssS'Go On'
+p35
+(dp36
+VGo On (Radio Edit)
+p37
+I3
+ssS'Ahead'
+p38
+(dp39
+VStatic (Album Edit)
+p40
+I4
+sVDigitality (Intro) - intro
+p41
+I2
+sVLie
+p42
+I4
+sVSentimento
+p43
+I10
+sVSupernova
+p44
+I3
+sVWhat You Are
+p45
+I8
+sVTry
+p46
+I1
+sVWaiting
+p47
+I47
+sVPretender
+p48
+I2
+sVMastermind
+p49
+I11
+sVSize
+p50
+I4
+ssS'Anakin'
+p51
+(dp52
+VSeigneur Sith
+p53
+I0
+sVMortel feat Mic Orny
+p54
+I0
+sVCergy 3F
+p55
+I0
+sVFlows Katana feat Gaiden, Dr Kimble & Cezam
+p56
+I0
+sVLa Brute
+p57
+I1
+sVRound 3
+p58
+I13
+sVAnakin
+p59
+I1
+sVAu Royaume Du Borgne
+p60
+I2
+sVSkywalker
+p61
+I1
+sVYako
+p62
+I0
+sVSi On Inversait Les Rôles\u2026
+p63
+I0
+sVShinigami
+p64
+I1
+ssS'Weather'
+p65
+(dp66
+VThe Most Beautiful Song
+p67
+I4
+sVGo On
+p68
+I41
+sVEmpty Words
+p69
+I2
+sVHer Name
+p70
+I10
+sVSlide
+p71
+I8
+sVWeather
+p72
+I2
+sVPrisoner
+p73
+I5
+sVMelody
+p74
+I1
+sVYou Won't Stop Me
+p75
+I5
+sVBackup
+p76
+I7
+sVNew Day
+p77
+I7
+sVThrough Your Eyes
+p78
+I6
+ssS'Lonely Letters'
+p79
+(dp80
+VDo you love me
+p81
+I1
+sVThe prisoner
+p82
+I2
+sVThrough your eyes
+p83
+I2
+sVLittle bit
+p84
+I1
+sVLet go
+p85
+I80
+sVThe rest is silence
+p86
+I2
+sVFall
+p87
+I10
+sVLast night
+p88
+I7
+sVEerybody knows
+p89
+I9
+sVPreparing to leave
+p90
+I2
+sVCare
+p91
+I1
+ssS'Small Lights in the Dark'
+p92
+(dp93
+VI Can Just Be Me
+p94
+I4
+sVBorn To Be Sad
+p95
+I6
+sVEverything Means Nothing
+p96
+I15
+sVFalling Up
+p97
+I6
+sVI Never Said That I Was Perfect
+p98
+I3
+sVHow Could I Tell You
+p99
+I200
+sVDiary
+p100
+I8
+sVHe's Quite Something
+p101
+I3
+sVSet You Free
+p102
+I2
+sVI Can't Sleep
+p103
+I4
+sVPeople Hurt People
+p104
+I5
+ssS'Preparing to Leave'
+p105
+(dp106
+VBad Timing
+p107
+I211
+sVLife Is All Around You
+p108
+I22
+sVThe Game
+p109
+I200
+sVConstant Tourist
+p110
+I13
+sVLittle Bit
+p111
+I5
+sVLet Go
+p112
+I40
+sVThe Rest Is Silence
+p113
+I22
+sVFall
+p114
+I183
+sVLast Night
+p115
+I20
+sVPreparing to Leave
+p116
+I7
+sVCare
+p117
+I12
+ssS'Encore'
+p118
+(dp119
+VLast Night (Live With Zko)
+p120
+I5
+sVElijah (Live With Zko)
+p121
+I6
+sVFailed At Love
+p122
+I9
+sVSeeing You Soar
+p123
+I158
+sVLet Her Go
+p124
+I18
+sVI Have Loved (Live With Zko)
+p125
+I6
+sVDon't Be A Stranger
+p126
+I1179
+sVSet You Free (Live With Zko)
+p127
+I3
+sVHow Could I Tell You (Live With Zko)
+p128
+I13
+sVStop The Time
+p129
+I2752
+sVDecipher Me
+p130
+I13
+sVNever Fit In (Live With Zko)
+p131
+I4
+sVWhat Is Next (Live With Zko)
+p132
+I6
+sVRunning Out Of Time
+p133
+I24
+sVLet Go (Live With Zko)
+p134
+I31
+sVWhat If I... (Der Moment)
+p135
+I7
+sVCatastrophes
+p136
+I852
+sVBeacon In This Storm
+p137
+I15
+sVLittle Fly In A Spiderweb (Live With Zko)
+p138
+I3
+sVTruly You (Live With Zko)
+p139
+I10
+sVRainy Day
+p140
+I53
+sVYour Tomorrows (Live With Zko)
+p141
+I3
+sVThrough Your Eyes (Live With Zko)
+p142
+I7
+sVThe Line (Live With Zko)
+p143
+I6
+sVPreparing To Leave (Live With Zko)
+p144
+I3
+sVPessimist
+p145
+I7
+ss.

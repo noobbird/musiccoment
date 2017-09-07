@@ -1,0 +1,77 @@
+(dp0
+S'Who Are You'
+p1
+(dp2
+VReset
+p3
+I49
+sVWho are you?
+p4
+I106
+sVWho are you?(\u4f34\u594f) - \u4f34\u594f
+p5
+I18
+ssS'Angelus'
+p6
+(dp7
+Vwho are you
+p8
+I59
+sVJust because of the rain
+p9
+I222
+sVYin & yang
+p10
+I71
+sVEnnui
+p11
+I60
+sVOnly the lonely
+p12
+I90
+ssV\u4e0e\u4e16\u9694\u7edd
+p13
+(dp14
+V\u58f0\u58f0\u6162
+p15
+I1464
+sV\u4f60\u662f\u96fe\u6211\u662f\u9152\u9986
+p16
+I7792
+sV\u5c0f\u5029
+p17
+I722
+sV\u541b(The Beloved/\u6f14\u594f\u66f2)
+p18
+I67
+sV\u7518\u5fc3
+p19
+I337
+sV\u7231\u4e0a\u4f60\u5c31\u5931\u53bb\u4f60
+p20
+I1089
+sV\u4e0e\u4e16\u9694\u7edd
+p21
+I1381
+sV\u98ce\u8a00\u75af\u8bed
+p22
+I310
+sV\u6211\u7684\u52a0\u6cd5
+p23
+I321
+sV\u4e0d\u6562\u60f3
+p24
+I389
+ssV\u6c38\u8fdc\u306b\u62b1\u304d\u3057\u3081\u3066
+p25
+(dp26
+V\u6c38\u8fdc\u306b\u62b1\u304d\u3057\u3081\u3066
+p27
+I320
+sV\u7ed9\u6211\u4e00\u4e2a\u6628\u65e5\u7684\u62e5\u62b1
+p28
+I178
+sV\u6c38\u8fdc\u306b\u62b1\u304d\u3057\u3081\u3066(\u30a9\u30ea\u30b8\u30ca\u30eb.\u30ab\u30e9\u30a9\u30b1)
+p29
+I49
+ss.

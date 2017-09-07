@@ -10,10 +10,10 @@ import sys
 
 def post(posturl, dictdata, proxies = None):
         try:
-            if proxies== None:
-                r = requests.post(url=posturl, data=dictdata, timeout =12)
+            if proxies is None:
+                r = requests.post(url=posturl, data=dictdata, timeout =2)
             else:
-                r = requests.post(url=posturl, data=dictdata, proxies = proxies, timeout =12)
+                r = requests.post(url=posturl, data=dictdata, proxies = proxies, timeout =2)
             return r
         except requests.exceptions.ConnectTimeout:
             sys.stderr.write('post ConnectTimeout except\n')
@@ -23,13 +23,14 @@ def post(posturl, dictdata, proxies = None):
             sys.stderr.write('post ConnectionError\n')
         except Exception,e:
             sys.stderr.write('post '+str(e))
-            return None
+
+
 def get(url, proxies = None):
         try:
-            if proxies == None:
-                r = requests.get(url=url, timeout = 12)
+            if proxies is None:
+                r = requests.get(url=url, timeout = 2)
             else:
-                r = requests.get(url=url, proxies = proxies, timeout = 12)
+                r = requests.get(url=url, proxies = proxies, timeout = 2)
             return r
         except requests.exceptions.ConnectTimeout:
             sys.stderr.write('get ConnectTimeout except\n')
@@ -39,7 +40,6 @@ def get(url, proxies = None):
             sys.stderr.write('get ConnectionError\n')
         except Exception, e:
             sys.stderr.write('get' + str(e))
-            return None
 
 if __name__ == "__main__":
     song_id = "4154790"
