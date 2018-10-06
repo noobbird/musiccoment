@@ -83,8 +83,9 @@ def get(url):
 
 data = crypt.get_postData(params)
 res = post(song_url, data)
+print res.read()
 comment_json = json.loads(res.read())
-print comment_json["total"]
+#print comment_json["total"]
 for c in comment_json["hotComments"]:
     print c["user"]["nickname"] + ': ' + c['content']
     
