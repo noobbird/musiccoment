@@ -1,0 +1,410 @@
+(dp0
+S'Firestone'
+p1
+(dp2
+VFirestone (Fireworks Version)
+p3
+I253
+sVFirestone
+p4
+I7602
+sVFirestone (Live Acoustic Version)
+p5
+I415
+ssS'Caravan (Kygo Remix)'
+p6
+(dp7
+VCaravan (Kygo Remix)
+p8
+I344
+ssS' ID (Ultra Music Festival 2015 Official ...'
+p9
+(dp10
+VID (Ultra Music Festival 2015 Official Anthem)
+p11
+I1381
+ssS'Here For You (feat. Ella Henderson)'
+p12
+(dp13
+VHere for You (feat. Ella Henderson)
+p14
+I1941
+ssS'Im In Love'
+p15
+(dp16
+VIm In Love
+p17
+I1144
+ssS'Stay (Kygo Edit)'
+p18
+(dp19
+VStay (Kygo Edit)
+p20
+I192
+ssS'Fiction'
+p21
+(dp22
+VFiction
+p23
+I2250
+ssS'Fallen (Kygo Rework)'
+p24
+(dp25
+VFallen (Kygo Rework)
+p26
+I746
+ssS'Wait (Kygo Remix)'
+p27
+(dp28
+VWait (Kygo Remix)
+p29
+I1036
+ssS'Born To Die(Kygo Remix)'
+p30
+(dp31
+VBorn To Die(Kygo Remix)
+p32
+I114
+ssS'Raging'
+p33
+(dp34
+VRaging
+p35
+I1903
+ssS'Shine (Kygo Remix)'
+p36
+(dp37
+VShine (Kygo Remix)
+p38
+I887
+ssS'Younger (Kygo Remix)'
+p39
+(dp40
+VYounger (Kygo Remix)
+p41
+I694
+ssS'No Diggity vs.Thrift Shop (Kygo Remix)'
+p42
+(dp43
+VNo Diggity vs. Thrift Shop (Kygo Remix)
+p44
+I780
+ssS'Sexual Healing (Kygo Remix)'
+p45
+(dp46
+VSexual Healing (Kygo Remix)
+p47
+I1006
+ssVIt Ain't Me (Tiësto's AFTR:HRS Remix)
+p48
+(dp49
+VIt Ain't Me (Tiësto's AFTR:HRS Remix)
+p50
+I2355
+ssS'Electric Feel (Kygo Remix)'
+p51
+(dp52
+VElectric Feel (Kygo Remix)
+p53
+I118
+ssS'Epsilon'
+p54
+(dp55
+VEpsilon
+p56
+I575
+ssS'Miami 82 (Kygo Remix)'
+p57
+(dp58
+VMiami 82 (Kygo Remix)
+p59
+I6345
+ssS'Love Me Like You Do (Kygo Remix)'
+p60
+(dp61
+VLove Me Like You Do (Kygo Remix)
+p62
+I257
+ssS'Stay'
+p63
+(dp64
+VStay
+p65
+I4365
+ssS'Starboy (Kygo Remix)'
+p66
+(dp67
+VStarboy (Kygo Remix)
+p68
+I3182
+ssS'Take On Me'
+p69
+(dp70
+VTake On Me (Kygo remix)
+p71
+I1103
+ssS'Cloud Nine'
+p72
+(dp73
+VI'm in Love
+p74
+I220
+sVFirestone
+p75
+I729
+sVNot Alone
+p76
+I273
+sVRaging
+p77
+I322
+sVFragile
+p78
+I615
+sVStole the Show
+p79
+I1034
+sVHappy Birthday
+p80
+I883
+sVFiction
+p81
+I644
+sVOasis
+p82
+I534
+sVIntro
+p83
+I675
+sVCarry Me
+p84
+I1630
+sVNothing Left
+p85
+I1138
+sVSerious
+p86
+I337
+sVFor What It's Worth
+p87
+I255
+sVStay
+p88
+I338
+ssS"It Ain't Me"
+p89
+(dp90
+VIt Ain't Me
+p91
+I11346
+ssS'First Time (Remixes)'
+p92
+(dp93
+VFirst Time (Gryffin Remix)
+p94
+I575
+sVFirst Time (R3hab Remix)
+p95
+I1364
+ssS'Dirty Paws(Kygo Remix)'
+p96
+(dp97
+VDirty Paws (Kygo Remix)
+p98
+I228
+ssS'Firestone (Third Party Remix)'
+p99
+(dp100
+VFirestone (Third Party Private Remix)
+p101
+I379
+ssS'First Time '
+p102
+(dp103
+VFirst Time
+p104
+I5912
+ssS"I'm In Love"
+p105
+(dp106
+VI'm In Love
+p107
+I1531
+ssS'Stole The Show (Slice N Dice Bootleg)'
+p108
+(dp109
+VStole The Show (Slice N Dice Bootleg)
+p110
+I674
+ssS" I Don't Like You (Kygo Remix)"
+p111
+(dp112
+VI Don't Like You (Kygo Remix)
+p113
+I311
+ssS'Oasis (Unreleased Ver.)'
+p114
+(dp115
+VOasis - Demo
+p116
+I151
+sVOasis - Unreleased Ver.
+p117
+I895
+ssS'I See Fire (Kygo Remix)'
+p118
+(dp119
+VI See Fire (Kygo Remix)
+p120
+I18145
+ssS'Fragile'
+p121
+(dp122
+VFragile
+p123
+I1695
+ssS'Cut Your Teeth (Kygo Remix)'
+p124
+(dp125
+VCut Your Teeth (Kygo Remix)
+p126
+I6381
+ssS'High For This (Kygo Remix)'
+p127
+(dp128
+VHigh For This (Kygo Remix)
+p129
+I713
+ssS'Tired (Kygo Remix)'
+p130
+(dp131
+VTired (Kygo Remix)
+p132
+I6371
+ssS'Brother (Kygo Remix)'
+p133
+(dp134
+VBrother (Kygo Remix)
+p135
+I175
+ssS'Kygo Life'
+p136
+(dp137
+VKygo Life
+p138
+I2027
+ssS'Laber Bris'
+p139
+(dp140
+VLaber Bris
+p141
+I77
+ssS'CARRY ME'
+p142
+(dp143
+VCARRY ME
+p144
+I1923
+ssS'Nothing Left'
+p145
+(dp146
+VNothing Left
+p147
+I269
+ssS'Angels (Kygo Edit)'
+p148
+(dp149
+VAngels (Kygo Edit)
+p150
+I428
+ssS'I See Cali'
+p151
+(dp152
+VI See Cali 
+p153
+I2941
+ssS'Midnight (Kygo Remix)'
+p154
+(dp155
+VMidnight (Kygo Remix)
+p156
+I838
+ssS'Wildest Dreams'
+p157
+(dp158
+VWildest Dreams
+p159
+I94
+ssS'Limit To Your Love (Kygo Remix)'
+p160
+(dp161
+VLimit To Your Love (Kygo Remix)
+p162
+I124
+ssS'Got Me Thinkin (Kygo Remix)'
+p163
+(dp164
+VGot Me Thinkin (Kygo Remix)
+p165
+I1293
+ssS'Often (Kygo Remix)'
+p166
+(dp167
+VOften (Kygo Remix)
+p168
+I1366
+ssS'Stole the Show'
+p169
+(dp170
+VStole the Show
+p171
+I4263
+ssS'The Wilhelm Scream (Kygo Remix)'
+p172
+(dp173
+VThe Wilhelm Scream (Kygo Remix)
+p174
+I149
+ssS"Can't Afford It All (Kygo Remix)"
+p175
+(dp176
+VCan't Afford It All (Kygo Remix)
+p177
+I724
+ssS'Resolution (Kygo Edit)'
+p178
+(dp179
+VResolution (Kygo Edit)
+p180
+I230
+ssS'Cruise'
+p181
+(dp182
+VCruise
+p183
+I2419
+ssS'Let Her Go (Kygo Remix)'
+p184
+(dp185
+VLet Her Go (Kygo Remix)
+p186
+I752
+ssVPiano Jam (Alex Bay Vocal Version\uff09
+p187
+(dp188
+VPiano Jam (Alex Bay Vocal Version\uff09
+p189
+I449
+ssS'Dancer (Kygo Remix)'
+p190
+(dp191
+VDancer (Kygo Remix)
+p192
+I112
+ssS'Jolene (Kygo Edit)'
+p193
+(dp194
+VJolene (Kygo Edit)
+p195
+I150
+ss.

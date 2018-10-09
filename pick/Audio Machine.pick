@@ -1,0 +1,3821 @@
+(dp0
+S'Magnus'
+p1
+(dp2
+VSun and Steel
+p3
+I56
+sVRise of the Black Curtain
+p4
+I41
+sVProvidence
+p5
+I12
+sVRubicon
+p6
+I12
+sVMotoneuron
+p7
+I111
+sVMomentum
+p8
+I22
+sVReparation
+p9
+I17
+sVRed October
+p10
+I18
+sVSura
+p11
+I25
+sVSlipstream
+p12
+I19
+sVWars of Faith
+p13
+I210
+sVBeing Alive
+p14
+I20
+sVEnoch
+p15
+I10
+sVAtragon
+p16
+I15
+sVAll or Nothing
+p17
+I47
+sVFrozen Synapse
+p18
+I61
+sVBetween Heaven and Earth
+p19
+I21
+sVWhen It All Falls Down
+p20
+I695
+sVThe Lost Continent
+p21
+I13
+sVThe Final Hour
+p22
+I42
+sVQuantum
+p23
+I22
+sVRise of the Planets
+p24
+I75
+sVThe Origin of Species
+p25
+I70
+sVThe World Is Safe
+p26
+I15
+ssS'The Platinum Series I'
+p27
+(dp28
+VHouse of Cards (No Drums)
+p29
+I2
+sVCrimson Dei (build @ 1_17)
+p30
+I5
+sVDanuvius (build @ 1_41)
+p31
+I12
+sVDark Rider (No Choir) (build @ 2_05)
+p32
+I6
+sVDark Rider (build @ 2_05)
+p33
+I39
+sVAd Victoriam (No Choir) (build @ 1_29)
+p34
+I5
+sVCrimson Dei (No Choir) (build @ 1_17)
+p35
+I4
+sVThe Martyr (build @ 1_50)
+p36
+I2
+sVAd Victoriam Drums (build @ _45)
+p37
+I4
+sVHomeward Bound
+p38
+I2
+sVOath of Honor
+p39
+I5
+sVWaltz of the Dead
+p40
+I5
+sVShadow King (No Choir) (build @ 1_54)
+p41
+I5
+sVDemon Legions Drums (build @ _47)
+p42
+I4
+sVHouse of Cards
+p43
+I3
+sVMea Culpa (build @ 1_25)
+p44
+I4
+sVBlack Sunrise
+p45
+I20
+sVCaptain's Adventure
+p46
+I8
+sVThe Messenger NC
+p47
+I4
+sVThe Ghost Detective
+p48
+I5
+sVFirestorm (No Choir) (build @ 1_59)
+p49
+I44
+sVDanuvius (No Choir) (build @ 1_41)
+p50
+I11
+sVNordica Drums (build @ _49)
+p51
+I3
+sVAll Play, No Work
+p52
+I7
+sVMea Culpa Drums (build @ _49)
+p53
+I3
+sVHouse of Cards NC
+p54
+I3
+sVSacrifice
+p55
+I7
+sVFirestorm Drums (build @ 1_00)
+p56
+I4
+sVTerminus (build @ 1_27)
+p57
+I2
+sVDark Rider Drums (build @ 1_00)
+p58
+I5
+sVLeague of Darkness Drums (build @ 1_27)
+p59
+I3
+sVMaximus (No Choir) (build @ 1_12)
+p60
+I4
+sVMea Culpa (No Choir) (build @ 1_25)
+p61
+I3
+sVCaligula Drums (build @ _54)
+p62
+I3
+sVMaximus (build @ 1_12)
+p63
+I8
+sVGothicus Drums (build @ _48)
+p64
+I3
+sVDay of Reckoning (No Choir) (build @ 1_30)
+p65
+I3
+sVFunville
+p66
+I5
+sVNordica (build @ 1_18)
+p67
+I3
+sVGothicus (No Choir) (build @ 1_56)
+p68
+I3
+sVDay of Reckoning (build @ 1_30)
+p69
+I5
+sVShadow King (build @ 1_54)
+p70
+I4
+sVFinal Hope
+p71
+I2
+sVAd Victoriam (build @ 1_29)
+p72
+I10
+sVVigilantes Drums (build @ 1_44)
+p73
+I4
+sVThe Martyr (No Choir) (build @ 1_50)
+p74
+I3
+sVLeague of Darkness (No Choir) (build @ 2_10)
+p75
+I3
+sVMartyr Drums (build @ _50)
+p76
+I3
+sVRed Warrior (No Choir) (build @ 1_46)
+p77
+I6
+sVMen of Valor II NC
+p78
+I6
+sVMen of Valor II
+p79
+I19
+sVRed Warrior Drums (build @ 1_19)
+p80
+I3
+sVHolland's 2nd Opus
+p81
+I4
+sVThunderdome Drums (build @ 1_33)
+p82
+I4
+sVThunderdome (build @ 1_46)
+p83
+I25
+sVNordica (No Choir) (build @ 1_18)
+p84
+I3
+sVFirestorm (build @ 1_59)
+p85
+I12
+sVCrimson Dei Drums (build @ _49)
+p86
+I4
+sVThe Messenger
+p87
+I7
+sVHammer of the Gods II (build @ 1_19)
+p88
+I13
+sVMaximus Drums (build @ 1_11)
+p89
+I3
+sVFallen Soldiers (No Drums)
+p90
+I3
+sVCall to Arms II (No Choir) (build @ 1_23)
+p91
+I4
+sVConstantine NC
+p92
+I4
+sVGothicus (build @ 1_56)
+p93
+I4
+sVCaligula (No Choir) (build @ 1_12)
+p94
+I7
+sVHammer of the Gods II Drums (build @ _43)
+p95
+I4
+sVCall to Arms II (build @ 1_23)
+p96
+I4
+sVFallen Soldiers
+p97
+I3
+sVDemon Legions (No Choir) (build @ 1_26)
+p98
+I4
+sVWaltz of the Dead NC
+p99
+I5
+sVHammer of the Gods II (No Choir) (build @ 1_19)
+p100
+I4
+sVLibius Severus (No Choir) (build @ 1_22)
+p101
+I4
+sVDay of Reckoning Drums (build @ _48)
+p102
+I3
+sVCall to Arms II Drums (build @ 1_00)
+p103
+I3
+sVThunderdome (No Choir) (build @ 1_46)
+p104
+I8
+sVLibius Severus (build @ 1_22)
+p105
+I4
+sVFinal Hope (No Drums)
+p106
+I3
+sVWicked Witch
+p107
+I3
+sVCaligula (build @ 1_12)
+p108
+I4
+sVConstantine
+p109
+I5
+sVShadow King Drums (build @ 1_00)
+p110
+I4
+sVTerminus (No Choir) (build @ 1_27)
+p111
+I3
+sVCry Freedom
+p112
+I3
+sVDemon Legions (build @ 1_26)
+p113
+I5
+sVLibius Severus Drums (build @ 1_07)
+p114
+I3
+ssS'Trilogy'
+p115
+(dp116
+VLand of Shadows (Official Trailer Mix)
+p117
+I178
+sVDestiny Awaits
+p118
+I167
+sVSirens of Hyperion
+p119
+I136
+ssS'Worlds of Wonder'
+p120
+(dp121
+VBe Careful What You Wish For
+p122
+I6
+sVCuriouser and Curiouser
+p123
+I5
+sVWhat Seems Normal
+p124
+I2
+sVMorningrise
+p125
+I8
+sVWorlds of Wonder
+p126
+I7
+sVThe Fast and the Furriest
+p127
+I3
+sVUnruly Underlings
+p128
+I4
+sVAgainst All Odds
+p129
+I3
+sVPride of Our Ancestors
+p130
+I6
+sVBorne of Iron
+p131
+I2
+sVToil and Trouble
+p132
+I2
+sVDance of the Fireflies
+p133
+I7
+sVHeebie Jeebies
+p134
+I1
+sVFate's Compass
+p135
+I7
+sVMonster Realm
+p136
+I3
+sVFreaky Friday
+p137
+I3
+sVLicense to Kill
+p138
+I4
+sVThe Amulet
+p139
+I3
+sVDark Crusaders
+p140
+I4
+sVSecrets and Treasures
+p141
+I2
+sVNo Retreat, No Surrender
+p142
+I14
+sVSwashbuckling Spies
+p143
+I5
+sVI Pledge Allegiance
+p144
+I4
+sVGozer the Gozerian
+p145
+I2
+sVMagic Hour
+p146
+I5
+sVNorth Pole Express
+p147
+I4
+sVThe Midnight Circus
+p148
+I3
+sVTrue Love Always
+p149
+I6
+sVThe Wandmaker
+p150
+I8
+sVLullaby of the Siren
+p151
+I19
+sVTake Flight
+p152
+I53
+sVThe Land Beyond Time
+p153
+I2
+sVSun and Stars
+p154
+I21
+sVFestival of Light
+p155
+I28
+sVWildest Imagination
+p156
+I2
+sVPeculiar Magic
+p157
+I7
+sVThe Adventurer's Hymn
+p158
+I6
+ssS'Millennium'
+p159
+(dp160
+VUprising [No Choir]
+p161
+I3
+sVNew Beginning [Alt]
+p162
+I1
+sVPillars of Earth [Alt No Choir]
+p163
+I2
+sVAnd the Heavens Shall Tremble
+p164
+I5
+sVPillars of Earth [Alt]
+p165
+I1
+sVThe Last Immortal
+p166
+I4
+sVMillennium
+p167
+I12
+sVPillars of Earth
+p168
+I4
+sVTempest [No Choir]
+p169
+I2
+sV100 Years War
+p170
+I10
+sVBeyond the Clouds [No Choir]
+p171
+I3
+sVMission to the Unknown [No Choir]
+p172
+I21
+sVBeyond the Clouds
+p173
+I3
+sVAnd the Heavens Shall Tremble [No Choir]
+p174
+I3
+sVNew Beginning [No Choir]
+p175
+I5
+sVExistence [No Choir]
+p176
+I14
+sVUprising
+p177
+I7
+sVBeyond the Clouds [Alt No Choir]
+p178
+I2
+sV100 Years War [No Choir]
+p179
+I5
+sVMission to the Unknown
+p180
+I54
+sVThe Last Immortal [No Choir]
+p181
+I2
+sVMillennium [No Choir]
+p182
+I0
+sVNew Beginning [Alt No Choir]
+p183
+I3
+sVPillars of Earth [No Choir]
+p184
+I2
+sVExistence
+p185
+I6
+sVNew Beginning
+p186
+I14
+sVTriumph
+p187
+I7
+sVBeyond the Clouds [Alt]
+p188
+I2
+sVTriumph [No Choir]
+p189
+I1
+sVTempest
+p190
+I4
+ssS'Prototype'
+p191
+(dp192
+VWhen Hell Broke Loose [No Choir]
+p193
+I12
+sVSubsonic Fury
+p194
+I10
+sVBlack Star
+p195
+I86
+sVRite of Passage
+p196
+I17
+sVWhen Hell Broke Loose
+p197
+I12
+sVAngels of Anarchy
+p198
+I25
+sVCrysis
+p199
+I52
+sVHacktivist
+p200
+I9
+sVCerebral Mutiny
+p201
+I35
+sVFate of the World
+p202
+I20
+sVVirtual Suicide
+p203
+I10
+sVDoctor Satan
+p204
+I16
+sVTrixma
+p205
+I8
+sVTransmutation
+p206
+I18
+sVDigital Defiance
+p207
+I6
+sVBio Storm
+p208
+I10
+sVLone Wolf
+p209
+I10
+sVTraining Day
+p210
+I18
+sVSentient
+p211
+I46
+sVBeta Zone
+p212
+I11
+sVHidden Machines [No Choir]
+p213
+I7
+sVAndroid Automation
+p214
+I12
+sVProtosphere
+p215
+I20
+sVThe Running Man
+p216
+I16
+sVHidden Machines
+p217
+I7
+sVMainframe Blackout
+p218
+I9
+sV25th Century
+p219
+I17
+sVSupermind
+p220
+I20
+sVDisjointed
+p221
+I8
+sVFate of the World [No Choir]
+p222
+I10
+sVSentient [No Choir]
+p223
+I16
+sVCosmica
+p224
+I44
+sVEnd of Humanity [No Choir]
+p225
+I11
+sVGreatest Fall
+p226
+I198
+sVTronic Grit [No Orchestra]
+p227
+I9
+sVStronghold
+p228
+I9
+sVLife on Stars [No Choir]
+p229
+I6
+sVGiants of Destruction
+p230
+I14
+sVDivide and Conquer
+p231
+I11
+sVWelcome to the Chaos
+p232
+I24
+sVLife on Stars
+p233
+I13
+sVChariots of the Apocalypse
+p234
+I27
+sVForce of Nature [No Choir]
+p235
+I9
+sVX Theorem
+p236
+I13
+sVForce of Nature
+p237
+I14
+sVCoercion
+p238
+I21
+sVBang and Burn
+p239
+I17
+sVMecha Rebellion
+p240
+I43
+sVTronic Grit
+p241
+I15
+sVIn the Beginning
+p242
+I380
+sVDestination Moon
+p243
+I23
+sVGreatest Fall [No Choir]
+p244
+I11
+sVMission Command
+p245
+I18
+sVBlood in the Streets
+p246
+I14
+sVFight for Your Life
+p247
+I31
+sVClash of the Machines
+p248
+I41
+sVCybernated [Orchestral Version]
+p249
+I47
+sVCybernated
+p250
+I121
+sVMachine Overload
+p251
+I17
+sVTherma
+p252
+I40
+sVVicarious
+p253
+I27
+sVRapid Malfunction [No Orchestra]
+p254
+I10
+sVInsurgence
+p255
+I9
+sVEnd of Humanity
+p256
+I16
+sVVoid
+p257
+I12
+sVRapid Malfunction
+p258
+I12
+ssS'Helios'
+p259
+(dp260
+VFour Horsemen
+p261
+I7
+sVSirens of Hyperion
+p262
+I19
+sVHelios
+p263
+I36
+sVBirth of Atlantis
+p264
+I11
+sVMarch on the Black Gate
+p265
+I7
+sVRequiem of the Night
+p266
+I15
+sVLand of Shadows
+p267
+I16
+sVColossus
+p268
+I10
+sVRising Dawn
+p269
+I48
+sVColossus (Modern Mix)
+p270
+I5
+sVFarewell to Earth
+p271
+I13
+sVApollo s Triumph
+p272
+I2883
+sVKronos
+p273
+I5
+sVThe Odyssey
+p274
+I8
+sVPhoenix Rising
+p275
+I15
+sVSol Invictus
+p276
+I1012
+ssS'The Platinum Series III'
+p277
+(dp278
+VThe New World
+p279
+I87
+sVSinner's Prayer
+p280
+I9
+sVSiege Towers
+p281
+I27
+sVSiege Towers Drums
+p282
+I11
+sVPath to Freedom
+p283
+I62
+sVAtonement
+p284
+I15
+sVLegions of Doom Drums
+p285
+I8
+sVQuest for Peace
+p286
+I16
+sVHero's Journey
+p287
+I38
+sVHell's Battalion
+p288
+I55
+sVGuardians at the Gate
+p289
+I2380
+sVLady in the Water
+p290
+I13
+sVMiserere Nobis
+p291
+I5
+sVSouls in Waiting
+p292
+I6
+sVEterna
+p293
+I114
+sVWorlds Collide
+p294
+I44
+sVRedemption
+p295
+I270
+sVInductive Reasoning
+p296
+I36
+sVAbsolution
+p297
+I27
+sVBeyond Good and Evil
+p298
+I18
+sVRoad to Glory
+p299
+I130
+sVBreath and Life
+p300
+I93938
+sVRing of Secrets
+p301
+I11
+sVVisions of Utopia
+p302
+I7
+sVAge of Innocence
+p303
+I26
+sVLegions of Doom
+p304
+I1873
+sVArmy of Kings Drums
+p305
+I10
+sVLost Raiders
+p306
+I35
+sVIlluminati
+p307
+I73
+sVLost Generation
+p308
+I34
+sVThe Prophecy
+p309
+I104
+sVYearning
+p310
+I7
+sVMercenary Revolution
+p311
+I39
+sVHymn of the Rising
+p312
+I586
+sVPrelude of Dreams
+p313
+I64
+sVArmy of Kings
+p314
+I30
+sVWorlds Collide Drums
+p315
+I12
+sVLost Raiders Drums
+p316
+I15
+ssS'Drumscores'
+p317
+(dp318
+VBlastwave
+p319
+I2
+sVDead Zone
+p320
+I4
+sVHydra
+p321
+I4
+sVOdin's Wrath Sound Design
+p322
+I1
+sVBlacksmith of the Gods Drums
+p323
+I2
+sVShattered Head
+p324
+I1
+sVGlobal Domination
+p325
+I1
+sVCrushing Force Sound Design
+p326
+I1
+sVViolent Impulses Sound Design
+p327
+I1
+sVBlacksmith of the Gods Sound Design
+p328
+I1
+sVFinal Retribution Sound Design
+p329
+I1
+sVAchilles' Rage
+p330
+I3
+sVManticore
+p331
+I1
+sVEvil Temple Sound Design
+p332
+I0
+sVPillars of Hercules Drums
+p333
+I1
+sVSledgehammer Drums
+p334
+I1
+sVSupercollider Sound Design
+p335
+I1
+sVShattered Head Drums
+p336
+I2
+sVAchilles' Rage Drums
+p337
+I8
+sVHydra Alternate
+p338
+I2
+sVPillars of Hercules Sound Design
+p339
+I1
+sVRingwraith Sound Design
+p340
+I1
+sVDead Zone Sound Design
+p341
+I1
+sVNon Human Alternate
+p342
+I2
+sVManticore Drums
+p343
+I1
+sVLive for the Kill Drums
+p344
+I2
+sVViolent Impulses
+p345
+I1
+sVDeath Gauntlet Drums
+p346
+I1
+sVRagnarok Drums
+p347
+I1
+sVDrums of Fury
+p348
+I1
+sVPrimal Dawn
+p349
+I1
+sVPounded to Dust Drums
+p350
+I1
+sVFinal Retribution Drums
+p351
+I2
+sVSupercollider
+p352
+I3
+sVChains and Nails
+p353
+I3
+sVLive for the Kill
+p354
+I1
+sVCrushing Force Drums
+p355
+I1
+sVBerserker Drums
+p356
+I5
+sVBeast at the Door
+p357
+I2
+sVLive for the Kill Sound Design
+p358
+I2
+sVBeast at the Door Sound Design
+p359
+I1
+sVBeast at the Door Drums
+p360
+I2
+sVDead Zone Drums
+p361
+I1
+sVDrums of Fury Drums
+p362
+I4
+sVBrass Knuckles
+p363
+I1
+sVPummel
+p364
+I4
+sVBlacksmith of the Gods Alternate
+p365
+I1
+sVSledgehammer Sound Design
+p366
+I1
+sVEvil Temple Drums
+p367
+I4
+sVCrushing Force
+p368
+I1
+sVBlastwave Sound Design Alternate
+p369
+I6
+sVAttila the Hun
+p370
+I1
+sVBerserker Sound Design
+p371
+I2
+sVNon Human
+p372
+I1
+sVViolent Impulses Drums
+p373
+I1
+sVEarth Shaker Drums
+p374
+I49
+sVRagnarok Sound Design
+p375
+I1
+sVEarth Shaker
+p376
+I20
+sVManticore Sound Design
+p377
+I1
+sVBlacksmith of the Gods
+p378
+I1
+sVBlacksmith of the Gods Sound Design Alternate
+p379
+I1
+sVBerserker
+p380
+I7
+sVPounded to Dust Alternate
+p381
+I1
+sVBlastwave Sound Design
+p382
+I1
+sVWerewolf Drums
+p383
+I3
+sVDragons of Vengeance
+p384
+I1
+sVDeath Gauntlet
+p385
+I1
+sVEarth Shaker Sound Design
+p386
+I2
+sVWerewolf
+p387
+I2
+sVBlastwave Alternate
+p388
+I1
+sVChains and Nails Sound Design
+p389
+I2
+sVRagnarok
+p390
+I1
+sVFinal Retribution
+p391
+I3
+sVEvil Temple
+p392
+I1
+sVOdin's Wrath
+p393
+I1
+sVManticore No Vox
+p394
+I1
+sVViolent Impulses Sound Design Alternate
+p395
+I1
+sVPrimal Dawn Sound Design
+p396
+I1
+sVPounded to Dust
+p397
+I1
+sVBlades of Chaos
+p398
+I1
+sVSledgehammer
+p399
+I1
+sVWerewolf Sound Design
+p400
+I1
+sVChains and Nails Drums
+p401
+I2
+sVBrass Knuckles Drums
+p402
+I1
+sVBlastwave Drums
+p403
+I2
+sVDrums of Fury Sound Design
+p404
+I1
+sVSupercollider Drums
+p405
+I2
+sVRingwraith
+p406
+I1
+sVDeath Gauntlet Sound Design
+p407
+I1
+sVBrass Knuckles Sound Design
+p408
+I1
+sVRingwraith Drums
+p409
+I2
+sVPounded to Dust Sound Design
+p410
+I1
+sVPrimal Dawn Drums
+p411
+I1
+sVOdin's Wrath Drums
+p412
+I1
+sVHydra Sound Design
+p413
+I1
+sVAchilles' Rage Sound Design
+p414
+I3
+sVPrimal Dawn Alternate
+p415
+I1
+sVPillars of Hercules
+p416
+I2
+sVHydra Drums
+p417
+I1
+sVShattered Head Sound Design
+p418
+I1
+sVBlades of Chaos Drums
+p419
+I1
+sVBlades of Chaos Sound Design
+p420
+I1
+ssS'Decimus'
+p421
+(dp422
+VTangled Earth
+p423
+I30
+sVAshes of Time
+p424
+I1083
+sVLand of Ice and Fire
+p425
+I44
+sVDecimus
+p426
+I257
+sVAttack on the Winter Wall
+p427
+I31
+sVWarland's Fury
+p428
+I25
+sVForgive Us Our Trespasses
+p429
+I33
+sVTen Thousand Slain
+p430
+I27
+sVHope in Light
+p431
+I37
+sVObsidian
+p432
+I206
+sVVoyage of Dreams
+p433
+I368
+sVBy the Hand of the Mortal
+p434
+I28
+sVKingbreaker
+p435
+I45
+sVUnbroken
+p436
+I1883
+sVThe Lion's Heart
+p437
+I150
+ssS'Magnus B-Sides'
+p438
+(dp439
+VAvow
+p440
+I39
+sVSatori
+p441
+I33
+sVThe Legend of 1910
+p442
+I68
+sVCarpe Diem
+p443
+I20
+sVMagnetica X
+p444
+I55
+sVA Feast for Crows
+p445
+I36
+sVSmoke Screen
+p446
+I36
+sVGodspeed
+p447
+I89
+sVWide Open Sky
+p448
+I20
+sVWhen the Time Comes
+p449
+I25
+sVLight the Way
+p450
+I18
+sVUncharted Worlds
+p451
+I242
+ssS'Remixed'
+p452
+(dp453
+VGuardians At the Gate (Bruno Cariou Remix)
+p454
+I13
+sVLand of Shadows (Kelly Andrew Remix)
+p455
+I26
+sVPhoenix Rising (Cole Plante Remix)
+p456
+I41
+sVJudge and Jury (Paul Dinletir Remix)
+p457
+I18
+sVAbove and Beyond (RAC Remix)
+p458
+I34
+sVApollo's Triumph (Paul Dinletir Remix)
+p459
+I6194
+sVFire and Honor (Matt Lange Remix)
+p460
+I13
+sVDrakon's Empire (Witchman Remix)
+p461
+I13
+sVBreath and Life (Digweed Remix)
+p462
+I1463
+sVFour Horsemen (Martyn Corbet Remix)
+p463
+I8
+sVGuardians At the Gate (David García Díaz Remix)
+p464
+I29
+sVRuins of Nan Madol (Photek Remix)
+p465
+I16
+sVHelios (Witchman Remix)
+p466
+I20
+sVAkkadian Empire (Paul Dinletir Remix)
+p467
+I94
+sV10 Inch Nails (Alluxe Remix)
+p468
+I10
+sVReaching (White Sea Remix)
+p469
+I51
+sVBlood and Stone (Ivan Torrent Remix)
+p470
+I293
+sVTranscendence (Dawn Golden Remix)
+p471
+I21
+ssS'Champions Will Rise: Epic Music from the...'
+p472
+(dp473
+VDeep Heart
+p474
+I259
+sVEterna
+p475
+I46
+sVEquinox
+p476
+I110
+sVHymn of the Rising
+p477
+I63
+ssS'Deus Ex Machina'
+p478
+(dp479
+V10 Inch Nails (Full Mix)
+p480
+I2
+sVThe Truth (Full Mix)
+p481
+I2
+sVThermopylae (Full Mix)
+p482
+I20
+sVBrain Mismatch (NC Mix)
+p483
+I1
+sVApocalyptic Warnings (Orch Mix)
+p484
+I2
+sVThe Truth (ND Mix)
+p485
+I1
+sVBrain Mismatch (Sparse Mix)
+p486
+I1
+sVPhalanx (Industrial Mix)
+p487
+I1
+sVApocalyptic Warnings (Full Mix)
+p488
+I1
+sVJudge And Jury (Fury Mix)
+p489
+I1
+sVJudge And Jury (Sparse Mix)
+p490
+I1
+sVPandoras Box (Full Mix)
+p491
+I1
+sVLife Acquisition (D And B Mix)
+p492
+I2
+sVNomad (Orch Mix)
+p493
+I2
+sVAdoramus (NC Mix)
+p494
+I1
+sVPhalanx (Death Mix)
+p495
+I1
+sVAdoramus (ND Mix)
+p496
+I1
+sVSkinned (Full Mix)
+p497
+I1
+sVValhalla Rising (Death Mix)
+p498
+I1
+sVBrain Mismatch (D And B Mix)
+p499
+I1
+sVThermopylae (D And B Mix)
+p500
+I1
+sVThermopylae (Death Mix)
+p501
+I1
+sV19 Judge and Jury
+p502
+I2
+sVValhalla Rising (NC Mix)
+p503
+I1
+sVSpirit Within (Orch Mix)
+p504
+I1
+sVThe Truth (String Mix)
+p505
+I3
+sV10 Inch Nails (ND Mix)
+p506
+I2
+sVBrain Mismatch (ND Mix)
+p507
+I2
+sVMind Extractions (D And B Mix)
+p508
+I1
+sVMind Extractions (Full Mix)
+p509
+I2
+sVJudge And Jury (Industrial Mix)
+p510
+I1
+sVSpirit Within (Full Mix)
+p511
+I5
+sVAdoramus (Full Mix)
+p512
+I1
+sVApocalyptic Warnings (D And B Mix)
+p513
+I2
+sVThe Truth (Guitar Mix)
+p514
+I5
+sVAdoramus (D And B Mix)
+p515
+I1
+sVJudge And Jury (String Mix)
+p516
+I1
+sVAdoramus (Orch Mix)
+p517
+I2
+sVBrain Mismatch (Full Mix)
+p518
+I4
+sVLife Acquisition (Industrial Mix)
+p519
+I1
+sVPhalanx (Full Mix)
+p520
+I1
+sV10 Inch Nails (D And B Mix)
+p521
+I2
+sVAdoramus (Perc Mix)
+p522
+I1
+sVLife Acquisition (Orch Mix)
+p523
+I1
+sV10 Inch Nails (Orch Mix)
+p524
+I1
+sVPandoras Box (Industrial Mix)
+p525
+I1
+sVSkinned (D And B Mix)
+p526
+I1
+sVApocalyptic Warnings (Death Mix)
+p527
+I1
+sVNomad (Death Mix)
+p528
+I1
+sVPandoras Box (Death Mix)
+p529
+I1
+sVNomad (Full Mix)
+p530
+I9
+sV10 Inch Nails (NC Mix)
+p531
+I2
+sVValhalla Rising (Full Mix)
+p532
+I1
+sVKill Em All (Full Mix)
+p533
+I6
+sVJudge And Jury (D And B Mix)
+p534
+I1
+sVLife Acquisition (Full Mix)
+p535
+I1
+sVThermopylae (Orch Mix)
+p536
+I1
+sVKill Em All (Death Mix)
+p537
+I1
+ssS'Phantasm'
+p538
+(dp539
+VAvow [No Choir]
+p540
+I4
+sVSatori
+p541
+I11
+sVReparation [No Choir]
+p542
+I2
+sVOutward Bound [No Choir]
+p543
+I4
+sVSmoke Screen
+p544
+I10
+sVCarpe Diem [No Choir]
+p545
+I5
+sVSura [No Choir]
+p546
+I3
+sVReparation
+p547
+I47
+sVAvow
+p548
+I18
+sVFrozen Synapse [No Choir]
+p549
+I9
+sVEvasion
+p550
+I11
+sVSura
+p551
+I15
+sVSlipstream
+p552
+I40
+sVAscendance [No Choir]
+p553
+I3
+sVImpera [No Choir]
+p554
+I7
+sVSmoke Screen [No Choir]
+p555
+I5
+sVAscendance
+p556
+I10
+sVImpera
+p557
+I421
+sVOutward Bound
+p558
+I4
+sVWide Open Sky
+p559
+I15
+sVWhen The Time Comes
+p560
+I187
+sVFrozen Synapse
+p561
+I79
+sVSatori [No Choir]
+p562
+I3
+sVEvasion [No Choir]
+p563
+I5
+sVWhen The Time Comes [No Choir]
+p564
+I7
+sVSlipstream [No Choir]
+p565
+I2
+sVCarpe Diem
+p566
+I4
+sVOccupation [No Choir]
+p567
+I2
+sVWide Open Sky [No Choir]
+p568
+I5
+sVOccupation
+p569
+I10
+ssS'The Platinum Series II: Gladiators & Mon...'
+p570
+(dp571
+V13th Emperor (No Choir)
+p572
+I1
+sVGates of Rage (No Choir)
+p573
+I1
+sVRed Fog (No Choir)
+p574
+I1
+sVSlayers Attack (No Choir)
+p575
+I1
+sVThe Heretic (No Choir)
+p576
+I1
+sVGenghis Khan (No Choir)
+p577
+I1
+sVSlayers Attack
+p578
+I3
+sVRed Fog
+p579
+I1
+sVEnemy of the State
+p580
+I4
+sVDeath Eaters
+p581
+I1
+sVFurious Vengeance Drums
+p582
+I1
+sVThe Heretic
+p583
+I1
+sVUrban Warfare (No Drums)
+p584
+I1
+sVRise of the Empire
+p585
+I2
+sVLost and Forgotten
+p586
+I5
+sVBattle of the Kings (No Drums)
+p587
+I1
+sVShadowlands
+p588
+I1
+sVGod's Warriors
+p589
+I2
+sVSpartacus (No Choir)
+p590
+I1
+sVWar of the Vikings Drums
+p591
+I1
+sVKing of Sparta
+p592
+I45
+sVGates of Rage
+p593
+I1
+sVVampyren Drums
+p594
+I1
+sVSpartacus
+p595
+I2
+sV1313 AD (No Drums)
+p596
+I1
+sVGod's Warriors (No Choir)
+p597
+I1
+sVLegends of Victory (No Choir)
+p598
+I7
+sVKingdom Of Heaven Drums
+p599
+I1
+sV1313 AD
+p600
+I1
+sVFace-Off
+p601
+I1
+sVDeep Black Sea (No Choir)
+p602
+I1
+sVExodus (No Choir)
+p603
+I1
+sVShadowlands (No Drums)
+p604
+I1
+sVBlood and Glory (No Choir)
+p605
+I1
+sVGod's Warriors Drums
+p606
+I1
+sVKing of Sparta (No Choir)
+p607
+I1
+sVEnemy Assault
+p608
+I1
+sVKing of Sparta Drums
+p609
+I2
+sVThere Will Be Blood
+p610
+I1
+sVDeep Black Sea
+p611
+I1
+sVGenghis Khan
+p612
+I2
+sVGenghis Khan Drums
+p613
+I1
+sVImages of War (No Drums)
+p614
+I1
+sVShadowlands (No Choir)
+p615
+I1
+sVHannibal Rising
+p616
+I1
+sVDeath Eaters (No Choir)
+p617
+I1
+sVBlood and Glory Taikos
+p618
+I1
+sVPremonition (No Drums)
+p619
+I1
+sVUrban Warfare
+p620
+I11
+sVPremonition Drums
+p621
+I2
+sVCreatura
+p622
+I8
+sVThe Illusionist
+p623
+I1
+sV13th Emperor Drums
+p624
+I1
+sVExodus
+p625
+I1
+sVKingdom of Heaven (No Choir)
+p626
+I10
+sVThe Dark Knight
+p627
+I1
+sVEnemy of the State (No Drums)
+p628
+I1
+sVCreatura Drums
+p629
+I2
+sVCreatura (No Choir)
+p630
+I5
+sVBlood and Glory (No Drums)
+p631
+I1
+sVProject Treadstone
+p632
+I1
+sVRise of the Empire (No Choir)
+p633
+I1
+sVSpartacus Drums
+p634
+I1
+sVBattle of the Kings (No Choir)
+p635
+I1
+sVFurious Vengeance (No Choir)
+p636
+I1
+sVWar of the Vikings (No Choir)
+p637
+I1
+sVThe Dark Knight (No Drums)
+p638
+I1
+sVFurious Vengeance
+p639
+I1
+sVKingdom of Heaven
+p640
+I4
+sVWar of the Vikings
+p641
+I1
+sVHannibal Rising Drums
+p642
+I1
+sVFace-Off (No Choir)
+p643
+I1
+sVImages of War
+p644
+I29
+sVUrban Warfare (No Choir)
+p645
+I2
+sVPremonition (No Choir)
+p646
+I1
+sVDeep Black Sea (No Drums)
+p647
+I1
+sVThe Heretic Drums
+p648
+I1
+sVGates of Rage Drums
+p649
+I1
+sVMarch of the Undead
+p650
+I1
+sVPremonition
+p651
+I2
+sVImages of War (No Choir)
+p652
+I3
+sVVampyren
+p653
+I1
+sVLost and Forgotten (No Choir)
+p654
+I4
+sVBattle of the Kings Drums
+p655
+I1
+sVBlood and Glory
+p656
+I14
+sVSlayers Attack Drums
+p657
+I1
+sVBlood and Glory Taikos with Drone
+p658
+I1
+sVVampyren (No Choir)
+p659
+I1
+sVLegends of Victory
+p660
+I10
+sVLost and Forgotten (No Drums)
+p661
+I1
+sVThe Dark Knight (No Choir)
+p662
+I1
+sV13th Emperor
+p663
+I1
+sVEnemy of the State (No Choir)
+p664
+I1
+sVThe Illusionist (No Choir)
+p665
+I1
+sV1313 AD (No Choir)
+p666
+I1
+sVBattle of the Kings
+p667
+I1
+sVCounterintellegence
+p668
+I1
+ssS'The Last One'
+p669
+(dp670
+Vlast
+p671
+I49
+ssS'Origins'
+p672
+(dp673
+VUp to the Sky
+p674
+I7
+sVDestroyer
+p675
+I5
+sVHow the World Sees You (No Choir)
+p676
+I1
+sVForce Majeure
+p677
+I5
+sVThe End Is Near
+p678
+I4
+sVQuantum (No Vocal)
+p679
+I17
+sVMotoneuron
+p680
+I8
+sVAmethyst
+p681
+I11
+sVEnoch (No Choir)
+p682
+I1
+sVShadowfall
+p683
+I592
+sVMomentum
+p684
+I9
+sVMomentum (No Choir)
+p685
+I3
+sVEye of the Storm
+p686
+I3
+sVQuantum
+p687
+I131
+sVHow the World Sees You
+p688
+I3
+sVLimitless
+p689
+I4
+sVMotoneuron (No Choir)
+p690
+I3
+sVThe Future Is Upon Us
+p691
+I3
+sVHow the World Sees You (No Guitar, No Choir)
+p692
+I1
+sVAmethyst (No Choir)
+p693
+I1
+sVGodspeed (No Choir)
+p694
+I3
+sVShadowfall (No Choir)
+p695
+I29
+sVGodspeed
+p696
+I4
+sVQuantum (No Vocal, No Choir)
+p697
+I14
+sVContinuum
+p698
+I5
+sVFist of Steel
+p699
+I6
+sVWasted Souls
+p700
+I7
+sVDestination Earth
+p701
+I7
+sVFinal Assault
+p702
+I3
+sVEnoch
+p703
+I4
+sVReign of Chaos (No Choir)
+p704
+I2
+sVUncharted Worlds (No Choir)
+p705
+I2
+sVFire and Fury
+p706
+I4
+sVRaging Power (No Choir)
+p707
+I2
+sVFate of the Universe (No Choir)
+p708
+I1
+sVDestroyer (No Choir)
+p709
+I2
+sVReign of Chaos
+p710
+I5
+sVUp to the Sky (No Choir)
+p711
+I3
+sVDiscovery of Power (No Choir)
+p712
+I2
+sVThe Future Is Upon Us (No Choir)
+p713
+I2
+sVFist of Steel (No Choir)
+p714
+I3
+sVForce Majeure (No Choir)
+p715
+I3
+sVThe End Is Near (No Choir)
+p716
+I2
+sVThe Final Hour
+p717
+I13
+sVDiscovery of Power
+p718
+I6
+sVHow the World Sees You (No Guitar)
+p719
+I1
+sVRaging Power
+p720
+I1
+sVUncharted Worlds
+p721
+I11
+sVFate of the Universe
+p722
+I8
+sVDestination Earth (No Choir)
+p723
+I1
+ssS'Awakenings'
+p724
+(dp725
+VThe Fire Within
+p726
+I88
+sVHallowed Dawn (No Choir)
+p727
+I4
+sVTurning Point
+p728
+I16
+sVThe Legend Begins (No Choir)
+p729
+I9
+sVAcross the Horizon (No Choir)
+p730
+I11
+sVThe Great Unknown
+p731
+I11
+sVDay One
+p732
+I51
+sVTree of Life (No Choir)
+p733
+I347
+sVDay One (No Choir)
+p734
+I6
+sVEquinox (No Choir)
+p735
+I1466
+sVDay One (No Drums, No Choir)
+p736
+I5
+sVRebirth
+p737
+I11
+sVThe Fire Within (No Choir)
+p738
+I12
+sVRemember the Titans
+p739
+I8
+sVHomecoming (No Choir)
+p740
+I9
+sVAcross the Horizon
+p741
+I12
+sVHomecoming
+p742
+I12
+sVEquinox
+p743
+I60
+sVThe Legend Begins
+p744
+I121
+sVBreaking Through
+p745
+I32
+sVDay One (No Drums)
+p746
+I8
+sVRebirth (No Choir)
+p747
+I7
+sVOpen Range
+p748
+I23
+sVInto the Wild
+p749
+I17
+sVHallowed Dawn
+p750
+I43
+sVLeaving the Nest
+p751
+I10
+sVTree of Life
+p752
+I169
+ssS'Intros 2015'
+p753
+(dp754
+VSignal Processing [No Strings]
+p755
+I2
+sVLand of Tomorrow
+p756
+I3
+sVCaprica [No Choir]
+p757
+I5
+sVZero Hour
+p758
+I4
+sVStopwatch
+p759
+I5
+sVA New Age
+p760
+I203
+sVLiberation [No Choir]
+p761
+I3
+sVRally Cry
+p762
+I3
+sVMetropolis
+p763
+I3
+sVHall of Mirrors
+p764
+I8
+sVThe Search For Amanda
+p765
+I7
+sVHidden Worlds
+p766
+I2
+sVSuit Up [No Choir]
+p767
+I2
+sVRolling Thunder
+p768
+I3
+sVFever Dreams
+p769
+I4
+sVBlistered
+p770
+I3
+sVThe Walkers
+p771
+I3
+sVHostile Territory
+p772
+I3
+sVFreya
+p773
+I7
+sVOuter World
+p774
+I6
+sVEye of the Beholder
+p775
+I38
+sVLand of Tomorrow [No Vocal]
+p776
+I4
+sVTouch the Light
+p777
+I8
+sVAvenging The Fallen
+p778
+I4
+sVBatten Down the Hatches
+p779
+I3
+sVAntibody
+p780
+I3
+sVThose Before Us
+p781
+I1
+sVWaterboarded
+p782
+I4
+sVThe Seventh Fall
+p783
+I4
+sVThe Passage
+p784
+I2
+sVAntidote
+p785
+I4
+sVStanding Before Destiny
+p786
+I2
+sVSupermoon
+p787
+I12
+sVHope Springs Eternal
+p788
+I2
+sVThe Fixer
+p789
+I3
+sVPhantom Limb
+p790
+I7
+sVReturn of the King [No Choir]
+p791
+I1
+sVSpellcaster
+p792
+I2
+sVExecution Line
+p793
+I3
+sVThe Wonder Emporium [No Choir]
+p794
+I2
+sVThe Glass Slipper [No Choir]
+p795
+I1
+sVSignal Processing
+p796
+I6
+sVFuture War
+p797
+I4
+sVLonging
+p798
+I8
+sVThe Return Home
+p799
+I556
+sVWhite Noise
+p800
+I5
+sVInitiator
+p801
+I2
+sVEvent Horizon [No Strings]
+p802
+I4
+sVInner Strength
+p803
+I3
+sVParanormal Rescue
+p804
+I1
+sVFrostflower
+p805
+I3
+sVTribal Frenzy
+p806
+I7
+sVClairvoyance
+p807
+I2
+sVControlled Substance
+p808
+I2
+sVSuit Up
+p809
+I3
+sVHatching
+p810
+I5
+sVEye of Jupiter
+p811
+I6
+sVAutopsy
+p812
+I3
+sVMother of Dragons
+p813
+I5
+sVLost Galaxy
+p814
+I4
+sVAlgorithm
+p815
+I4
+sVAlternate Reality
+p816
+I4
+sVTesla Coil
+p817
+I5
+sVFirst Steps
+p818
+I5
+sVMisled
+p819
+I4
+sVCaprica
+p820
+I9
+sVEvent Horizon
+p821
+I3
+sVWinterfell
+p822
+I5
+sVBoiler Room
+p823
+I5
+sVIntuition
+p824
+I2
+sVEulogium
+p825
+I24
+sVThe Glass Slipper [Alternate Ending, No Choir]
+p826
+I1
+sVEverlasting Waltz
+p827
+I9
+sVChanging Heart
+p828
+I484
+sVThe Wonder Emporium [No Drums, No Choir]
+p829
+I1
+sVThe Voyage [No Choir]
+p830
+I1
+sVBlack Mirror
+p831
+I4
+sVPerimeter Search
+p832
+I5
+sVDust To Dust
+p833
+I5
+sVMalicious Intent
+p834
+I6
+sVDeath By Clocks
+p835
+I6
+sVTruth Will Out
+p836
+I5
+sVFor Our Fathers
+p837
+I5
+sVFate of the Colony
+p838
+I3
+sVHashiriya
+p839
+I2
+sVEverafter [No Strings]
+p840
+I70
+sVTime of Valor
+p841
+I1
+sVGracey Manor
+p842
+I9
+sVCosmos
+p843
+I3
+sVEverafter
+p844
+I16
+sVTime of Conquest
+p845
+I23
+sVPierce the Veil
+p846
+I12
+sVGut Check
+p847
+I4
+sVReturn to Mother Earth
+p848
+I2
+sVI Was the Rain
+p849
+I16
+sVIrradiated
+p850
+I4
+sVNowhere Is Safe
+p851
+I4
+sVI Was the Rain [No Vocal]
+p852
+I5
+sVShades of Black
+p853
+I2
+sVEveryday Miracle
+p854
+I3
+sVFight or Flight
+p855
+I3
+sVThe Incoming Tide
+p856
+I3
+sVThe Glass Slipper [Alternate Ending]
+p857
+I3
+sVLaunch of Orion
+p858
+I2
+sVRetaliation
+p859
+I5
+sVThe Wonder Emporium
+p860
+I4
+sVThe Glass Slipper
+p861
+I3
+sVShadows In The Sky
+p862
+I6
+sVWaiting For the Storm
+p863
+I3
+sVPermafrost
+p864
+I1
+sVMystery of Life
+p865
+I2
+sVAlive
+p866
+I5
+sVPresence of Mind
+p867
+I2
+sVWaking the Dead
+p868
+I1
+sVUnbound
+p869
+I2
+sVAt First Light
+p870
+I6
+sVSet Adrift
+p871
+I1
+sVThe Road Not Taken
+p872
+I4
+sVCelestia
+p873
+I3
+sVThe Wonder Emporium [No Drums]
+p874
+I1
+sVLiberation
+p875
+I12
+sVKaiju
+p876
+I4
+sVIdes of September
+p877
+I5
+sVFallen Heroes
+p878
+I3
+sVDeluge
+p879
+I5
+sVThe Double Cross
+p880
+I3
+sVFallen Heroes [No Vocal]
+p881
+I2
+sVSon of Sam
+p882
+I3
+sVA Final Decree
+p883
+I2
+sVFury Road
+p884
+I4
+sVBirth of the Galaxy
+p885
+I2
+sVFatal Glitch
+p886
+I3
+sVDeadly Choice
+p887
+I5
+sVParanormal Rescue [No Choir]
+p888
+I1
+sVAvenging The Fallen [No Choir]
+p889
+I2
+sVDecisive Change
+p890
+I4
+sVCritical Mass
+p891
+I2
+sVVanguard
+p892
+I2
+sVBrink of Extinction
+p893
+I2
+sVIdes of September [No Choir]
+p894
+I3
+sVPerpetual Circles
+p895
+I3
+sVSupermoon [No Strings]
+p896
+I4
+sVThe Voyage
+p897
+I55
+sVGalactica
+p898
+I3
+sVWalking Home
+p899
+I2
+sVHope Springs Eternal [No Choir]
+p900
+I2
+sVLast Transmission
+p901
+I4
+sVIn the Dust of This Planet
+p902
+I2
+sVWhile the City Sleeps
+p903
+I6
+sVYour Time Has Come
+p904
+I4
+sVMother of Dragons [No Vocal]
+p905
+I1
+sVReturn of the King
+p906
+I5
+ssS'Leviathan'
+p907
+(dp908
+VWar of the Ancients
+p909
+I6
+sVUsurper
+p910
+I12
+sVNemesis
+p911
+I53
+sVXerxes
+p912
+I5
+sVTaste of Blood
+p913
+I3
+sVSpawn
+p914
+I6
+sVOutlands
+p915
+I7
+sVShrine of Golgotha
+p916
+I59
+sVRuins of Asgard
+p917
+I7
+sVCharging the Keep
+p918
+I8
+sVDark Portal
+p919
+I4
+sVHenchmen
+p920
+I9
+sVPrometheus
+p921
+I3
+sVCataclysm
+p922
+I5
+sVCitadel of the Fallen
+p923
+I1
+sVJuggernaut
+p924
+I1
+sVHellfire
+p925
+I3
+sVFields of Strife
+p926
+I9
+sVCrucible
+p927
+I4
+ssS'Chronicles'
+p928
+(dp929
+VCreation
+p930
+I23
+sVDays In Hell
+p931
+I42
+sVAkkadian Empire
+p932
+I257
+sVHell's Battalion
+p933
+I104
+sVLachrimae
+p934
+I1307
+sVReaching
+p935
+I70
+sVEterna
+p936
+I24
+sVHouse Of Cards
+p937
+I37
+sVLost Empire
+p938
+I12
+sVBreath And Life
+p939
+I1535
+sVPath To Freedom
+p940
+I19
+sVHymn Of The Rising
+p941
+I11
+sVSands Of Time
+p942
+I23
+sVVeni Vedi Veci
+p943
+I22
+sVRedemption
+p944
+I25
+sVBlack Cauldron
+p945
+I583
+sVThe Messenger
+p946
+I69
+sVBeyond Good And Evil
+p947
+I15
+sVRed Warrior
+p948
+I45
+sVArmy Of Kings
+p949
+I51
+sVGuardians At The Gate
+p950
+I372
+sVLost Raiders
+p951
+I14
+sVLost Generation
+p952
+I63
+sVRoad To Glory
+p953
+I22
+sVBlood And Glory
+p954
+I216
+sVBattle Of The Kings
+p955
+I10
+sVLegions Of Doom
+p956
+I28
+sVDanuvius
+p957
+I13843
+ssS'Existence'
+p958
+(dp959
+V100 Years War
+p960
+I13
+sVThe Last Immortal
+p961
+I5
+sVDestroyer
+p962
+I5
+sVAnd the Heavens Shall Tremble
+p963
+I3
+sVUprising
+p964
+I17
+sVHow the World Sees You
+p965
+I10
+sVDestination Earth (Bonus Track)
+p966
+I11
+sVShadowfall
+p967
+I5072
+sVDiscovery of Power
+p968
+I8
+sVThe Future Is Upon Us
+p969
+I8
+sVMillennium
+p970
+I334
+sVAmethyst
+p971
+I12
+sVPillars of Earth
+p972
+I21
+sVExistence
+p973
+I55
+sVNew Beginning
+p974
+I51
+sVThe End Is Near (Bonus Track)
+p975
+I6
+sVMission to the Unknown
+p976
+I24
+sVTempest
+p977
+I9
+sVTriumph
+p978
+I16
+sVBeyond the Clouds
+p979
+I7
+ssS'Trailer Acts 1'
+p980
+(dp981
+VRuff Cut
+p982
+I24
+ssS'Final Fantasy VII: Advent Children'
+p983
+(dp984
+VVengeful Resurrection
+p985
+I16
+ssS'Big, Big and Bigger'
+p986
+(dp987
+VRiding the Leviathan
+p988
+I1
+sVMutiny
+p989
+I1
+sVFlatline
+p990
+I1
+sVThor's Thunder
+p991
+I2
+sVSkeletal Fracture
+p992
+I3
+sVDark Underworld
+p993
+I3
+sVThe Raveolution
+p994
+I1
+sVDeath Hunt
+p995
+I7
+sVFortitude
+p996
+I1
+sVPsycho Runner
+p997
+I2
+sVDescent into Hell
+p998
+I3
+sVTortured Onslaught
+p999
+I1
+sVDeath Toll
+p1000
+I2
+sVDepth of Insanity
+p1001
+I5
+sVBlunt Trauma
+p1002
+I1
+sVRelentless Psychosis
+p1003
+I1
+sVCodes of Engagement
+p1004
+I4
+sVFinal Destruction
+p1005
+I2
+sVHunting for Death
+p1006
+I1
+sVClash of the Titans
+p1007
+I2
+sVStorm Chaser
+p1008
+I1
+sVMurderous Trucker
+p1009
+I4
+sVRising from the Ashes
+p1010
+I7
+sVHellspawn
+p1011
+I1
+sVRequiem of Sacrifice
+p1012
+I8
+sVRaving Drive
+p1013
+I1
+sVPerseverance
+p1014
+I1
+sVDeadly Onslaught
+p1015
+I2
+sVKings Faith
+p1016
+I5
+sVBlades of Death
+p1017
+I9
+sVAbyssal Vortex
+p1018
+I4
+sVLeviathan
+p1019
+I1
+sVConspiracy Theory
+p1020
+I1
+sVHour of Discontent
+p1021
+I2
+sVDiabolical Supremacy
+p1022
+I1
+sVStep Off
+p1023
+I21
+sVHomicidal Piledriver
+p1024
+I1
+sVHigh Rollin
+p1025
+I4
+sVArch Nemesis
+p1026
+I3
+sVFists of Fury
+p1027
+I1
+sVMan Eating Beast
+p1028
+I3
+sVKing's Battalion
+p1029
+I2
+sVDemonic Purge
+p1030
+I3
+sVGothic Ritual
+p1031
+I1
+sVMen of Valor
+p1032
+I5
+sVFlesh from Bone
+p1033
+I1
+sVHypertension
+p1034
+I3
+sVAnaconda
+p1035
+I1
+sVIndestructible
+p1036
+I2
+sVRestitution
+p1037
+I3
+ssS'Titan'
+p1038
+(dp1039
+VThe Legend of 1910
+p1040
+I8
+sVLast Days of Man
+p1041
+I8
+sVMagnetica X
+p1042
+I192
+sVRise of the Black Curtain
+p1043
+I10
+sVProvidence
+p1044
+I3
+sVRubicon
+p1045
+I3
+sVYou Better Run
+p1046
+I8
+sVRed October
+p1047
+I10
+sVWars of Faith
+p1048
+I151
+sVCoriolis
+p1049
+I7
+sVA Good Time to Die
+p1050
+I14
+sVThe Price of Liberty
+p1051
+I9
+sVBeing Alive
+p1052
+I21
+sVAtragon
+p1053
+I6
+sVHereafter
+p1054
+I9
+sVInto Eternity
+p1055
+I11
+sVGods of War
+p1056
+I6
+sVA Feast for Crows
+p1057
+I5
+sVAll or Nothing
+p1058
+I18
+sVInfinite Sorrow
+p1059
+I24
+sVFortuna Mala
+p1060
+I2
+sVLight the Way
+p1061
+I3
+sVProject Genesis
+p1062
+I16
+sVBetween Heaven and Earth
+p1063
+I6
+sVLay Down Your Weapons
+p1064
+I6
+sVWhen It All Falls Down
+p1065
+I339
+sVThe Lost Continent
+p1066
+I6
+sVThe Moment of Truth
+p1067
+I3
+sVRise of the Planets
+p1068
+I22
+sVThe Origin of Species
+p1069
+I12
+sVPlanned Obsolescence
+p1070
+I13
+sVThe World Is Safe
+p1071
+I17
+ssS'Phenomena'
+p1072
+(dp1073
+VJourney Through the Portal (No Choir)
+p1074
+I4
+sVSeeds of Promise
+p1075
+I130
+sVWhispers of Wonders (No Choir)
+p1076
+I3
+sVDrakon's Empire (No Choir)
+p1077
+I2
+sVCrossing Destiny
+p1078
+I10
+sVDeep Heart
+p1079
+I8
+sVThe Last Ember (No Choir)
+p1080
+I3
+sVLegends of Destiny (No Choir)
+p1081
+I2
+sVLegacy of the Lost
+p1082
+I5
+sVIce of Phoenix (No Choir)
+p1083
+I11
+sVThe Last Ember
+p1084
+I8
+sVDeep Heart (No Choir)
+p1085
+I1
+sVRed Sorrow
+p1086
+I16
+sVGathering of the Clans
+p1087
+I37
+sVSeeds of Promise (No Choir)
+p1088
+I82
+sVJourney Through the Portal
+p1089
+I6
+sVCrossing Destiny (No Choir)
+p1090
+I9
+sVLegends of Destiny
+p1091
+I9
+sVWhispers of Wonders
+p1092
+I6
+sVFortress of Solitude (No Choir)
+p1093
+I2
+sVDrakon's Empire
+p1094
+I17
+sVGathering of the Clans (No Choir)
+p1095
+I13
+sVAbove and Beyond (No Choir)
+p1096
+I13
+sVFortress of Solitude
+p1097
+I7
+sVEpiphany
+p1098
+I7
+sVBlood and Stone
+p1099
+I211
+sVAbove and Beyond
+p1100
+I121
+sVLegacy of the Lost (No Choir)
+p1101
+I5
+sVLords of Lankhmar (No Choir)
+p1102
+I6
+sVGod of the Drow (No Choir)
+p1103
+I3
+sVEpiphany (No Choir)
+p1104
+I5
+sVGod of the Drow
+p1105
+I9
+sVBlood and Stone (No Choir)
+p1106
+I7
+sVIce of Phoenix
+p1107
+I159
+sVLords of Lankhmar
+p1108
+I22
+sVRed Sorrow (No Solo Vocal - No Choir)
+p1109
+I3
+sVRed Sorrow (No Solo Vocal)
+p1110
+I4
+ssS'The Platinum Series IV: Labyrinth'
+p1111
+(dp1112
+VBig Glory_NC
+p1113
+I0
+sVJustice League_NC
+p1114
+I0
+sVHall of Fame_NC
+p1115
+I0
+sVHowdie Neighbor
+p1116
+I1
+sVCreation_NC
+p1117
+I3
+sVVisions in a Dream_NC
+p1118
+I2
+sVVoyagerGhost_NC_
+p1119
+I0
+sVDoors of Perception_NC
+p1120
+I10
+sVWings of Wonder_NC
+p1121
+I1
+sVRat race
+p1122
+I2
+sVReaching
+p1123
+I375
+sVWarlords
+p1124
+I29
+sVNeverending story
+p1125
+I2
+sVSands of time
+p1126
+I9
+sVFantasia_NC
+p1127
+I1
+sVHope and Glory_NC
+p1128
+I4
+sVNeverending Story_NC
+p1129
+I0
+sVShenanigans
+p1130
+I2
+sVHope Returns_NC
+p1131
+I1
+sVBedknobs and Broomsticks
+p1132
+I3
+sVOpening Ceremony
+p1133
+I4
+sVLife's a Gas
+p1134
+I2
+sVMIlo and Otis
+p1135
+I2
+sVDawn of Discovery_NC
+p1136
+I0
+sVBarbarian's quest
+p1137
+I3
+sVSolstice Sun
+p1138
+I3
+sVKing Arthur
+p1139
+I7
+sVMad hatter
+p1140
+I15
+sVCrystal Ball
+p1141
+I1
+sVMr. Rascal's emporium
+p1142
+I2
+sVLost Empire_NC
+p1143
+I2
+sVSword of Omens_NC
+p1144
+I2
+sVReaching_NC
+p1145
+I6
+sVRadio Flyer
+p1146
+I2
+sVBlack cauldron
+p1147
+I16
+sVFountain of Youth
+p1148
+I3
+sVDoors of perception
+p1149
+I10
+sVMarch of the gremlins
+p1150
+I1
+sVBlack Cauldron_NC
+p1151
+I2
+sVApotheosis_NC
+p1152
+I3
+sVSolstice Sun_NC
+p1153
+I0
+sVHeart of the champion
+p1154
+I6
+sVLost empire
+p1155
+I8
+sVDreamtime Express
+p1156
+I3
+sVBedknobs and Broomsticks_NC
+p1157
+I1
+sVJustice league
+p1158
+I3
+sVValkyrie's Ascent_NC
+p1159
+I0
+sVKing Arthur_NC
+p1160
+I2
+sVMasters of Fate_NC
+p1161
+I3
+sVMr. Toad_NC
+p1162
+I1
+sVToon town
+p1163
+I1
+sVA Day in a Life
+p1164
+I3
+sVEnchantment
+p1165
+I1
+sVPower of the Sun
+p1166
+I2
+sVVisions in a Dream
+p1167
+I3
+sVIn A Small Town
+p1168
+I1
+sVAmerican Frontier_NC
+p1169
+I2
+sVAmerican Frontier
+p1170
+I8
+sVFantasia
+p1171
+I3
+sVBarbarian's Quest_NC
+p1172
+I2
+sVSpirit of the Stallion
+p1173
+I39
+sVAgent Cody
+p1174
+I4
+sVReady Set Go
+p1175
+I20
+sVWarlords_NC
+p1176
+I3
+sVSword of omens
+p1177
+I9
+sVHope returns
+p1178
+I4
+sVBig Glory
+p1179
+I10
+sVRomp till you drop
+p1180
+I4
+sVSands of Time_NC
+p1181
+I2
+sVDreamtime Express_NC
+p1182
+I1
+sVThe adventure begins
+p1183
+I3
+sVHope and Glory
+p1184
+I7
+sVVoyager ghost
+p1185
+I3
+sVSpirit of the Stallion_NC
+p1186
+I4
+sVMr. Toad
+p1187
+I2
+sVDawn of discovery
+p1188
+I2
+sVChamber of Secrets
+p1189
+I1
+sVAugustus gloop
+p1190
+I1
+sVHall of Fame
+p1191
+I4
+sVWings of Wonder
+p1192
+I1
+sVChamber of Secrets_NC
+p1193
+I1
+sVCreation
+p1194
+I2
+sVValkyrie's ascent
+p1195
+I2
+sVMasters of fate
+p1196
+I14
+sVApotheosis
+p1197
+I5
+sVCrystal Ball_NC
+p1198
+I1
+sVThe Secret Garden
+p1199
+I3
+sVBoy Meets Girl
+p1200
+I4
+ssS'Call of Duty: Advanced Warfare'
+p1201
+(dp1202
+VWheat from the Chaff
+p1203
+I3
+sVSee You on the Other Side
+p1204
+I12
+sVMitchell's Arm
+p1205
+I30
+sVEvasion
+p1206
+I10
+sVOld Town
+p1207
+I16
+sVManhunt
+p1208
+I10
+sVAtlas
+p1209
+I31
+sVSwarm Down
+p1210
+I15
+sVPrototype
+p1211
+I22
+sVInduction
+p1212
+I20
+sVCollapse
+p1213
+I15
+sVBetrayal
+p1214
+I4
+sVNo Soft Options
+p1215
+I9
+sVSentinel En Route
+p1216
+I3
+sVZulu-Tango
+p1217
+I11
+sVNot Our Problem
+p1218
+I12
+sVAdvanced Warfare
+p1219
+I34
+sVAftermath
+p1220
+I4
+sVFiring Range
+p1221
+I7
+sVYour Wars Don't Work
+p1222
+I11
+sVIncinerator
+p1223
+I7
+sVGrenade Training
+p1224
+I10
+sVBattle Cry
+p1225
+I26
+sVNew Baghdad
+p1226
+I4
+sVTest Chamber
+p1227
+I2
+sVCarrier
+p1228
+I7
+sVPower Changes Everything
+p1229
+I77
+sVLZ Epsilon
+p1230
+I13
+sVWe Are Atlas
+p1231
+I44
+sVA Glass Would Be a Start
+p1232
+I5
+sVDraconian Dream
+p1233
+I837
+sVJust One
+p1234
+I9
+sVTraffic Jam
+p1235
+I19
+sVHe Knows
+p1236
+I10
+sVOrientation
+p1237
+I10
+sVChain Reaction
+p1238
+I19
+sVEulogy for a Friend
+p1239
+I25
+sVAdvanced Soldier Overture
+p1240
+I304
+sVBlack Box
+p1241
+I5
+sVMech March
+p1242
+I3
+sVPreemptive Strike
+p1243
+I2
+sVExit Ride
+p1244
+I6
+sVArclight
+p1245
+I5
+sVXscape
+p1246
+I13
+sVDeath of a Savior
+p1247
+I18
+sVCaptured
+p1248
+I8
+ssS'Epica'
+p1249
+(dp1250
+VYoung Blood(No Choir)
+p1251
+I7
+sVPrologue & Birth(No Choir)
+p1252
+I4
+sVThe New Earth
+p1253
+I5807
+sVFlames Of War
+p1254
+I14
+sVTranscendence(No Choir)
+p1255
+I7
+sVEternal Flame(No Choir)
+p1256
+I13
+sVThe New Earth(No Choir)
+p1257
+I80
+sVFlames Of War(No Choir)
+p1258
+I7
+sVMaya
+p1259
+I17
+sVMaya(No Choir)
+p1260
+I8
+sVPrologue & Birth
+p1261
+I53
+sVKnights And Lords(No Choir)
+p1262
+I6
+sVFire And Honor(No Choir)
+p1263
+I3
+sVYoung Blood
+p1264
+I63
+sVFire And Honor
+p1265
+I269
+sVNameless Heroes(No Choir)
+p1266
+I7
+sVEternal Flame
+p1267
+I243
+sVKnights And Lords
+p1268
+I71
+sVTribes
+p1269
+I25
+sVEpica(No Choir)
+p1270
+I28
+sVTranscendence
+p1271
+I147
+sVTribes(No Choir)
+p1272
+I6
+sVNameless Heroes
+p1273
+I96
+sVEpica
+p1274
+I2369
+ssS'Tree of Life'
+p1275
+(dp1276
+VThe Fire Within
+p1277
+I256
+sVFinal Hope
+p1278
+I33
+sVThe New World
+p1279
+I38
+sVTurning Point
+p1280
+I83
+sVAshes to Ashes
+p1281
+I24
+sVLady in the Water (Bonus Track)
+p1282
+I13
+sVEquinox
+p1283
+I289
+sVThe Great Unknown
+p1284
+I15
+sVHope and Glory
+p1285
+I45
+sVDay One
+p1286
+I19
+sVSolstice Sun
+p1287
+I31
+sVRebirth
+p1288
+I107
+sVCry Freedom
+p1289
+I16
+sVRemember the Titans
+p1290
+I12
+sVAcross the Horizon
+p1291
+I27
+sVAn Unfinished Life
+p1292
+I2917
+sVAbove and Beyond
+p1293
+I2533
+sVAge of Innocence
+p1294
+I15
+sVHomecoming
+p1295
+I103
+sVPrelude of Dreams (Bonus Track)
+p1296
+I146
+sVBirth of Atlantis (Bonus Track)
+p1297
+I14
+sVThe Legend Begins
+p1298
+I115
+sVBreaking Through
+p1299
+I151
+sVThe Truth
+p1300
+I683
+sVApotheosis
+p1301
+I88
+sVLife Chronicles
+p1302
+I485
+sVHallowed Dawn
+p1303
+I30
+sVLeaving the Nest
+p1304
+I17
+sVTree of Life
+p1305
+I333
+ss.

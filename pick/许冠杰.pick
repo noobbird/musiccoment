@@ -1,0 +1,3779 @@
+(dp0
+V\u5ff5\u5974\u5a07
+p1
+(dp2
+V\u5148\u656c\u7f57\u8863\u540e\u656c\u4eba
+p3
+I74
+sV\u5080\u5121
+p4
+I13
+sV\u59cb\u7ec8\u88ab\u6101\u56f0
+p5
+I10
+sV\u597d\u666f\u81ea\u5df1\u53bb\u5bfb
+p6
+I12
+sV\u5c16\u6c99\u5480SUSIE
+p7
+I172
+sV\u5915\u9633
+p8
+I8
+sV\u63fe\u5622\u505a
+p9
+I341
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p10
+I49
+sV\u518d\u4f1a, \u9999\u6e2f
+p11
+I9
+sV\u53d1\u55e1\u98ce
+p12
+I18
+sV\u8fd9\u4e00\u66f2\u9001\u7ed9\u60a8
+p13
+I20
+sV\u6bcf\u4e8b\u95ee
+p14
+I9
+ssS'Super Sam'
+p15
+(dp16
+V\u963f\u90ce\u604b\u66f2
+p17
+I7
+sV\u6211\u6709\u4e00\u4e2a\u68a6
+p18
+I2
+sV\u4e24\u4e2a\u4e16\u754c
+p19
+I4
+sV\u6c89\u9ed8\u662f\u91d1
+p20
+I8
+sV\u5fc3\u91cc\u65e5\u8bb0
+p21
+I5
+sV\u5bc2\u5bde\u5723\u8bde
+p22
+I6
+sV\u6700\u7d27\u8981\u597d\u73a9
+p23
+I4
+sV\u7231\u60c5\u4fdd\u9669
+p24
+I3
+sV\u6211\u4fe1\u97f5\u5f8b\u5168\u80fd
+p25
+I2
+sVRadio\u597d\u77e5\u5df1
+p26
+I4
+sV\u65e5\u672c\u5a03\u5a03
+p27
+I12
+sV\u5b87\u5b99\u65e0\u9650
+p28
+I1
+sV\u73cd\u60dc
+p29
+I3
+sV\u7231\u662f\u65e0\u8a00
+p30
+I3
+sV\u65a4\u4e24\u5341\u8db3
+p31
+I397
+ssVBTB 3EP\u8bb8\u51a0\u6770
+p32
+(dp33
+V\u5fc3\u601d\u601d
+p34
+I104
+sV\u5fc3\u601d\u601d(DISCO REMIX)
+p35
+I25
+sV\u65a4\u4e24\u5341\u8db3(RADIO VERSION 2)
+p36
+I5
+sV\u6700\u7d27\u8981\u597d\u73a9(EXTENDED VERSION)
+p37
+I63
+sV\u65a4\u4e24\u5341\u8db3(RADIO VERSION 1)
+p38
+I7
+sV\u65a4\u4e24\u5341\u8db3(FULL VERSION)
+p39
+I19
+sV\u7231\u60c5\u4fdd\u9669 DISCO RE-MIX
+p40
+I18
+sV\u6700\u7d27\u8981\u597d\u73a9 (\u6405\u7b11\u7248\u672c)
+p41
+I30
+sV\u65a4\u4e24\u5341\u8db3(DISCO REMIX)
+p42
+I9
+ssV\u81f3\u5c0a\u91d1\u66f2\u7cbe\u9009 Vol.1
+p43
+(dp44
+V\u676f\u9152\u5f53\u6b4c
+p45
+I1
+sV\u534a\u65a4\u516b\u4e24
+p46
+I4
+sV\u4e16\u4e8b\u5982\u68cb
+p47
+I3
+sV\u8150\u673d\u5316\u795e\u5947
+p48
+I1
+sV\u6700\u4f73\u62cd\u6863
+p49
+I14
+sV\u8ddf\u4f62\u505a\u4e2aFriend
+p50
+I2
+sV\u94c1\u5854\u51cc\u4e91
+p51
+I5
+sV\u96be\u5fd8\u60a8
+p52
+I2
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb
+p53
+I3
+sV\u5370\u8c61
+p54
+I1
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p55
+I1
+sV\u7eb8\u8239
+p56
+I1
+sV\u53cc\u661f\u60c5\u6b4c
+p57
+I8
+sV\u662f\u96e8\u662f\u6cea
+p58
+I1
+sV\u5929\u624d\u767d\u75f4\u68a6
+p59
+I3
+sV\u6d6a\u5b50\u5fc3\u58f0
+p60
+I15
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p61
+I1
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p62
+I2
+ssV\u6700\u559c\u6b22\u4f60
+p63
+(dp64
+VChristina
+p65
+I5
+sV\u6700\u559c\u6b22\u4f60
+p66
+I20
+sV\u5fae\u98ce
+p67
+I5
+sV\u65e0\u654c\u662f\u7231 - \u7535\u5f71\u300a\u5168\u5bb6\u798f\u300b\u4e3b\u9898\u66f2
+p68
+I23
+sV\u6d3b\u5728\u4eca\u5929
+p69
+I6
+sV\u4f60\u662f\u8c01
+p70
+I7
+sV\u84dd\u725b\u4ed4\u88e4
+p71
+I4
+sV\u5fd8\u6389\u6211
+p72
+I5
+sV\u518d\u8c31\u65b0\u7231\u6b4c - \u7535\u5f71\u300a\u5168\u5bb6\u798f\u300b\u4e3b\u9898\u66f2
+p73
+I27
+sV\u6c99\u6ee9\u6d3e\u5bf9
+p74
+I5
+sV\u6d77\u62a5\u5973\u90ce
+p75
+I3
+sV\u5c0f\u8da3\u5473
+p76
+I13
+ssV'90\u7535\u5f71\u91d1\u66f2\u7cbe\u9009
+p77
+(dp78
+V\u5fc3\u601d\u601d
+p79
+I6
+sV\u6700\u7d27\u8981\u597d\u73a9
+p80
+I11
+sV\u534a\u65a4\u516b\u4e24
+p81
+I6
+sV\u4ea6\u7b97\u662f\u7f18\u4efd
+p82
+I7
+sV\u5b87\u5b99\u65e0\u9650
+p83
+I15
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p84
+I661
+sV\u8bdd\u77e5\u4f60'97
+p85
+I48
+sV\u4e24\u4e2a\u5bc2\u5bde\u4eba
+p86
+I10
+sV\u505a\u4e2a\u81ea\u7531\u4eba
+p87
+I13
+sV\u5929\u624d\u767d\u75f4\u68a6
+p88
+I9
+sV\u6d6a\u5b50\u5fc3\u58f0
+p89
+I10
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p90
+I5
+ssV\u96be\u5fd8\u8bb8\u51a0\u6770SAM HUI 30\u5e74
+p91
+(dp92
+VOne Tin Soldier
+p93
+I21
+sV\u96be\u5fd8\u60a8
+p94
+I49
+sV\u7b2c\u4e00\u9996\u4e2d\u6587\u6b4c\u8bcd
+p95
+I8
+sV\u4e00\u53a2\u60c5\u613f
+p96
+I4
+sV\u53cc\u661f\u60c5\u6b4c
+p97
+I12
+sV\u8bdd\u4f60\u77e5'97
+p98
+I7
+sV\u68a6\u8ffd(\u65e5\u8bed)
+p99
+I8
+sV\u8d22\u795e\u5230
+p100
+I39
+sV\u4ee3\u8868\u4f5c
+p101
+I6
+sV\u7b80\u5355, \u771f\u8bda
+p102
+I5
+sV\u55d2\u7cd6
+p103
+I7
+sV\u6700\u4f73\u62cd\u6863
+p104
+I26
+sV\u6211\u7231\u4f60
+p105
+I16
+sV\u64e6\u978b\u4ed4(Remix) - remix
+p106
+I23
+sV\u6d6a\u6f2b\u60c5\u6000
+p107
+I3
+sV\u7231\u60c5\u4fdd\u9669(Remix) - remix
+p108
+I2
+sV\u5370\u8c61
+p109
+I5
+sVRADIO\u597d\u77e5\u5df1
+p110
+I6
+sVYou Make Me Shine
+p111
+I3
+sV\u65a4\u4e24\u5341\u8db3(FULL VERSION)
+p112
+I1209
+sV\u7687\u8005\u4e4b\u98ce
+p113
+I7
+sV\u9732\u9aa8
+p114
+I2
+sV\u8fd9\u4e00\u66f2\u9001\u7ed9\u60a8
+p115
+I13
+sV\u534a\u65a4\u516b\u4e24(\u521b\u4e1a\u5174\u5bb6\u7248)
+p116
+I7
+sV\u5fc3\u601d\u601d(Remix) - remix
+p117
+I18
+sV\u94c1\u5854\u51cc\u4e91
+p118
+I546
+sV\u6700\u7d27\u8981\u597d\u73a9
+p119
+I568
+sV\u4eb2\u60c5
+p120
+I4
+sV\u8ddf\u4f62\u505a\u4e2a FRIEND
+p121
+I23
+sV\u7231\u5f97\u597d\u7d27\u8981
+p122
+I4
+sV\u597d\u597d\u5148\u751f
+p123
+I7
+sV\u5bc2\u5bde\u5723\u8bde
+p124
+I5
+sV\u7075\u9b42
+p125
+I4
+sV\u676f\u9152\u5f53\u6b4c
+p126
+I16
+sV\u7236\u6bcd\u6069
+p127
+I103
+sV\u6700\u597d\u5730\u65b9
+p128
+I11
+sV\u6211\u7231\u4f60(\u65e5\u8bed)
+p129
+I4
+sV\u534a\u65a4\u516b\u4e24
+p130
+I7
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p131
+I5
+sV\u521b\u65b0\u8d3a\u5e74\u6b4c
+p132
+I7
+sV\u4e24\u4e2a\u5bc2\u5bde\u4eba
+p133
+I49
+sV\u73cd\u60dc
+p134
+I3
+sV\u8857\u77e5\u5df7\u95fb
+p135
+I8
+ssV\u8bb8\u51a0\u6770 \u5de8\u661f\u4e4b\u521d-\u82f1\u6587\u4e13\u8f91\u5168\u96c6
+p136
+(dp137
+VSAVE YOUR HEART FOR ME - Album Version
+p138
+I0
+sVI'LL PAINT YOU A SONG - Album Version
+p139
+I0
+sVFAITHLESS LOVE - Album Version
+p140
+I0
+sVCAROLINA IN MY MIND - Album Version
+p141
+I0
+sVDANNY'S SONG - Album Version
+p142
+I0
+sVIF YOU COULD READ MY MIND - Album Version
+p143
+I0
+sVLOVE IS JUST A GAME - Album Version
+p144
+I1
+sVKICKS - Album Version
+p145
+I0
+sVNEW WORLD IN THE MORNING - Album Version
+p146
+I0
+sV"TAKE ME HOME, COUNTRY ROADS" - Album Version
+p147
+I4
+sVLAST THING ON MY MIND - Album Version
+p148
+I0
+sVKEEP SEARCHIN' - Album Version
+p149
+I1
+sVYOU AIN'T SEEN NOTHING YET - Album Version
+p150
+I0
+sVWHAT HAVE THEY DONE TO MY SONG MA - Album Version
+p151
+I0
+sVIT'S ONLY LOVE - Album Version
+p152
+I0
+sVSTAY A WHILE - Album Version
+p153
+I2
+sVI GOT A NAME - Album Version
+p154
+I1
+sVIT'S GONNA CHANGE - Album Version
+p155
+I0
+sVRIVERS ARE FOR BOATS - Album Version
+p156
+I0
+sVTAKE ME FOR WHAT I'M WORTH - Album Version
+p157
+I0
+sVTILL I MET YOU - Album Version
+p158
+I0
+sVINTERLUDE - Album Version
+p159
+I0
+sVCOME TOMORROW - Album Version
+p160
+I0
+sVTRAVELLING BOY - Album Version
+p161
+I2
+sVI'LL BE WAITING - Album Version
+p162
+I0
+sVTHINGS WE SAID TODAY - Album Version
+p163
+I1
+sVHOTEL CALIFORNIA - Album Version
+p164
+I2
+sVA CARNATION FOR REBU - Album Version
+p165
+I0
+sV"YESTERDAY, WHEN I WAS YOUNG" - Album Version
+p166
+I1
+sVPRIVATE EYES - Album Version
+p167
+I0
+sVTIME OF THE SEASON - Album Version
+p168
+I1
+sVBE MY VERY BEST FRIEND - Album Version
+p169
+I0
+sVMEDLEY :TIME OF THE SEASON - Album Version
+p170
+I0
+sVLUCY IN THE SKY WITH DIAMONDS - Album Version
+p171
+I1
+sVBE MY BABY - Album Version
+p172
+I1
+sVTHE LADY IS WAITING - Album Version
+p173
+I0
+sVAPRIL LADY - Album Version
+p174
+I0
+sVSPOONFUL OF SUGAR - Album Version
+p175
+I0
+sVJUST A LITTLE - Album Version
+p176
+I1
+sVEVERY FACE TELLS A STORY - Album Version
+p177
+I0
+sVSKYLINE PIGEON - Album Version
+p178
+I0
+sVDRIFETER'S SONG - Album Version
+p179
+I0
+sVTHEME FROM JEREMY - Album Version
+p180
+I0
+sVCUTE LITTLE JUNE - Album Version
+p181
+I0
+sVWAS A SUNNY DAY - Album Version
+p182
+I1
+sVREASON TO BELIEVE - Album Version
+p183
+I0
+sVSPACEMAN - Album Version
+p184
+I1
+sVPLEASE MR. POSTMAN - Album Version
+p185
+I2
+sVI SAW THE LIGHT - Album Version
+p186
+I0
+sVME AND THE ELEPHANT - Album Version
+p187
+I0
+sVCYCLES - Album Version
+p188
+I0
+sVBABY DON'T GET HOOKED ON ME - Album Version
+p189
+I0
+sVLOST HORIZON - Album Version
+p190
+I1
+sVSUNFLOWER - Album Version
+p191
+I0
+sVSTART ALL OVER AGAIN - Album Version
+p192
+I0
+sVSTREETS OF LONDON - Album Version
+p193
+I3
+sVSADDEST DAY - Album Version
+p194
+I1
+sVONE TIN SOLDIER - Album Version
+p195
+I0
+sVLET'S LIVE FOR TODAY - Album Version
+p196
+I0
+sVROLL OVER - Album Version
+p197
+I0
+sVSOME KIND OF WONDERFUL - Album Version
+p198
+I0
+sVSHE'S HEADED FOR THE COUNTRY - Album Version
+p199
+I0
+sVDON'T YOU CARE - Album Version
+p200
+I0
+sVTHE MORNING AFTER - Album Version
+p201
+I0
+sVTRULY JULIE'S BLUES - Album Version
+p202
+I0
+ssV\u7231\u5f97\u597d\u7d27\u8981
+p203
+(dp204
+V\u7231\u5f97\u597d\u7d27\u8981
+p205
+I9
+sV\u5fc3\u601d\u601d
+p206
+I1
+sV\u6f6e\u6d41\u5174\u5939Band
+p207
+I2
+sV\u4e24\u4e2a\u4e16\u754c
+p208
+I5
+sV\u6211\u7684\u59b9\u59b9
+p209
+I2
+sV\u6700\u7d27\u8981\u597d\u73a9
+p210
+I25
+sV\u7231\u60c5\u4fdd\u9669
+p211
+I6
+sV\u6a2a\u8d22\u68a6
+p212
+I4
+sV\u73cd\u60dc
+p213
+I1
+sV\u5b87\u5b99\u65e0\u9650
+p214
+I2
+sV\u65e5\u672c\u5a03\u5a03
+p215
+I12
+sV\u7231\u662f\u65e0\u8a00
+p216
+I4
+ssVSpaceman Came Travelling (\u5de8\u661f\u4e4b\u521d\u82f1\u6587\u4e13...
+p217
+(dp218
+VI Saw The Light
+p219
+I4
+sVStart All Over Again
+p220
+I3
+sVThings We Said Today
+p221
+I0
+sVMe And The Elephant
+p222
+I13
+sVSunflower
+p223
+I2
+sVA Spaceman Came Travelling
+p224
+I19
+sVBaby Don\u2019t Get Hooked On Me
+p225
+I2
+sVRivers Are For Boat
+p226
+I3
+sVHotel California
+p227
+I30
+sVDon\u2019t You Care
+p228
+I0
+sVFaithless Love
+p229
+I2
+sVEvery Face Tells A Story
+p230
+I2
+sVThe Lady Is Waiting
+p231
+I1
+ssV\u5929\u624d\u4e0e\u767d\u75f4
+p232
+(dp233
+V\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5(\u97f3\u4e50) - instrumental
+p234
+I17
+sV\u9f50\u9f50\u5531\u9996\u6b4c
+p235
+I19
+sV\u72ec\u4e0a\u897f\u697c
+p236
+I53
+sV\u60c5\u4eba\u79bb\u522b\u53bb
+p237
+I14
+sV\u9752\u6625\u68a6\u91cc\u4eba
+p238
+I26
+sV\u6545\u82d1\u6000\u65e7
+p239
+I14
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p240
+I467
+sV\u6b22\u4e50\u6843\u6e90
+p241
+I9
+sV\u5929\u624d\u767d\u75f4\u68a6
+p242
+I7225
+sV\u5929\u624d\u4e0e\u767d\u75f4
+p243
+I658
+sV\u5929\u624d\u767d\u75f4\u94b1\u94b1\u94b1
+p244
+I373
+sV\u83ab\u7b49\u5f85
+p245
+I160
+ssV\u8d22\u795e\u5230
+p246
+(dp247
+V\u67d4\u60c5\u6cea
+p248
+I15
+sV\u4f55\u5904\u89c5\u84ec\u83b1
+p249
+I54
+sV\u6211\u7231\u4f60
+p250
+I10
+sV\u9ebb\u96c0\u800d\u4e50 - "\u6253\u96c0\u82f1\u96c4\u4f20"\u7eed\u96c6
+p251
+I129
+sV\u4eca\u5bb5
+p252
+I7
+sV\u4e3a\u4f60
+p253
+I71
+sV\u7231
+p254
+I11
+sV\u94b1\u4f1a\u7ee7\u7eed\u569f
+p255
+I51
+sV\u5f80\u4e8b
+p256
+I10
+sV\u8d22\u795e\u5230
+p257
+I1047
+sV\u4f5b\u8df3\u5899
+p258
+I37
+sV\u54aa\u5f53\u6211\u8001\u4eb2
+p259
+I12
+ssV\u6469\u767b\u4fdd\u9556
+p260
+(dp261
+V\u7b11\u5413\u5c31\u7b97
+p262
+I6
+sV\u6469\u767b\u4fdd\u9556 - \u7535\u5f71\u300a\u6469\u767b\u4fdd\u9556\u300b\u4e3b\u9898\u66f2
+p263
+I49
+sV\u606d\u559c!\u606d\u559c!
+p264
+I14
+sV\u626e\u5622
+p265
+I27
+sV\u4eba\u529e
+p266
+I31
+sV\u5370\u8c61 - \u7535\u5f71\u300a\u6469\u767b\u4fdd\u9556\u300b\u63d2\u66f2
+p267
+I29
+sV\u751c\u871c\u7684\u5f80\u4e8b
+p268
+I9
+sV\u6b4c\u66f2\u89e3\u56f0\u5fe7
+p269
+I7
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p270
+I5
+sV\u957f\u6625\u4e0d\u8001
+p271
+I7
+sV\u9633\u5149
+p272
+I6
+sV\u6211\u95ee
+p273
+I9
+ssVThe Kings Of PolyGram\u963fSam &\u963fTam 87\u6f14\u5531...
+p274
+(dp275
+VAlan (Live / Medley 3)
+p276
+I13
+sVSam (Live / Medley 2)
+p277
+I7
+sV\u66fe\u7ecf (Live)
+p278
+I13
+sVSam (Live / Medley 1)
+p279
+I82
+sV\u4e00\u4e8e\u5c11\u7406/\u613f\u4f60\u63a5\u53d7/\u7231\u4eba\u3001\u5973\u795e (Live / Medley 1)
+p280
+I12
+sV\u5370\u8c61 (Live)
+p281
+I24
+sV\u5e7b\u5f71 (Live)
+p282
+I15
+sV\u6d6a\u5b50\u5fc3\u58f0 (Live)
+p283
+I33
+sV\u54aa\u5f53\u6211\u8001\u886c/\u4f5b\u8df3\u5899/\u94b1\u4f1a\u7ee7\u7eed\u569f (Live / Medley 3)
+p284
+I9
+sVAlan (Live / Medley 2)
+p285
+I21
+ssV\u8bb8\u51a0\u6770\u7684\u6545\u4e8b
+p286
+(dp287
+V\u5341\u4e2a\u5973\u4ed4
+p288
+I513
+sV\u5fc3\u91cc\u65e5\u8bb0
+p289
+I845
+sV\u96be\u5fd8\u60a8
+p290
+I7
+sV\u8bdd\u77e5\u4f60'97
+p291
+I17
+sV\u53cc\u661f\u60c5\u6b4c
+p292
+I14
+sV\u8d22\u795e\u5230
+p293
+I39
+sV\u5b66\u751f\u54e5
+p294
+I1124
+sV\u6d6a\u5b50\u5fc3\u58f0
+p295
+I40
+sV\u6211\u4fe1\u97f5\u5f8b\u5168\u80fd
+p296
+I9
+sV\u5370\u8c61
+p297
+I746
+sV\u5c16\u6c99\u5480Susie
+p298
+I21
+sVYou Make Me Shine
+p299
+I10
+sV\u6f6e\u6d41\u5174\u5939Band
+p300
+I17
+sV\u957f\u6625\u4e0d\u8001
+p301
+I14
+sV\u68a8\u6da1\u6d45\u7b11
+p302
+I67
+sV\u4e16\u4e8b\u5982\u68cb
+p303
+I289
+sV\u94c1\u5854\u51cc\u4e91
+p304
+I23
+sV\u52a0\u4ef7\u70ed\u6f6e
+p305
+I105
+sV\u5927\u5bb6\u8ddf\u4f4f\u5531
+p306
+I17
+sV\u9b3c\u9a6c\u53cc\u661f
+p307
+I175
+sV\u5b87\u5b99\u65e0\u9650
+p308
+I9
+sV\u6025\u6d41\u52c7\u9000
+p309
+I364
+sV\u6c89\u9ed8\u662f\u91d1
+p310
+I1299
+sV\u5356\u8eab\u5951
+p311
+I18
+sV\u534a\u65a4\u516b\u4e24
+p312
+I34
+sV\u8fd9\u4e00\u66f2\u9001\u7ed9\u60a8
+p313
+I148
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p314
+I22
+sV\u7eb8\u8239
+p315
+I12
+sVJust A Little
+p316
+I64
+sV\u6253\u96c0\u82f1\u96c4\u4f20
+p317
+I1306
+ssV\u5341\u516b\u7cbe\u9009
+p318
+(dp319
+V\u5b66\u751f\u54e5
+p320
+I10
+sV\u676f\u9152\u5f53\u6b4c
+p321
+I2
+sV\u6253\u96c0\u82f1\u96c4\u4f20
+p322
+I4
+sV\u8150\u673d\u5316\u795e\u5947
+p323
+I2
+sV\u6709\u9152\u4eca\u671d\u9189
+p324
+I5
+sV\u5148\u656c\u7f57\u8863\u540e\u656c\u4eba
+p325
+I3
+sV\u5e94\u8be5\u8981\u81ea\u7231
+p326
+I3
+sV\u6625\u68a6
+p327
+I1
+sV\u739b\u8389\uff0c\u6211\u597d\u949f\u610f\u4f60
+p328
+I3
+sV\u8ddf\u4f62\u505a\u4e2aFriend
+p329
+I2
+sV\u94c1\u5854\u51cc\u4e91
+p330
+I5
+sV\u534a\u65a4\u516b\u4e24
+p331
+I379
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb
+p332
+I2
+sV\u5341\u4e2a\u5973\u4ed4
+p333
+I3
+sVPretty Woman
+p334
+I2
+sV\u6d6a\u5b50\u5fc3\u58f0
+p335
+I6
+sV\u4f5b\u8df3\u5899
+p336
+I4
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p337
+I4
+ssS'Sam Hui'
+p338
+(dp339
+VTheme From Jeremy - Album Version
+p340
+I0
+sV\u963f\u90ce\u604b\u66f2
+p341
+I2
+sVA Carnation For Rebu - Album Version
+p342
+I0
+sV\u7231\u60c5\u4fdd\u9669 - Album Version
+p343
+I0
+sV\u5fc3\u91cc\u65e5\u8bb0 - Album Version
+p344
+I1
+sVYOU MAKE ME SHINE(\u4f60\u4ee4\u6211\u95ea\u8000) - Album Version
+p345
+I0
+sV\u6700\u7d27\u8981\u597d\u73a9
+p346
+I1
+sV\u7231\u662f\u65e0\u8a00 - Album Version
+p347
+I1
+sV\u73cd\u60dc - Album Version
+p348
+I0
+sV\u5fc3\u601d\u601d - Album Version
+p349
+I0
+sVJust A Little - Album Version
+p350
+I0
+sVSpoonful Of Sugar - Album Version
+p351
+I0
+sV\u5b87\u5b99\u65e0\u9650
+p352
+I0
+sV\u65e5\u672c\u5a03\u5a03 - Album Version
+p353
+I1
+sV\u4ea4\u7ec7\u5343\u4e2a\u5fc3 - Album Version
+p354
+I0
+sV\u6025\u6d41\u52c7\u9000 - Album Version
+p355
+I0
+sV\u6c89\u9ed8\u662f\u91d1 - Album Version
+p356
+I2
+ssV\u6c89\u9ed8\u662f\u91d1(\u5f15\u8fdb\u7248)
+p357
+(dp358
+V\u963f\u90ce\u604b\u66f2
+p359
+I64
+sV\u6211\u672a\u60ca\u8fc7
+p360
+I85
+sV\u4ea4\u7ec7\u5343\u4e2a\u5fc3
+p361
+I20
+sV\u6c89\u9ed8\u662f\u91d1
+p362
+I2721
+sV\u505a\u4eba\u8981\u8bc6Do
+p363
+I5
+sV\u9521\u6652\u4f60
+p364
+I323
+sV\u6211\u4fe1\u97f5\u5f8b\u5168\u80fd
+p365
+I6
+sV\u5b87\u5b99\u65e0\u9650
+p366
+I5
+sV\u672a\u80af\u653e\u5f03
+p367
+I9
+sV\u4ecd\u662f\u8981\u8d70
+p368
+I8
+ssV\u5fc3\u601d\u601d
+p369
+(dp370
+V\u5fc3\u601d\u601d
+p371
+I661
+sV\u5fc3\u601d\u601d(Remix) - remix
+p372
+I15
+sV\u65a4\u4e24\u5341\u8db3(Remix) - remix
+p373
+I5
+ssV\u96be\u5fd8\u60a8.\u7eb8\u8239
+p374
+(dp375
+V\u8ff7\u9014\u7684\u5c0f\u7f94\u7f8a
+p376
+I9
+sV\u6700\u4f73\u62cd\u6863
+p377
+I19
+sV\u6211\u50cf\u4e00\u7247\u4e91
+p378
+I2
+sV\u5341\u5168\u5341\u7f8e
+p379
+I5
+sV\u96be\u5fd8\u60a8
+p380
+I22
+sV\u662f\u60a8\u90a3\u4e00\u543b
+p381
+I3
+sV\u7eb8\u8239
+p382
+I550
+sV\u77e5\u803b\u8fd1\u4e4e\u52c7
+p383
+I17
+sV\u7231\u50cf\u9ec4\u660f
+p384
+I17
+sV\u5feb\u4e50
+p385
+I10
+sV\u6628\u5929
+p386
+I10
+ssV\u949c\u7247\u540d\u66f2\u9009
+p387
+(dp388
+V\u53cc\u661f\u60c5\u6b4c(\u4f34\u594f) - instrumental
+p389
+I2
+sV\u5fc3\u601d\u601d
+p390
+I5
+sV\u534a\u65a4\u516b\u4e24
+p391
+I14
+sV\u6469\u767b\u4fdd\u9556
+p392
+I4
+sV\u5356\u8eab\u5951
+p393
+I12
+sV\u5fc3\u91cc\u65e5\u8bb0
+p394
+I4
+sV\u8ddf\u4f62\u505a\u4e2aFriend
+p395
+I8
+sV\u6700\u7d27\u8981\u597d\u73a9
+p396
+I13
+sV\u676f\u9152\u5f53\u6b4c
+p397
+I7
+sV\u5370\u8c61
+p398
+I6
+sV\u53cc\u661f\u60c5\u6b4c
+p399
+I71
+sV\u9b3c\u9a6c\u53cc\u661f
+p400
+I8
+sV\u5929\u624d\u767d\u75f4\u68a6
+p401
+I16
+sV\u6d6a\u5b50\u5fc3\u58f0
+p402
+I3469
+sV\u5929\u624d\u4e0e\u767d\u75f4
+p403
+I10
+sV\u6700\u4f73\u62cd\u6863
+p404
+I7
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p405
+I3
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p406
+I16
+sV\u5929\u624d\u767d\u75f4\u94b1\u94b1\u94b1
+p407
+I7
+ssVK2HD \u91d1\u5531\u7247\u7cbe\u9009
+p408
+(dp409
+VStay Awhile
+p410
+I2
+sV\u534a\u65a4\u516b\u4e24
+p411
+I7
+sVThe Morning After
+p412
+I7
+sVTime Of The Season
+p413
+I1
+sV\u94c1\u5854\u51cc\u4e91
+p414
+I5
+sV\u6d6a\u5b50\u5fc3\u58f0
+p415
+I6
+sVTheme From Jeremy
+p416
+I3
+sVInterlude
+p417
+I1
+sV\u53cc\u661f\u60c5\u6b4c
+p418
+I10
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p419
+I8
+sV\u9b3c\u9a6c\u53cc\u661f
+p420
+I12
+sV\u5929\u624d\u767d\u75f4\u68a6
+p421
+I6
+sVStreets Of London
+p422
+I12
+sVLost Horizon
+p423
+I2
+sVTian Cai Yu Bai Chi
+p424
+I4
+ssV\u73cd\u60dc.....\u5f80\u65e5\u60c5
+p425
+(dp426
+V\u73cd\u60dc
+p427
+I3
+sV\u5f80\u65e5\u60c5 - Live
+p428
+I3
+sV\u4e24\u4e2a\u4e16\u754c - Live
+p429
+I1
+sV\u6c89\u9ed8\u662f\u91d1
+p430
+I5
+ssVMore\u2026Sam Hui (\u5de8\u661f\u4e4b\u521d\u82f1\u6587\u4e13\u8f91)
+p431
+(dp432
+VSpoonful Of Sugar
+p433
+I2
+sVPrivate Eyes
+p434
+I13
+sVYou Ain't Seen Nothing Yet
+p435
+I3
+sVSome Kind Of Wonderful
+p436
+I5
+sVI'll Be Waiting
+p437
+I3
+sVOne Tin Soldier
+p438
+I5
+sVBe My Very Best Friend
+p439
+I5
+sVDrifter's Song
+p440
+I11
+sVBe My Baby
+p441
+I6
+sVCute Little June
+p442
+I5
+sVSaddest Day
+p443
+I2
+sVJust A Little
+p444
+I7
+sVStreets Of London
+p445
+I14
+sVKicks
+p446
+I5
+ssV\u534a\u65a4\u516b\u4e24(\u8bb8\u51a0\u6770\u7ecf\u5178\u7535\u5f71\u539f\u58f0\u5927\u789f)
+p447
+(dp448
+V\u5b66\u751f\u54e5 - Album Version
+p449
+I5
+sV\u5171\u59b3\u5e38\u4e3a\u4f34 - Album Version
+p450
+I1
+sV\u5341\u5168\u5341\u7f8e - Album Version
+p451
+I2
+sV\u53cc\u661f\u60c5\u6b4c\u97f3\u4e50 - Instrumental
+p452
+I0
+sV\u65ad\u80a0\u68a6 - Album Version
+p453
+I0
+sV\u7b11\ue08d\u5c31\u7b97 - Album Version
+p454
+I0
+sV\u94c1\u5854\u51cc\u4e91 - Album Version
+p455
+I3
+sV\u5728\u56de\u5fc6\u4e2d
+p456
+I0
+sV\u5929\u624d\u767d\u75f4\u68a6 - Album Version
+p457
+I1
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u60a8 - Album Version
+p458
+I0
+sV\u76f8\u601d\u4e07\u5343\u91cd - Album Version
+p459
+I1
+sVSexy Girl - Album Version
+p460
+I0
+sV\u4e16\u4e8b\u5982\u68cb - Album Version
+p461
+I3
+sV\u96be\u5fd8\u60a8 - Album Version
+p462
+I0
+sV\u77e5\u803b\u8fd1\u4e4e\u52c7 - Album Version
+p463
+I0
+sV\u739b\u8389, \u6211\u597d\u949f\u610f\u60a8 - Album Version
+p464
+I2
+sV\u8ddf\u4f62\u505a\u4e2a FRIEND (\u7535\u5f71"\u6700\u4f73\u62cd\u6a94\u5927\u663e\u795e\u901a"\u6b4c \u66f2) - Album Version
+p465
+I3
+sV\u6253\u96c0\u82f1\u96c4\u4f20 - Album Version
+p466
+I2
+sV\u8fd9\u4e00\u79cd\u611f\u89c9 - Album Version
+p467
+I1
+sV\u5e94\u8be5\u8981\u81ea\u7231 - Album Version
+p468
+I0
+sV\u751c\u871c\u7684\u5f80\u4e8b - Album Version
+p469
+I1
+sV\u65e5\u672c\u5a03\u5a03 - Album Version
+p470
+I2
+sV\u6545\u82d1\u6000\u65e7 - Album Version
+p471
+I0
+sV\u6709\u9152\u4eca\u671d\u9189 - Album Version
+p472
+I0
+sV\u957f\u591c\u91cc\u7684\u76f8\u968f - Album Version
+p473
+I1
+sV\u7eb8\u8239 - Album Version
+p474
+I0
+sV\u81ea\u4ece\u60a8\u4e00\u53bb
+p475
+I0
+sV\u6700\u7d27\u8981\u597d\u73a9(\u7535\u5f71"\u6253\u5de5\u7687\u5e1d"\u6b4c\u66f2) - Album Version
+p476
+I0
+sV\u661f\u591c - Album Version
+p477
+I2
+sV\u996e\u80dc - Album Version
+p478
+I1
+sV\u6628\u5929 - Album Version
+p479
+I0
+sV\u5370\u8c61 - Album Version
+p480
+I3
+sV\u7231\u97f5
+p481
+I0
+sV\u821e\u4f34 - Album Version
+p482
+I0
+sV\u662f\u60a8\u90a3\u4e00\u543b - Album Version
+p483
+I0
+sV\u5feb\u4e50 - Album Version
+p484
+I1
+sV\u5356\u8eab\u5951 - Album Version
+p485
+I2
+sV\u5fc3\u91cc\u65e5\u8bb0 - Album Version
+p486
+I10
+sV\u6211\u50cf\u4e00\u7247\u4e91 - Album Version
+p487
+I0
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb - Album Version
+p488
+I2
+sV\u9752\u6625\u68a6\u91cc\u4eba - Album Version
+p489
+I0
+sV\u591c\u96e8\u58f0 - Album Version
+p490
+I0
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5(\u97f3\u4e50) - Album Version
+p491
+I0
+sVBu Xiang Zhi Dou - Album Version
+p492
+I0
+sV\u4eba\u751f\u7684\u9053\u8def - Album Version
+p493
+I2
+sV\u9b3c\u9a6c\u53cc\u661f (\u7535\u5f71"\u9b3c\u9a6c\u53cc\u661f"\u6b4c\u66f2) - Album Version
+p494
+I0
+sV\u832b\u832b\u524d\u8def
+p495
+I0
+sV\u53cc\u661f\u60c5\u6b4c - Album Version
+p496
+I0
+sV\u83ab\u7b49\u5f85 - Album Version
+p497
+I1
+sV\u7236\u6bcd\u6069 - Album Version
+p498
+I1
+sV\u771f\u7684\u7231\u4f60 - Album Version
+p499
+I0
+sV\u6700\u4f73\u62cd\u6a94(\u7535\u5f71"\u6700\u4f73\u62cd\u6a94"\u6b4c\u66f2) - Album Version
+p500
+I5
+sV\u6ce1\u5f71
+p501
+I0
+sV\u662f\u96e8?\u662f\u6cea?
+p502
+I1
+sV\u9f50\u9f50\u5531\u9996\u6b4c - Album Version
+p503
+I1
+sV\u6469\u767b\u4fdd\u9573 - Album Version
+p504
+I0
+sVPretty Woman - Album Version
+p505
+I1
+sV\u7f8e\u4e3d\u7684\u7247\u6bb5
+p506
+I1
+sV\u676f\u9152\u5f53\u6b4c - Album Version
+p507
+I2
+sV\u534a\u65a4\u516b\u4e24(\u7535\u5f71"\u534a\u65a4\u516b\u4e24"\u6b4c\u66f2) - Dian Ying (Ban Jin Ba Liang) Ge Qu / Album Version
+p508
+I2
+sV\u6b22\u4e50\u6843\u6e90 - Album Version
+p509
+I0
+sV\u957f\u6625\u4e0d\u8001 - Album Version
+p510
+I0
+sV\u5929\u624d\u4e0e\u767d\u75f4 - Album Version
+p511
+I3
+sV\u5927\u5bb6\u8ddf\u4f4f\u5531 - Album Version
+p512
+I0
+sV\u68a8\u6da1\u6d45\u7b11 - Album Version
+p513
+I0
+sV\u65e0\u60c5\u591c\u51b7\u98ce - Album Version
+p514
+I1
+sV\u7537\u513f\u6c49 - Album Version
+p515
+I0
+sV\u771f\u91d1\u4e0d\u6015\u718a\u7089\u706b - Album Version
+p516
+I0
+sV\u7231\u60c5\u4fdd\u9669 - Album Version
+p517
+I0
+sV\u606d\u559c, \u606d\u559c - Album Version
+p518
+I0
+sV\u6625\u68a6\u826f\u5bb5 - Album Version
+p519
+I2
+sV\u6211\u95ee - Album Version
+p520
+I0
+sV\u591c\u534a\u8f7b\u79c1\u8bed - Album Version
+p521
+I0
+sVMEDLEY (\u9b3c\u9a6c\u5927\u5bb6\u4e50) - Medley / Album Version
+p522
+I0
+sV\u626e? - Album Version
+p523
+I0
+sV\u4eba\u529e - Album Version
+p524
+I1
+sV\u8ffd\u6c42\u4e09\u90e8\u66f2 - Album Version
+p525
+I1
+sVMEDLEY : \u4e00\u6c34\u9694\u5929\u6daf / \u7231\u4f60\u4e09\u767e\u516d\u5341\u5e74 - Album Version
+p526
+I0
+sV\u7b49\u7389\u4eba - Album Version
+p527
+I0
+sV\u60c5\u4eba\u79bb\u522b\u53bb - Album Version
+p528
+I3
+sV\u7231\u5230\u5fc3\u9707 - Album Version
+p529
+I2
+sV\u62dc\u62dc - Album Version
+p530
+I0
+sV\u5929\u624d\u767d\u75f4\u94b1\u94b1\u94b1 - Album Version
+p531
+I1
+sV\u6b4c\u66f2\u89e3\u56f0\u5fe7 - Album Version
+p532
+I0
+sV\u72ec\u4e0a\u897f\u697c - Album Version
+p533
+I1
+sV\u8ff7\u9014\u7684\u5c0f\u7f94\u7f8a - Album Version
+p534
+I1
+sV\u5236\u6c34\u6b4c - Album Version
+p535
+I0
+sV\u6d41\u6c34\u6068 - Album Version
+p536
+I0
+sV\u592a\u7a7a\u821e - Album Version
+p537
+I1
+sV\u6d6a\u5b50\u5fc3\u58f0 - \u7535\u5f71\u300c\u534a\u65a4\u516b\u4e24\u300d\u6b4c\u66f2 - Dian Ying (Ban Jin Ba Liang) Ge Qu / Album Version
+p538
+I1
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5 - Album Version
+p539
+I2
+sV\u7231\u50cf\u9ec4\u660f - Album Version
+p540
+I0
+sV\u9633\u5149 - Album Version
+p541
+I0
+sV\u751c\u871c\u4f34\u4fa3 - Album Version
+p542
+I0
+ssV\u771f\u7ecf\u5178 - \u8bb8\u51a0\u6770
+p543
+(dp544
+VI'll Be Waiting - Album Version
+p545
+I0
+sV\u676f\u9152\u5f53\u6b4c - Album Version
+p546
+I0
+sV\u7eb8\u8239 - Album Version
+p547
+I0
+sV\u534a\u65a4\u516b\u4e24(\u7535\u5f71"\u534a\u65a4\u516b\u4e24"\u6b4c\u66f2) - Dian Ying (Ban Jin Ba Liang) Ge Qu / Album Version
+p548
+I0
+sV\u9b3c\u9a6c\u53cc\u661f (\u7535\u5f71"\u9b3c\u9a6c\u53cc\u661f"\u6b4c\u66f2) - Album Version
+p549
+I1
+sVYOU MAKE ME SHINE(\u4f60\u4ee4\u6211\u95ea\u8000) - Album Version
+p550
+I0
+sV\u96be\u5fd8\u60a8 - Album Version
+p551
+I0
+sV\u94c1\u5854\u51cc\u4e91 - Album Version
+p552
+I0
+sVInterlude - Album Version
+p553
+I0
+sV\u6d6a\u5b50\u5fc3\u58f0 - \u7535\u5f71\u300c\u534a\u65a4\u516b\u4e24\u300d\u6b4c\u66f2 - Dian Ying (Ban Jin Ba Liang) Ge Qu / Album Version
+p554
+I1
+sVJust A Little - Album Version
+p555
+I0
+sV\u5370\u8c61 - Album Version
+p556
+I0
+sV\u5929\u624d\u767d\u75f4\u68a6 - Album Version
+p557
+I0
+sV\u6025\u6d41\u52c7\u9000 - Album Version
+p558
+I0
+sV\u53cc\u661f\u60c5\u6b4c - Album Version
+p559
+I0
+sV\u7236\u6bcd\u6069 - Album Version
+p560
+I0
+ssV\u8bb8\u51a0\u6770\u7cbe\u9009
+p561
+(dp562
+V\u676f\u9152\u5f53\u6b4c
+p563
+I185
+sV\u534a\u65a4\u516b\u4e24
+p564
+I18
+sV\u4e16\u4e8b\u5982\u68cb
+p565
+I17
+sV\u8150\u673d\u5316\u795e\u5947
+p566
+I10
+sV\u6700\u4f73\u62cd\u6863
+p567
+I1375
+sV\u8ddf\u4f62\u505a\u4e2aFriend
+p568
+I317
+sV\u94c1\u5854\u51cc\u4e91
+p569
+I9
+sV\u96be\u5fd8\u60a8
+p570
+I14
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb
+p571
+I364
+sV\u5370\u8c61
+p572
+I58
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p573
+I17
+sV\u7eb8\u8239
+p574
+I41
+sV\u53cc\u661f\u60c5\u6b4c
+p575
+I64
+sV\u662f\u96e8\u662f\u6cea
+p576
+I188
+sV\u5929\u624d\u767d\u75f4\u68a6
+p577
+I156
+sV\u6d6a\u5b50\u5fc3\u58f0
+p578
+I27
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p579
+I13
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p580
+I7
+ssV\u8bb8\u51a0\u6770\u6781\u54c1\u4e4b\u90092
+p581
+(dp582
+V\u67d4\u60c5\u6cea
+p583
+I8
+sV\u4f55\u5904\u89c5\u84ec\u83b1
+p584
+I9
+sV\u591c\u96e8\u58f0
+p585
+I4
+sV\u662f\u96e8\uff1f\u662f\u6cea\uff1f
+p586
+I12
+sV\u5fc3\u91cc\u65e5\u8bb0
+p587
+I5
+sV\u6625\u68a6
+p588
+I5
+sV\u4e3a\u4f60
+p589
+I3
+sV\u6625\u68a6\u826f\u5bb5
+p590
+I8
+sV\u7b49\u7389\u4eba
+p591
+I4
+sV\u65ad\u80a0\u68a6
+p592
+I5
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p593
+I2
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p594
+I4
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p595
+I4
+sV\u72ec\u4e0a\u897f\u697c
+p596
+I4
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p597
+I45
+sV\u6211\u7231\u4f60(\u9648\u79cb\u971e\u5408\u5531)
+p598
+I1
+ssV\u70ed\u529b\u4e4b\u51a0
+p599
+(dp600
+V\u9700\u8981\u4f60
+p601
+I3
+sV\u5fc3\u601d\u601d
+p602
+I5
+sV\u4e24\u4e2a\u4e16\u754c
+p603
+I6
+sV\u6000\u4f24
+p604
+I5
+sV\u7231\u60c5\u9003\u72af
+p605
+I4
+sV\u6211\u7684\u59b9\u59b9
+p606
+I5
+sV\u7231\u5728\u522b\u79bb\u65f6
+p607
+I6
+sV\u4eb2\u7231\u7684
+p608
+I4
+sV\u6b22\u7b11\u5427!Rosemary
+p609
+I9
+sV\u64e6\u978b\u4ed4
+p610
+I6
+ssS'Sam and Friends'
+p611
+(dp612
+V\u4ea4\u7ec7\u5343\u4e2a\u5fc3
+p613
+I9
+sV\u6109\u5feb\u7686\u56e0\u4f60
+p614
+I5
+sV\u4f60\u6709\u4f60\u8bb2 (\u4f62\u6709\u4f62\u8bb2)
+p615
+I47
+sV\u6c89\u9ed8\u662f\u91d1
+p616
+I51
+sV\u795e\u79d8\u5973\u5b50
+p617
+I4
+sV\u4e0d\u901f\u4e4b\u5ba2
+p618
+I7
+sV\u4ed6\u7684\u4e0b\u534a\u751f
+p619
+I7
+sV\u8fd9\u4e00\u4e2a\u65e5\u5b50
+p620
+I6
+sV\u6211\u662f\u592a\u7a7a\u4eba
+p621
+I54
+sV\u4e0d\u8981\u95ee
+p622
+I10
+ssV\u6f6e\u6d41\u5174\u5939Band
+p623
+(dp624
+V\u6084\u7136\u79bb\u53bb
+p625
+I4
+sV\u6a2a\u8d22\u68a6 - \u7535\u5f71\u300a\u6a2a\u8d22\u4e09\u5343\u4e07\u300b\u4e3b\u9898\u66f2
+p626
+I89
+sV\u6b66\u58eb\u7cbe\u795e
+p627
+I5
+sV\u505a\u4eba\u8981\u8bc6Do
+p628
+I8
+sV\u5b87\u5b99\u65e0\u9650 - \u7535\u5f71\u300a\u536b\u65af\u7406\u300b\u63d2\u66f2
+p629
+I6
+sV\u95f7\u5230\u900f
+p630
+I8
+sV\u661f\u7a7a\u5947\u9047
+p631
+I10
+sV\u7686\u56e0\u4f60\u5187\u5f97\u5f39
+p632
+I5
+sV\u7231\u662f\u65e0\u8a00
+p633
+I15
+sV\u6f6e\u6d41\u5174\u5939Band
+p634
+I9
+sV\u5c01\u4f62\u505a\u5076\u50cf
+p635
+I30
+ssVThe Morning After (\u5de8\u661f\u4e4b\u521d\u82f1\u6587\u4e13\u8f91)
+p636
+(dp637
+VBycles
+p638
+I1
+sVStay Awhile
+p639
+I5
+sVWhat Have They Done To My Song Ma
+p640
+I2
+sVThe Morning After
+p641
+I11
+sVI Got A Name
+p642
+I9
+sVRoll Over
+p643
+I1
+sVIf You Would Read My Mind
+p644
+I3
+sVSkyine Pigeon
+p645
+I1
+sVLast Thing On My Mind
+p646
+I6
+sVLost Horizon
+p647
+I2
+sVWas a Funny Day
+p648
+I4
+sVTravelling Boy
+p649
+I3
+ssV\u5b9d\u4e3d\u91d188\u6781\u54c1\u97f3\u8272\u7cfb\u5217
+p650
+(dp651
+V\u6625\u68a6
+p652
+I7
+sV\u5c16\u6c99\u5480Susic
+p653
+I19
+sV\u96be\u5fd8\u60a8
+p654
+I3
+sV\u7b49\u7389\u4eba
+p655
+I1
+sV\u7eb8\u8239
+p656
+I8
+sV\u53cc\u661f\u60c5\u6b4c
+p657
+I24
+sV\u5929\u624d\u4e0e\u767d\u75f4
+p658
+I10
+sV\u662f\u96e8?\u662f\u6cea?
+p659
+I24
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p660
+I4
+sV\u83ab\u7b49\u5f85
+p661
+I10
+sV\u5b66\u751f\u54e5
+p662
+I16
+sV\u6211\u7231\u4f60
+p663
+I3
+sV\u5e94\u8be5\u8981\u81ea\u7231
+p664
+I5
+sV\u76f8\u601d\u4e07\u5343\u91cd
+p665
+I18
+sV\u6d6a\u5b50\u5fc3\u58f0
+p666
+I57
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb
+p667
+I23
+sV\u5370\u8c61
+p668
+I24
+sV\u5171\u4f60\u5e38\u4e3a\u4f34
+p669
+I6
+sV\u8fd9\u4e00\u66f2\u9001\u7ed9\u60a8
+p670
+I6
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p671
+I75
+sV\u68a8\u6da1\u6d45\u7b11
+p672
+I17
+sV\u65e0\u60c5\u591c\u51b7\u98ce
+p673
+I10
+sV\u4e16\u4e8b\u5982\u68cb
+p674
+I9
+sV\u6211\u50cf\u4e00\u7247\u4e91
+p675
+I3
+sV\u6709\u9152\u4eca\u671d\u9189
+p676
+I20
+sV\u591c\u96e8\u58f0
+p677
+I3
+sV\u94c1\u5854\u51cc\u4e91
+p678
+I16
+sV\u5236\u6c34\u6b4c
+p679
+I8
+sV\u65ad\u80a0\u68a6
+p680
+I4
+sV\u591c\u534a\u8f7b\u79c1\u8bed
+p681
+I8
+sV\u9b3c\u9a6c\u53cc\u661f
+p682
+I6
+sV\u5929\u624d\u767d\u75f4\u68a6
+p683
+I62
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p684
+I6
+sV\u676f\u9152\u5f53\u6b4c
+p685
+I16
+sV\u6025\u6d41\u52c7\u9000
+p686
+I6
+sV\u4f55\u5904\u89c5\u84ec\u83b1
+p687
+I9
+sV\u7236\u6bcd\u6069
+p688
+I9
+sV\u534a\u65a4\u516b\u4e24
+p689
+I14
+sV\u9521\u6652\u4f60
+p690
+I9
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p691
+I9
+sV\u6253\u96c0\u82f1\u96c4\u4f20
+p692
+I35
+ssV\u4eba\u751f\u591a\u4e48\u597d
+p693
+(dp694
+V\u8537\u8587
+p695
+I19
+sV\u4eba\u751f\u591a\u4e48\u597d
+p696
+I47
+sV\u949f\u58f0\u54cd\u4eae\u8d77
+p697
+I16
+sV\u767d\u4e91\u8bf4
+p698
+I8
+sV\u98ce\u91cc\u5fae\u5c18
+p699
+I6
+sV\u60c5\u6000\u68ee\u66f2 (Medley)
+p700
+I14
+sV\u77ac\u95f4\u6c38\u6052
+p701
+I12
+sV\u4eb2\u624b\u5199\u6211\u68a6
+p702
+I24
+sV\u597d\u9b3c\u51a7\u4f60
+p703
+I16
+sV\u84dd\u5929\u6d88\u5931\u4e86
+p704
+I25
+sV\u5fc3\u5883\u6539\u53d8\u73af\u5883
+p705
+I34
+ssV\u8bb8\u51a0\u6770\u91d1\u88c5\u7cbe\u9009
+p706
+(dp707
+V\u963f\u90ce\u604b\u66f2
+p708
+I15
+sV\u672a\u80af\u653e\u5f03
+p709
+I4
+sV\u4ea4\u7ec7\u5343\u4e2a\u5fc3
+p710
+I77
+sV\u6b66\u58eb\u7cbe\u795e
+p711
+I2
+sV\u6c89\u9ed8\u662f\u91d1
+p712
+I4
+sV\u5fc3\u91cc\u65e5\u8bb0
+p713
+I71
+sV\u5fc3\u601d\u601d
+p714
+I20
+sV\u6700\u7d27\u8981\u597d\u73a9
+p715
+I3
+sV\u65e5\u672c\u5a03\u5a03
+p716
+I36
+sV\u5b87\u5b99\u65e0\u9650
+p717
+I2
+sV\u73cd\u60dc
+p718
+I4
+sV\u6f6e\u6d41\u5174\u5939Band
+p719
+I5
+sV\u6211\u662f\u592a\u7a7a\u4eba
+p720
+I3
+ssV\u9999\u6e2f\u60c5\u6000'90
+p721
+(dp722
+V\u6025\u6d41\u52c7\u9000
+p723
+I65
+sV\u5343\u8f7d\u613f\u671b
+p724
+I21
+sV\u9999\u6e2f\u5236\u9020
+p725
+I136
+sV\u53d1\u5f00\u53e3\u68a6
+p726
+I5
+sV\u4ea6\u7b97\u662f\u7f18\u4efd
+p727
+I5
+sV\u505a\u4e2a\u81ea\u7531\u4eba
+p728
+I8
+sV\u6c38\u4e45\u7684\u75f4\u60c5
+p729
+I12
+sV\u540c\u821f\u5171\u6fdf
+p730
+I39
+sV\u4f60\u5982\u679c\u79bb\u5f00\u6211
+p731
+I6
+sV\u9752\u5e74\u4eba
+p732
+I9
+ssS'Time Of The Season'
+p733
+(dp734
+VIt's Gonna Change
+p735
+I19
+sVTill I Met You
+p736
+I13
+sVTruly Julie's Blues
+p737
+I9
+sVTime Of The Season
+p738
+I41
+sVCarolina In My Mind
+p739
+I9
+sVReason To Believe
+p740
+I3
+sVYesterday When I Was Young
+p741
+I16
+sVNew World In The Morning
+p742
+I10
+sVShe's Headed For The Country
+p743
+I5
+sVA Carnation For Rebu
+p744
+I19
+sVLove Is Just A Game
+p745
+I8
+sVMedley I Just Can't Help Believing
+p746
+I3
+ssV\u6253\u5de5\u4ed4\u5fc3\u58f098
+p747
+(dp748
+V\u54aa\u5f53\u6211\u8001\u886c
+p749
+I12
+sV\u5929\u624d\u767d\u75f4\u94b1\u94b1\u94b1
+p750
+I40
+sV\u8150\u673d\u5316\u795e\u5947
+p751
+I6
+sV\u6709\u9152\u4eca\u671d\u9189
+p752
+I63
+sV\u5e94\u8be5\u8981\u81ea\u7231
+p753
+I3
+sV\u5356\u8eab\u5951
+p754
+I24
+sV\u540c\u821f\u5171\u6d4e
+p755
+I30
+sV\u9999\u6e2f\u5236\u9020
+p756
+I5
+sV\u6700\u7d27\u8981\u597d\u73a9
+p757
+I9
+sV\u94b1\u4f1a\u7ee7\u7eed\u569f
+p758
+I8
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p759
+I16
+sV\u534a\u65a4\u516b\u4e24(\u521b\u4e1a\u5174\u5bb6\u7248 \u6253\u5de5\u4ed4\u5fc3\u58f0\u005c'98 Remix) - remix
+p760
+I204
+sV\u8d22\u795e\u5230
+p761
+I10
+sV\u9b3c\u9a6c\u53cc\u661f(Hot Gossip e.mix) - remix
+p762
+I9
+sV\u9752\u5e74\u4eba
+p763
+I6
+ssV\u6b4c\u795e\u4e0e\u60a8\u7ee7\u7eed\u5fae\u7b1104
+p764
+(dp765
+V\u6728\u5c4b\u533a
+p766
+I4
+sV\u7236\u4eb2\u7684\u94a2\u7434
+p767
+I32
+sV\u6700\u559c\u6b22\u4f60
+p768
+I7
+sV\u7ee7\u7eed\u5fae\u7b11
+p769
+I34
+sV\u8c01\u5728\u4f60\u5fc3\u91cc
+p770
+I33
+sV\u5077\u5fc3\u7684\u4eba
+p771
+I10
+sV\u795d\u798f\u4f60
+p772
+I127
+sV\u98ce\u4e2d\u8d76\u8def\u4eba
+p773
+I27
+sV\u6d3b\u5728\u4eca\u5929
+p774
+I9
+sV\u4f60\u662f\u8c01
+p775
+I4
+sV\u84dd\u725b\u4ed4\u88e4
+p776
+I6
+sV\u5fd8\u6389\u6211
+p777
+I8
+sV\u6d0b\u7d2b\u8346
+p778
+I74
+sV\u65b0\u7684\u5f00\u59cb
+p779
+I15
+sV\u65f6\u5149\u5012\u6d41
+p780
+I7
+sV\u8fd9\u53cc\u624b
+p781
+I4
+ssV\u81f3\u5c0a\u91d1\u66f2\u7cbe\u90092
+p782
+(dp783
+V\u53cc\u661f\u60c5\u6b4c
+p784
+I3
+sV\u6469\u767b\u4fdd\u9556
+p785
+I2
+sV\u5341\u4e2a\u5973\u4ed4
+p786
+I1
+sV\u5c16\u6c99\u5480Susie
+p787
+I3
+sV\u6625\u68a6
+p788
+I2
+sV\u96be\u5fd8\u60a8
+p789
+I0
+sV\u94b1\u4f1a\u7ee7\u7eed\u569f
+p790
+I2
+sV\u8bdd\u77e5\u4f60'97
+p791
+I12
+sV\u996e\u80dc
+p792
+I1
+sV\u5929\u624d\u4e0e\u767d\u75f4
+p793
+I4
+sV\u6700\u4f73\u62cd\u6863
+p794
+I4
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p795
+I1
+sV\u5148\u656c\u7f57\u8863\u540e\u656c\u4eba
+p796
+I3
+sV\u5fc3\u601d\u601d
+p797
+I3
+sV\u5080\u5121
+p798
+I2
+sV\u6211\u7231\u4f60
+p799
+I4
+sV\u8d22\u795e\u5230
+p800
+I4
+sV\u76f8\u601d\u4e07\u5343\u91cd
+p801
+I1
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb
+p802
+I2
+sV\u751c\u871c\u7684\u5f80\u4e8b
+p803
+I3
+sV\u8fd9\u4e00\u66f2\u9001\u7ed9\u60a8
+p804
+I3
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p805
+I4
+sV\u65e0\u60c5\u591c\u51b7\u98ce
+p806
+I15
+sV\u94c1\u5854\u51cc\u4e91
+p807
+I1
+sV\u90a3\u91cc\u662f\u543e\u5bb6
+p808
+I2
+sV\u540c\u821f\u5171\u6d4e
+p809
+I3
+sV\u591c\u534a\u8f7b\u79c1\u8bed
+p810
+I2
+sV\u63fe\u5622\u505a
+p811
+I16
+sV\u52a0\u4ef7\u70ed\u6f6e
+p812
+I3
+sV\u9ebb\u96c0\u800d\u4e50
+p813
+I12
+sV\u676f\u9152\u5f53\u6b4c
+p814
+I2
+sV\u4f55\u5904\u89c5\u84ec\u83b1
+p815
+I5
+sV\u8ddf\u4f62\u505a\u4e2aFriend
+p816
+I6
+sV\u4e00\u6c34\u9694\u5929\u6daf
+p817
+I21
+sV\u4f5b\u8df3\u5899
+p818
+I2
+ssV\u81f3\u5c0a\u91d1\u66f2\u7cbe\u90091
+p819
+(dp820
+V\u67d4\u60c5\u6cea
+p821
+I4
+sV\u8ffd\u6c42\u4e09\u90e8\u66f2
+p822
+I3
+sV\u5fc3\u91cc\u65e5\u8bb0
+p823
+I7
+sV\u9752\u6625\u68a6\u91cc\u4eba
+p824
+I1
+sV\u5236\u6c34\u6b4c
+p825
+I3
+sV\u7b49\u7389\u4eba
+p826
+I2
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p827
+I6
+sV\u7eb8\u8239
+p828
+I0
+sV\u54aa\u5f53\u6211\u8001\u886c
+p829
+I9
+sV\u5b66\u751f\u54e5
+p830
+I2
+sV\u8150\u673d\u5316\u795e\u5947
+p831
+I0
+sV\u76f8\u601d\u4e07\u5343\u91cd
+p832
+I2
+sV\u6625\u68a6\u826f\u5bb5
+p833
+I1
+sV\u6d6a\u5b50\u5fc3\u58f0
+p834
+I2
+sV\u5370\u8c61
+p835
+I1
+sV\u5f80\u4e8b
+p836
+I1
+sV\u5171\u4f60\u5e38\u4e3a\u4f34
+p837
+I2
+sV\u68a8\u6da1\u6d45\u7b11
+p838
+I6
+sV\u4e16\u4e8b\u5982\u68cb
+p839
+I3
+sV\u6211\u50cf\u4e00\u7247\u4e91
+p840
+I3
+sV\u6709\u9152\u4eca\u671d\u9189
+p841
+I2
+sV\u591c\u96e8\u58f0
+p842
+I2
+sV\u739b\u8389,\u6211\u597d\u949f\u610f\u4f60
+p843
+I5
+sV\u77e5\u5fc3\u53cb
+p844
+I2
+sV\u6700\u7d27\u8981\u597d\u73a9
+p845
+I3
+sV\u65ad\u80a0\u68a6
+p846
+I3
+sV\u5929\u624d\u767d\u75f4\u68a6
+p847
+I3
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p848
+I3
+sVPretty Woman
+p849
+I1
+sV\u9b3c\u9a6c\u5927\u5bb6\u4e50
+p850
+I2
+sV\u7236\u6bcd\u6069
+p851
+I8
+sV\u5356\u8eab\u5951
+p852
+I2
+sV\u662f\u96e8\u662f\u6cea
+p853
+I0
+sV\u9521\u6652\u4f60
+p854
+I1
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p855
+I7
+sV\u6253\u96c0\u82f1\u96c4\u4f20
+p856
+I4
+ssS'Spaceman Came Travelling'
+p857
+(dp858
+VI Saw The Light
+p859
+I4
+sVStart All Over Again
+p860
+I3
+sVRivers Are For Boat
+p861
+I2
+sVMe And The Elephant
+p862
+I4
+sVSunflower
+p863
+I2
+sVThings We Said Today
+p864
+I4
+sVHotel California
+p865
+I8
+sVSpaceman Came Travelling
+p866
+I7
+sVBaby Don't Get Hooked On Me
+p867
+I2
+sVFaithless Love
+p868
+I2
+sVDon't You Care
+p869
+I2
+sVEvery Face Tells A Story
+p870
+I2
+sVThe Lady Is Waiting
+p871
+I2
+ssV\u6b4c\u795e\u7cbe\u9009(\u5f15\u8fdb\u7248)
+p872
+(dp873
+V\u963f\u90ce\u604b\u66f2
+p874
+I4
+sV\u5fc3\u601d\u601d
+p875
+I5
+sV\u6d0b\u7d2b\u8346
+p876
+I8
+sV\u6700\u559c\u6b22\u4f60
+p877
+I3
+sV\u6c89\u9ed8\u662f\u91d1
+p878
+I23
+sV\u5077\u5fc3\u7684\u4eba
+p879
+I6
+sV\u5fc3\u91cc\u65e5\u8bb0
+p880
+I8
+sV\u7236\u4eb2\u7684\u94a2\u7434
+p881
+I9
+sV\u6c39\u6c39\u8f6c
+p882
+I8
+sV\u98ce\u4e2d\u8d76\u8def\u4eba
+p883
+I12
+sV\u6700\u7d27\u8981\u597d\u73a9
+p884
+I7
+sV\u5b87\u5b99\u65e0\u9650
+p885
+I4
+sV\u65e5\u672c\u5a03\u5a03
+p886
+I4
+sV\u7231\u662f\u65e0\u8a00
+p887
+I1
+sV\u73cd\u60dc
+p888
+I4
+sV\u65b0\u7684\u5f00\u59cb
+p889
+I5
+sV\u65f6\u5149\u5012\u6d41
+p890
+I19
+sV\u518d\u8c31\u65b0\u7231\u6b4c
+p891
+I11
+ssV20\u5468\u5e74-\u8bb8\u51a0\u6770 90'\u7535\u5f71\u91d1\u66f2\u7cbe\u9009
+p892
+(dp893
+V\u505a\u4e2a\u81ea\u7531\u4eba(\u7535\u5f71"\u7ea2\u573a\u98de\u9f99"\u6b4c\u66f2) - Album Version
+p894
+I1
+sV\u5b87\u5b99\u65e0\u9650(\u7535\u5f71"\u536b\u65af\u7406\u4f20"\u6b4c\u66f2) - Album Version
+p895
+I0
+sV\u534a\u65a4\u516b\u4e24(\u7535\u5f71"\u534a\u65a4\u516b\u4e24"\u6b4c\u66f2) - Dian Ying (Ban Jin Ba Liang) Ge Qu / Album Version
+p896
+I2
+sV\u8bdd\u4f60\u77e5'97 - Album Version
+p897
+I2
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5 - Album Version
+p898
+I0
+sV\u6700\u7d27\u8981\u597d\u73a9 - Album Version
+p899
+I0
+sV\u4ea6\u7b97\u662f\u7f18\u4efd - Album Version
+p900
+I1
+sV\u5fc3\u601d\u601d - Album Version
+p901
+I4
+sV\u5929\u624d\u767d\u75f4\u68a6 - Album Version
+p902
+I0
+sV\u6d6a\u5b50\u5fc3\u58f0 - \u7535\u5f71\u300c\u534a\u65a4\u516b\u4e24\u300d\u6b4c\u66f2 - Dian Ying (Ban Jin Ba Liang) Ge Qu / Album Version
+p903
+I1
+sV\u4e24\u4e2a\u5bc2\u5bde\u4eba - Album Version
+p904
+I1
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11(\u7535\u5f71"\u7b11\u50b2\u6c5f\u6e56"\u6b4c\u66f2) - Album Version
+p905
+I0
+ssV\u9b3c\u9a6c\u53cc\u661f
+p906
+(dp907
+V\u53cc\u661f\u60c5\u6b4c(\u4f34\u594f) - instrumental
+p908
+I12
+sV\u65e0\u60c5\u591c\u51b7\u98ce
+p909
+I39
+sV\u751c\u871c\u4f34\u4fa3
+p910
+I19
+sVMEDLEY : \u4e00\u6c34\u9694\u5929\u6daf / \u7231\u4f60\u4e09\u767e\u516d\u5341\u5e74
+p911
+I32
+sV\u591c\u96e8\u58f0
+p912
+I22
+sV\u6625\u68a6\u826f\u5bb5
+p913
+I30
+sV\u94c1\u5854\u51cc\u4e91
+p914
+I93
+sV\u5236\u6c34\u6b4c
+p915
+I44
+sV\u53cc\u661f\u60c5\u6b4c
+p916
+I904
+sV\u9b3c\u9a6c\u53cc\u661f
+p917
+I607
+sV\u7b49\u7389\u4eba
+p918
+I24
+ssV\u5b87\u5b99\u65e0\u9650
+p919
+(dp920
+V\u5b87\u5b99\u65e0\u9650
+p921
+I40
+sV\u5b87\u5b99\u65e0\u9650(Instrumental) - instrumental
+p922
+I5
+sV\u5bc2\u5bde\u5723\u8bde
+p923
+I9
+sVRadio\u597d\u77e5\u5df1
+p924
+I3
+ssV79\u590f\u65e5\u4e4b\u6b4c\u96c6
+p925
+(dp926
+V\u8150\u673d\u5316\u795e\u5947
+p927
+I10
+sV\u8bf4\u4e00\u58f0\u518d\u89c1
+p928
+I4
+sV\u5341\u4e2a\u5973\u4ed4
+p929
+I28
+sV\u90a3\u91cc\u662f\u543e\u5bb6
+p930
+I15
+sV\u6625\u68a6
+p931
+I9
+sV\u77e5\u5fc3\u53cb
+p932
+I5
+sV\u9521\u6652\u4f60
+p933
+I8
+sV\u52a0\u4ef7\u70ed\u6f6e
+p934
+I25
+sV\u5fcd
+p935
+I4
+sV\u4e00\u751f\u4e2d\u51e0\u8bb8\u6b22\u7b11
+p936
+I8
+sV\u4f55\u65e5\u518d\u76f8\u9022
+p937
+I21
+sV\u50ac\u7720\u66f2
+p938
+I421
+ssS'Interlude'
+p939
+(dp940
+VTake Me For What I'm Worth
+p941
+I1
+sVDanny's Song
+p942
+I4
+sVKeep Searchin
+p943
+I4
+sVLucy In The Sky With Diamonds
+p944
+I14
+sVSave Your Heart For Me
+p945
+I9
+sVI'll Paint You A Song
+p946
+I3
+sVTheme From Jeremy
+p947
+I19
+sVTake Me Home Country Roads
+p948
+I101
+sVInterlude - intro
+p949
+I8
+sVApril Lady
+p950
+I6
+sVCome Tomorrow
+p951
+I3
+sVLet's Live For Today
+p952
+I5
+sVPlease Mr.Postman
+p953
+I23
+sVIt's Only Love
+p954
+I3
+ssV\u6700\u4f73\u62cd\u6863\u5927\u663e\u795e\u901a
+p955
+(dp956
+V\u7231\u97f5
+p957
+I3
+sV\u81ea\u4ece\u60a8\u4e00\u53bb
+p958
+I2
+sV\u5171\u59b3\u5e38\u4e3a\u4f34
+p959
+I28
+sV\u832b\u832b\u524d\u8def
+p960
+I5
+sV\u739b\u8389, \u6211\u597d\u949f\u610f\u60a8
+p961
+I87
+sV\u6ce1\u5f71
+p962
+I2
+sV\u8ddf\u4f62\u505a\u4e2a FRIEND
+p963
+I59
+sV\u5728\u56de\u5fc6\u4e2d
+p964
+I6
+sV\u7f8e\u4e3d\u7684\u7247\u6bb5
+p965
+I4
+sVPretty Woman
+p966
+I9
+sV\u662f\u96e8?\u662f\u6cea?
+p967
+I24
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p968
+I19
+ssV\u73af\u7403\u8403\u53d6\u5347\u7ea7\u7cbe\u9009 \u8bb8\u51a0\u67703
+p969
+(dp970
+VSome Kind Of Wonderful
+p971
+I2
+sVStay Awhile
+p972
+I2
+sVTake Me Home, County Roads
+p973
+I3
+sVMe And The Elephant
+p974
+I2
+sVLucy In The Sky With Diamonds
+p975
+I4
+sVThe Morning After
+p976
+I3
+sVI Got A Name
+p977
+I3
+sVTime Of The Season
+p978
+I14
+sVA Spaceman Came Travelling
+p979
+I3
+sVPlease Mr. Postman
+p980
+I5
+sVHotel California
+p981
+I6
+sVInterlude
+p982
+I2
+sVOne Tin Soldier
+p983
+I2
+sVA Carnation For Rebu
+p984
+I4
+sVLost Horizon
+p985
+I3
+sVStreets Of London
+p986
+I4
+sVBlue Balloon - The Hourglass Song
+p987
+I3
+sVTravelling Boy
+p988
+I3
+ssV\u771f\u7ecf\u5178: \u8bb8\u51a0\u6770
+p989
+(dp990
+V\u6469\u767b\u4fdd\u9556
+p991
+I5
+sV\u5f80\u4e8b
+p992
+I3
+sV\u96be\u5fd8\u60a8
+p993
+I8
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p994
+I3
+sV\u7eb8\u8239
+p995
+I19
+sV\u996e\u80dc
+p996
+I25
+sV\u7686\u56e0\u4f60\u5187\u5f97\u5f39
+p997
+I11
+sV\u65e5\u672c\u5a03\u5a03
+p998
+I18
+sV\u54ed\u6ce3\u98ce\u96e8\u95f4
+p999
+I7
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p1000
+I4
+sV\u76f8\u601d\u4e07\u5343\u91cd
+p1001
+I66
+sV\u6d6a\u5b50\u5fc3\u58f0
+p1002
+I69
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb
+p1003
+I8
+sV\u751c\u871c\u7684\u5f80\u4e8b
+p1004
+I20
+sV\u5370\u8c61
+p1005
+I10
+sV\u5728\u56de\u5fc6\u4e2d
+p1006
+I6
+sV\u963f\u90ce\u604b\u66f2
+p1007
+I217
+sV\u65e0\u60c5\u591c\u51b7\u98ce
+p1008
+I271
+sV\u90a3\u91cc\u662f\u543e\u5bb6
+p1009
+I7
+sV\u540c\u821f\u5171\u6d4e
+p1010
+I4
+sV\u505a\u4eba\u8981\u8bc6Do
+p1011
+I6
+sV\u5b87\u5b99\u65e0\u9650
+p1012
+I5
+sV\u6025\u6d41\u52c7\u9000
+p1013
+I12
+sV\u6c89\u9ed8\u662f\u91d1
+p1014
+I30
+sV\u4eca\u5bb5
+p1015
+I5
+sV\u7231\u5728\u522b\u79bb\u65f6
+p1016
+I25
+sV\u8bdd\u77e5\u4f60'97
+p1017
+I31
+sV\u4e24\u4e2a\u5bc2\u5bde\u4eba
+p1018
+I5
+sV\u67d4\u60c5\u6cea
+p1019
+I34
+sV\u81ea\u4ece\u60a8\u4e00\u53bb
+p1020
+I3
+sV\u72ec\u4e0a\u897f\u697c
+p1021
+I3
+sV\u5fc3\u91cc\u65e5\u8bb0
+p1022
+I17
+sV\u6625\u68a6
+p1023
+I44
+sV\u739b\u8389,\u6211\u597d\u949f\u610f\u4f60
+p1024
+I10
+sV\u94b1\u4f1a\u7ee7\u7eed\u569f
+p1025
+I10
+sV\u53cc\u661f\u60c5\u6b4c
+p1026
+I26
+sV\u5929\u624d\u4e0e\u767d\u75f4
+p1027
+I36
+sV\u83ab\u7b49\u5f85
+p1028
+I8
+sV\u5b66\u751f\u54e5
+p1029
+I15
+sV\u5fc3\u601d\u601d
+p1030
+I4
+sV\u8d22\u795e\u5230
+p1031
+I9
+sV\u7231\u97f5
+p1032
+I3
+sV\u5929\u624d\u767d\u75f4\u94b1\u94b1\u94b1
+p1033
+I14
+sV\u64e6\u978b\u4ed4
+p1034
+I24
+sV\u8fd9\u4e00\u66f2\u9001\u7ed9\u60a8
+p1035
+I6
+sV\u68a8\u6da1\u6d45\u7b11
+p1036
+I18
+sV\u6084\u7136\u79bb\u53bb
+p1037
+I4
+sV\u4e16\u4e8b\u5982\u68cb
+p1038
+I5
+sV\u5915\u9633
+p1039
+I4
+sV\u52a0\u4ef7\u70ed\u6f6e
+p1040
+I4
+sV\u591c\u534a\u8f7b\u79c1\u8bed
+p1041
+I5
+sV\u9b3c\u9a6c\u53cc\u661f
+p1042
+I16
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p1043
+I9
+sV\u9521\u6652\u4f60
+p1044
+I5
+sV\u4f55\u5904\u89c5\u84ec\u83b1
+p1045
+I12
+sV\u7236\u6bcd\u6069
+p1046
+I6
+sV\u60c5\u4eba\u79bb\u522b\u53bb
+p1047
+I4
+sV\u4ea6\u7b97\u662f\u7f18\u4efd
+p1048
+I23
+sV\u832b\u832b\u524d\u8def
+p1049
+I2
+sV\u5927\u5bb6\u8ddf\u4f4f\u5531
+p1050
+I5
+sV\u73cd\u60dc
+p1051
+I8
+sV\u6253\u96c0\u82f1\u96c4\u4f20
+p1052
+I8
+sV\u5341\u4e2a\u5973\u4ed4
+p1053
+I10
+sV\u8ffd\u6c42\u4e09\u90e8\u66f2
+p1054
+I51
+sV\u9752\u6625\u68a6\u91cc\u4eba
+p1055
+I8
+sV\u7b49\u7389\u4eba
+p1056
+I11
+sV\u6ce1\u5f71
+p1057
+I4
+sV\u505a\u4e2a\u81ea\u7531\u4eba
+p1058
+I13
+sV\u6700\u4f73\u62cd\u6863
+p1059
+I77
+sV\u5c01\u4f62\u505a\u5076\u50cf
+p1060
+I13
+sV\u6bcf\u4e8b\u95ee
+p1061
+I4
+sV\u5148\u656c\u7f57\u8863\u540e\u656c\u4eba
+p1062
+I12
+sV\u8150\u673d\u5316\u795e\u5947
+p1063
+I12
+sV\u6000\u4f24
+p1064
+I2
+sV\u9999\u6e2f\u5236\u9020
+p1065
+I4
+sV\u597d\u666f\u81ea\u5df1\u53bb\u5bfb
+p1066
+I4
+sV\u4eb2\u7231\u7684
+p1067
+I5
+sV\u6a2a\u8d22\u68a6
+p1068
+I4
+sV\u518d\u4f1a,\u9999\u6e2f
+p1069
+I7
+sV\u5171\u4f60\u5e38\u4e3a\u4f34
+p1070
+I4
+sV\u6f6e\u6d41\u5174\u5939Band
+p1071
+I12
+sV\u7f8e\u4e3d\u7684\u7247\u6bb5
+p1072
+I5
+sV\u5c16\u6c99\u5480Susie
+p1073
+I7
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p1074
+I4
+sV\u9752\u5e74\u4eba
+p1075
+I25
+sV\u6211\u50cf\u4e00\u7247\u4e91
+p1076
+I4
+sV\u6709\u9152\u4eca\u671d\u9189
+p1077
+I11
+sV\u94c1\u5854\u51cc\u4e91
+p1078
+I13
+sV\u4e3a\u4f60
+p1079
+I2
+sV\u65ad\u80a0\u68a6
+p1080
+I4
+sV\u63fe\u5622\u505a
+p1081
+I27
+sVPretty Woman
+p1082
+I18
+sV\u9b3c\u9a6c\u5927\u5bb6\u4e50
+p1083
+I4
+sV\u59cb\u7ec8\u88ab\u6101\u56f0
+p1084
+I5
+sV\u4e00\u6c34\u9694\u5929\u6daf+\u7231\u4f60\u4e09\u767e\u516d\u5341\u5e74
+p1085
+I13
+sV\u6211\u7684\u59b9\u59b9
+p1086
+I8
+sV\u8ddf\u4f62\u505a\u4e2aFriend
+p1087
+I18
+sV\u662f\u96e8\u662f\u6cea
+p1088
+I16
+sV\u534a\u65a4\u516b\u4e24
+p1089
+I6
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p1090
+I56
+sV\u6b22\u4e50\u6843\u6e90
+p1091
+I3
+sV\u4e24\u4e2a\u4e16\u754c
+p1092
+I12
+sV\u5236\u6c34\u6b4c
+p1093
+I4
+sV\u6545\u56ed\u4f9d\u65e7
+p1094
+I6
+sV\u54aa\u5f53\u6211\u8001\u886c
+p1095
+I7
+sV\u7231\u60c5\u4fdd\u9669
+p1096
+I20
+sV\u6211\u7231\u4f60
+p1097
+I3
+sV\u5e94\u8be5\u8981\u81ea\u7231
+p1098
+I6
+sV\u6625\u68a6\u826f\u5bb5
+p1099
+I4
+sV\u7231
+p1100
+I5
+sVRadio\u597d\u77e5\u5df1
+p1101
+I3
+sV\u53d1\u564f\u98ce
+p1102
+I3
+sV\u591c\u96e8\u58f0
+p1103
+I5
+sV\u77e5\u5fc3\u53cb
+p1104
+I14
+sV\u9ebb\u96c0\u800d\u4e50
+p1105
+I38
+sV\u6700\u7d27\u8981\u597d\u73a9
+p1106
+I15
+sV\u5080\u5121
+p1107
+I13
+sV\u5929\u624d\u767d\u75f4\u68a6
+p1108
+I37
+sV\u676f\u9152\u5f53\u6b4c
+p1109
+I4
+sV\u9f50\u9f50\u5531\u9996\u6b4c
+p1110
+I3
+sV\u5356\u8eab\u5951
+p1111
+I8
+sV\u7231\u60c5\u9003\u72af
+p1112
+I4
+sV\u4f5b\u8df3\u5899
+p1113
+I7
+ssV\u5356\u8eab\u5951
+p1114
+(dp1115
+V\u5b66\u751f\u54e5
+p1116
+I66
+sV\u676f\u9152\u5f53\u6b4c
+p1117
+I41
+sV\u7537\u513f\u6c49
+p1118
+I8
+sV\u7236\u6bcd\u6069
+p1119
+I126
+sV\u5e94\u8be5\u8981\u81ea\u7231
+p1120
+I64
+sV\u5356\u8eab\u5951
+p1121
+I326
+sV\u62dc\u62dc
+p1122
+I10
+sV\u821e\u4f34
+p1123
+I8
+sV\u4eba\u751f\u7684\u9053\u8def
+p1124
+I14
+sV\u996e\u80dc
+p1125
+I9
+sV\u76f8\u601d\u4e07\u5343\u91cd
+p1126
+I13
+sV\u592a\u7a7a\u821e(\u4f34\u594f) - instrumental
+p1127
+I7
+sV\u4e16\u4e8b\u5982\u68cb
+p1128
+I16
+ssV'04\u7ee7\u7eed
+p1129
+(dp1130
+V\u6211\u672a\u60ca\u8fc7
+p1131
+I105
+sV\u6469\u767b\u4fdd\u9556
+p1132
+I9
+sV\u9b3c\u9a6c\u53cc\u661f(Hot Gossip Remix) - remix
+p1133
+I4
+sV\u5341\u4e2a\u5973\u4ed4
+p1134
+I21
+sV\u8ffd\u6c42\u4e09\u90e8\u66f2
+p1135
+I23
+sV\u957f\u6625\u4e0d\u8001
+p1136
+I7
+sV\u96be\u5fd8\u60a8
+p1137
+I5
+sV\u7b49\u7389\u4eba
+p1138
+I3
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p1139
+I2
+sV\u7eb8\u8239
+p1140
+I3
+sV\u996e\u80dc
+p1141
+I10
+sV\u5929\u624d\u4e0e\u767d\u75f4
+p1142
+I8
+sV\u8d22\u795e\u5230
+p1143
+I7
+sV\u534a\u65a4\u516b\u4e24(\u6253\u5de5\u4ed4\u5fc3\u58f0'98 Mix) - remix
+p1144
+I21
+sVHotel California(Live) - live
+p1145
+I7
+sV\u54aa\u5f53\u6211\u8001\u886c
+p1146
+I4
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p1147
+I5
+sV\u606d\u559c\uff01\u606d\u559c\uff01
+p1148
+I11
+sV\u739b\u8389\uff0c\u6211\u597d\u949f\u610f\u4f60
+p1149
+I26
+sV\u4eba\u529e
+p1150
+I10
+sV\u8fc8\u8fdb\u65b0\u9886\u57df
+p1151
+I3
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb
+p1152
+I6
+sV\u751c\u871c\u7684\u5f80\u4e8b
+p1153
+I4
+sV\u5370\u8c61
+p1154
+I6
+sV\u5728\u56de\u5fc6\u4e2d
+p1155
+I2
+sV\u5b87\u5b99\u65e0\u9650(Instrumental) - instrumental
+p1156
+I1
+sV\u53d1\u564f\u98ce
+p1157
+I4
+sVPretty Woman
+p1158
+I9
+sV\u5929\u624d\u767d\u75f4\u94b1\u94b1\u94b1
+p1159
+I15
+sV\u5fc3\u91cc\u65e5\u8bb0
+p1160
+I6
+sV\u68a8\u6da1\u6d45\u7b11
+p1161
+I4
+sV\u6211\u50cf\u4e00\u7247\u4e91
+p1162
+I2
+sV\u4f5b\u8df3\u5899
+p1163
+I68
+sV\u4e3a\u4f60
+p1164
+I1
+sV\u6211\u4fe1\u97f5\u5f8b\u5168\u80fd(\u5546\u53f0DJ\u5408\u5531\u7248)
+p1165
+I4
+sV\u9ebb\u96c0\u800d\u4e50
+p1166
+I8
+sV\u63fe\u5622\u505a
+p1167
+I37
+sV\u52a0\u4ef7\u70ed\u6f6e
+p1168
+I3
+sV\u5915\u9633
+p1169
+I2
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5(Live) - live
+p1170
+I3
+sV\u5171\u4f60\u5e38\u4e3a\u4f34
+p1171
+I6
+sV\u6a2a\u8d22\u68a6(Remix) - remix
+p1172
+I25
+sV\u676f\u9152\u5f53\u6b4c
+p1173
+I3
+sV\u4e24\u4e2a\u4e16\u754c(Live) - live
+p1174
+I2
+sV\u5356\u8eab\u5951
+p1175
+I2
+sV\u65a4\u4e24\u5341\u8db3(4:20 Remix\u7248) - remix
+p1176
+I4
+sV\u662f\u96e8\u662f\u6cea
+p1177
+I4
+sV\u8fd9\u4e00\u66f2\u9001\u7ed9\u60a8
+p1178
+I7
+sV\u9521\u6652\u4f60
+p1179
+I15
+sV\u6700\u7d27\u8981\u597d\u73a9(\u6405\u7b11\u7248)
+p1180
+I76
+sV\u591c\u534a\u8f7b\u79c1\u8bed
+p1181
+I5
+sV\u53cc\u661f\u60c5\u6b4c
+p1182
+I2
+sV\u6253\u96c0\u82f1\u96c4\u4f20
+p1183
+I12
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p1184
+I1
+sV\u626e\u5622
+p1185
+I8
+ssV\u73af\u7403DSD\u89c6\u542c\u4e4b\u738b - \u8bb8\u51a0\u6770
+p1186
+(dp1187
+V\u90a3\u91cc\u662f\u543e\u5bb6 - Album Version
+p1188
+I1
+sV\u676f\u9152\u5f53\u6b4c - Album Version
+p1189
+I0
+sV\u5370\u8c61 - Album Version
+p1190
+I1
+sV\u6d6a\u5b50\u5fc3\u58f0 
+p1191
+I6
+sV\u591c\u534a\u8f7b\u79c1\u8bed - Album Version
+p1192
+I0
+sV\u76f8\u601d\u4e07\u5343\u91cd - Album Version
+p1193
+I0
+sV\u4e16\u4e8b\u5982\u68cb - Album Version
+p1194
+I2
+sV\u94c1\u5854\u51cc\u4e91 - Album Version
+p1195
+I3
+sV\u77e5\u97f3\u68a6\u91cc\u5bfb - Album Version
+p1196
+I3
+sV\u7eb8\u8239 - Album Version
+p1197
+I2
+sV\u4f55\u5904\u89c5\u84ec\u83b1 - Album Version
+p1198
+I1
+sV\u5929\u624d\u767d\u75f4\u68a6 - Album Version
+p1199
+I3
+sV\u65e0\u60c5\u591c\u51b7\u98ce - Album Version
+p1200
+I3
+sV\u6625\u68a6 - Album Version
+p1201
+I2
+sV\u53cc\u661f\u60c5\u6b4c - Album Version
+p1202
+I1
+sV\u83ab\u7b49\u5f85 - Album Version
+p1203
+I0
+ssV\u534a\u65a4\u516b\u4e24
+p1204
+(dp1205
+V\u77e5\u97f3\u68a6\u91cc\u5bfb
+p1206
+I79
+sV\u6253\u96c0\u82f1\u96c4\u4f20
+p1207
+I161
+sV\u9b3c\u9a6c\u5927\u5bb6\u4e50
+p1208
+I39
+sV\u6709\u9152\u4eca\u671d\u9189
+p1209
+I696
+sV\u8ffd\u6c42\u4e09\u90e8\u66f2
+p1210
+I100
+sV\u591c\u534a\u8f7b\u79c1\u8bed
+p1211
+I85
+sV\u534a\u65a4\u516b\u4e24
+p1212
+I3474
+sV\u65ad\u80a0\u68a6
+p1213
+I173
+sV\u5927\u5bb6\u8ddf\u4f4f\u5531
+p1214
+I23
+sV\u6d41\u6c34\u6068
+p1215
+I14
+sV\u6d6a\u5b50\u5fc3\u58f0
+p1216
+I285
+sV\u68a8\u6da1\u6d45\u7b11
+p1217
+I1040
+ssV\u8bb8\u51a0\u6770\u60c5\u6b4c\u7bc7
+p1218
+(dp1219
+V\u9521\u54c2\u4f60
+p1220
+I2
+sV\u67d4\u60c5\u6cea
+p1221
+I5
+sV\u6211\u7231\u4f60
+p1222
+I1
+sV\u5f80\u4e8b
+p1223
+I1
+sV\u6625\u68a6
+p1224
+I4
+sV\u9752\u6625\u68a6\u91cc\u4eba
+p1225
+I3
+sV\u96be\u5fd8\u60a8
+p1226
+I3
+sV\u591c\u534a\u8f7b\u79c1\u8bed
+p1227
+I13
+sV\u68a8\u6da1\u6d45\u7b11
+p1228
+I54
+sV\u65ad\u80a0\u68a6
+p1229
+I3
+sV\u6211\u7684\u5fc3\u4ecd\u5c5e\u4e8e\u4f60
+p1230
+I1
+sV\u53cc\u661f\u60c5\u6b4c
+p1231
+I7
+sV\u76f8\u601d\u4e07\u5343\u91cd
+p1232
+I6
+sV\u4e3a\u4f60
+p1233
+I1
+sV\u5171\u4f60\u5e38\u4e3a\u4f34
+p1234
+I15
+sV\u591c\u591c\u5ff5\u5974\u5a07
+p1235
+I2
+sV\u8fd9\u4e00\u79cd\u611f\u89c9
+p1236
+I1
+sV\u5929\u624d\u767d\u75f4\u5f80\u65e5\u60c5
+p1237
+I5
+sV\u6211\u50cf\u4e00\u7247\u4e91
+p1238
+I1
+ssV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p1239
+(dp1240
+V\u591c\u591c\u5ff5\u52aa\u5a07
+p1241
+I22
+sV\u9f50\u9f50\u5531\u9996\u6b4c
+p1242
+I5
+sV\u7236\u6bcd\u6069
+p1243
+I9
+sV\u6625\u68a6
+p1244
+I7
+sV\u4e3a\u4f60
+p1245
+I7
+sV\u591c\u534a\u8f7b\u79c1\u8bed
+p1246
+I5
+sV\u6700\u7d27\u8981\u597d\u73a9
+p1247
+I9
+sV\u65ad\u80a0\u68a6
+p1248
+I14
+sV\u94b1\u4f1a\u7ee7\u7eed\u569f
+p1249
+I9
+sV\u6ca7\u6d77\u4e00\u58f0\u7b11
+p1250
+I7341
+sV\u5171\u4f60\u5e38\u4e3a\u4f34
+p1251
+I7
+sV\u68a8\u6da1\u6d45\u7b11
+p1252
+I10
+sV\u83ab\u7b49\u5f85
+p1253
+I7
+sV\u6211\u7231\u4f60
+p1254
+I12
+ssV\u8bb8\u51a0\u677089\u6b4c\u96c6
+p1255
+(dp1256
+V\u672a\u80af\u653e\u5f03
+p1257
+I15
+sV\u963f\u90ce\u604b\u66f2
+p1258
+I1500
+sV\u6211\u6709\u4e00\u4e2a\u68a6
+p1259
+I13
+sV\u6211\u672a\u60ca\u8fc7
+p1260
+I93
+sV\u91cd\u9047\u665a\u4e0a
+p1261
+I7
+sV\u6211\u4fe1\u97f5\u5f8b\u5168\u80fd
+p1262
+I7
+sV\u6210\u65e5\u8bb0\u4f4f\u7b11
+p1263
+I7
+sV\u54ed\u6ce3\u98ce\u96e8\u95f4
+p1264
+I35
+sV\u751c\u871c\u5370\u8c61
+p1265
+I8
+sV\u4ecd\u662f\u8981\u8d70
+p1266
+I14
+ssV\u5341\u5e74\u4ee3\u8868\u4f5c
+p1267
+(dp1268
+V\u6469\u767b\u4fdd\u9556
+p1269
+I4
+sV\u5341\u4e2a\u5973\u4ed4
+p1270
+I9
+sV\u8ffd\u6c42\u4e09\u90e8\u66f2
+p1271
+I14
+sV\u5c16\u6c99\u5480Susie
+p1272
+I7
+sV\u94b1\u4f1a\u7ee7\u7eed\u569f
+p1273
+I4
+sV\u53cc\u661f\u60c5\u6b4c
+p1274
+I5
+sV\u5929\u624d\u4e0e\u767d\u75f4
+p1275
+I7
+sV\u6700\u4f73\u62cd\u6863
+p1276
+I6
+sV\u83ab\u7b49\u5f85
+p1277
+I5
+sV\u5b66\u751f\u54e5
+p1278
+I22
+sV\u6d6a\u5b50\u5fc3\u58f0
+p1279
+I11
+sV\u5929\u624d\u767d\u75f4\u94b1\u94b1\u94b1
+p1280
+I7
+sV\u6709\u9152\u4eca\u671d\u9189
+p1281
+I27
+sV\u94c1\u5854\u51cc\u4e91
+p1282
+I4
+sV\u5feb\u4e50
+p1283
+I44
+sV\u9ebb\u96c0\u800d\u4e50
+p1284
+I9
+sV\u9b3c\u9a6c\u53cc\u661f
+p1285
+I7
+sV\u9f50\u9f50\u5531\u9996\u6b4c
+p1286
+I3
+sV\u5356\u8eab\u5951
+p1287
+I6
+sV\u626e\u5622
+p1288
+I2
+sV\u534a\u65a4\u516b\u4e24
+p1289
+I5
+sV\u9521\u6652\u4f60
+p1290
+I2
+ssV\u6700\u7d27\u8981\u597d\u73a9
+p1291
+(dp1292
+V\u957f\u591c\u91cc\u7684\u76f8\u968f
+p1293
+I9
+sV\u6700\u7d27\u8981\u597d\u73a9(\u6405\u7b11\u7248\u672c)
+p1294
+I7
+sV\u661f\u591c
+p1295
+I23
+sV\u5fc3\u91cc\u65e5\u8bb0
+p1296
+I39
+sV\u7231\u5230\u5fc3\u9707
+p1297
+I9
+sV\u7231\u60c5\u4fdd\u9669
+p1298
+I4
+sV\u7231\u60c5\u4fdd\u9669DISCO RE-MIX
+p1299
+I3
+sV\u6700\u7d27\u8981\u597d\u73a9(\u7535\u5f71"\u6253\u5de5\u7687\u5e1d"\u6b4c\u66f2)
+p1300
+I70
+sV\u771f\u91d1\u4e0d\u6015\u718a\u7089\u706b
+p1301
+I11
+sVSexy Girl
+p1302
+I8
+sV\u65e5\u672c\u5a03\u5a03
+p1303
+I820
+sV\u6700\u7d27\u8981\u597d\u73a9(REMIX)
+p1304
+I7
+sV\u4e0d\u60f3\u77e5\u9053
+p1305
+I15
+sV\u771f\u7684\u7231\u4f60
+p1306
+I91
+ssV\u65b0\u7684\u5f00\u59cb
+p1307
+(dp1308
+V\u6728\u5c4b\u533a
+p1309
+I33
+sV\u6211\u662f\u5e78\u8fd0\u4eba
+p1310
+I6
+sV\u6109\u5feb\u7684\u65c5\u7a0b
+p1311
+I6
+sV\u65f6\u5149\u5012\u6d41
+p1312
+I9
+sV\u7236\u4eb2\u7684\u94a2\u7434
+p1313
+I29
+sV\u98ce\u4e2d\u8d76\u8def\u4eba
+p1314
+I23
+sV\u773c\u524d\u4eba
+p1315
+I26
+sV\u65b0\u7684\u5f00\u59cb
+p1316
+I26
+sV\u6c39\u6c39\u8f6c
+p1317
+I18
+sV\u6d0b\u7d2b\u8346
+p1318
+I13
+sV\u5077\u5fc3\u7684\u4eba
+p1319
+I44
+sV\u8fd9\u53cc\u624b
+p1320
+I3
+ss.

@@ -1,0 +1,512 @@
+(dp0
+S'Closer'
+p1
+(dp2
+VCloser
+p3
+I1896
+ssS'Taekwondo'
+p4
+(dp5
+VTaekwondo
+p6
+I1078
+ssS'I Knew You Were Trouble'
+p7
+(dp8
+VI Knew You Were Trouble
+p9
+I2324
+ssS'Summer Vibe'
+p10
+(dp11
+VSummer Vibe
+p12
+I50826
+ssS"Can't Take My Eyes Off You"
+p13
+(dp14
+VCan't Take My Eyes Off You
+p15
+I1144
+ssVChamps-Élysées
+p16
+(dp17
+VChamps-Élysées
+p18
+I110
+ssS'REVO In Paris'
+p19
+(dp20
+VREVO In Paris
+p21
+I7
+ssS'Somebody That I Used To Know'
+p22
+(dp23
+VSomebody That I Used To Know
+p24
+I3997
+ssS'Sing It All Away'
+p25
+(dp26
+VI'll Be Waiting
+p27
+I184
+sVHold On (The Break)
+p28
+I284
+sVCalifornia Trees
+p29
+I49
+sVHome We'll Go
+p30
+I5789
+sVWe Got Love
+p31
+I27
+sVHome We'll Go (Take My Hand)
+p32
+I204
+sVHeart Is a Weapon
+p33
+I25
+sVRule the World
+p34
+I165
+sVBoomerang
+p35
+I135
+sVAlright
+p36
+I76
+sVClimb Out Your Window
+p37
+I29
+sVSing It All Away
+p38
+I126
+ssS'RED'
+p39
+(dp40
+VRed
+p41
+I57
+ssS'A Walk Off The Earth Christmas'
+p42
+(dp43
+VA Marshmallow World
+p44
+I51
+sVSilent Night
+p45
+I59
+sVFeliz Navidad
+p46
+I4379
+sVA Holly Jolly Christmas
+p47
+I51
+sVSleigh Ride
+p48
+I35
+sVI Saw Three Ships
+p49
+I24
+ssS"Home We'll Go"
+p50
+(dp51
+VHome We'll Go
+p52
+I1071
+ssS'These Times'
+p53
+(dp54
+VThese Times
+p55
+I16
+ssS'Royals'
+p56
+(dp57
+VRoyals
+p58
+I683
+ssS'Vol. 1'
+p59
+(dp60
+VSomeone Like You
+p61
+I14
+sVGrenade
+p62
+I31
+sVCall It Off
+p63
+I8
+sVHighway Man
+p64
+I4
+sVParty Rock Anthem
+p65
+I37
+sVMy Rock
+p66
+I4
+sVCheers (Drink to That)
+p67
+I7
+sVCorner of Queen
+p68
+I5
+sVBackin Up Song
+p69
+I16
+sVRed Hands
+p70
+I3
+sVChamps E\u0301lyse\u0301es
+p71
+I10
+sVEleanor Rigby
+p72
+I2
+sVDirty Picture
+p73
+I5
+sVThe Edge of Glory
+p74
+I10
+sVIce Cream
+p75
+I26
+sVRock Song
+p76
+I5
+ssS'Payphone'
+p77
+(dp78
+VPayphone (Clean Version)
+p79
+I103
+ssS'Vol. 2'
+p80
+(dp81
+VMan Down
+p82
+I107
+sVLay Low
+p83
+I9
+sVMagic
+p84
+I51
+sVSome Nights
+p85
+I12
+sVA Hard Rain's Gonna Fall
+p86
+I6
+sVJoan and Bobby
+p87
+I13
+sVLove the Way You Lie
+p88
+I111
+sVYesterday
+p89
+I10
+sVI Gave You All
+p90
+I5
+sVConversation
+p91
+I5
+sVPayphone
+p92
+I170
+sVPayphone (Explicit)
+p93
+I13
+sVRoll Up
+p94
+I33
+sVHome
+p95
+I19
+sVLove Sponge
+p96
+I3
+sVSunny D and Rum
+p97
+I4
+ssS'Backin Up Song'
+p98
+(dp99
+VBackin Up
+p100
+I22
+ssS'Broke'
+p101
+(dp102
+VBroke
+p103
+I7
+ssS'My Rock'
+p104
+(dp105
+VLuminati
+p106
+I2
+sVPetey Com Julia
+p107
+I2
+sVPetey Com Coolin'
+p108
+I1
+sVJulia (Chopped n Screwed)
+p109
+I2
+sVPetey Com 100 Proof Life
+p110
+I1
+sVDisappointment (Chopped n Screwed)
+p111
+I4
+sVMoney Tree
+p112
+I5
+sVMoney Tree (Chopped n Screwed)
+p113
+I2
+sVPetey Com Money Tree
+p114
+I3
+sV100 Proof Life (Chopped n Screwed)
+p115
+I2
+sV100 Proof Life
+p116
+I7
+sVOnce In A While
+p117
+I5
+sVPetey Com On Secret Track
+p118
+I1
+sVBroke
+p119
+I2
+sVBroke (Chopped n Screwed)
+p120
+I4
+sVSilent Prep
+p121
+I1
+sVPetey Com Disappointment
+p122
+I1
+sVCoolin'
+p123
+I6
+sVDisappointment
+p124
+I3
+sVOnce In A While (Chopped n Screwed)
+p125
+I2
+sVCorner Of Queen
+p126
+I9
+sVJulia
+p127
+I6
+sVCoolin' (Chopped n Screwed)
+p128
+I1
+ssS'Polly'
+p129
+(dp130
+VPolly
+p131
+I29
+ssS'Natalie'
+p132
+(dp133
+VNatalie
+p134
+I12
+ssS'Mele Kalikimaka'
+p135
+(dp136
+VMele Kalikimaka
+p137
+I59
+ssS'Shake It Off - Single'
+p138
+(dp139
+VShake It Off
+p140
+I826
+ssS'Fire In My Soul'
+p141
+(dp142
+VFire In My Soul
+p143
+I1160
+ssS'R.E.V.O. EP'
+p144
+(dp145
+VGang Of Rhythm
+p146
+I15
+sVRed Hands
+p147
+I28
+sVSpeeches
+p148
+I12
+sVSummer Vibe
+p149
+I158
+ssS'Wrecking Ball'
+p150
+(dp151
+VWrecking Ball
+p152
+I595
+ssS"Can't Feel My Face"
+p153
+(dp154
+VCan't Feel My Face
+p155
+I407
+ssS'Smooth Like A Stone On The Beach'
+p156
+(dp157
+VLittle Sin
+p158
+I12
+sVStolen
+p159
+I3
+sVBroke
+p160
+I4
+sVGotta Go
+p161
+I7
+sV100 Proof Life
+p162
+I7
+sVRock Me Away
+p163
+I6
+sVMy Mistakes
+p164
+I5
+sVW.O.T.E.
+p165
+I14
+sVMiss Jeppetto
+p166
+I3
+sVSmooth Like Stone On A Beach
+p167
+I14
+sVPeople Of The Sun
+p168
+I5
+sVSpiralling Son
+p169
+I12
+ssS'Rule the World'
+p170
+(dp171
+VRule the World
+p172
+I1136
+ssS'Boomerang'
+p173
+(dp174
+VBoomerang
+p175
+I26
+ssS'R.E.V.O.'
+p176
+(dp177
+VGang Of Rhythm
+p178
+I185
+sVREVO
+p179
+I17
+sVRed Hands
+p180
+I205
+sVSometimes
+p181
+I4
+sVThese Times
+p182
+I7
+sVSpeeches
+p183
+I76
+sVMoney Tree
+p184
+I10
+sVNo Ulterior Motives
+p185
+I51
+sVSummer Vibe
+p186
+I452
+sVShake
+p187
+I57
+sVSomebody That I Used To Know
+p188
+I73
+ssS'Someone Like You'
+p189
+(dp190
+VSomeone Like You
+p191
+I221
+ssVLes Champs\u200b-\u200bÉlysées
+p192
+(dp193
+VLes Champs\u200b-\u200bÉlysées
+p194
+I96
+ssS'Little Boxes'
+p195
+(dp196
+VLittle boxes
+p197
+I166
+ssS'Jingle Bell Rock'
+p198
+(dp199
+VJingle Bell Rock
+p200
+I111
+ssS'Material Girl'
+p201
+(dp202
+VMaterial Girl
+p203
+I157
+ssS'Wake Up'
+p204
+(dp205
+VWake Up
+p206
+I1171
+ssS'Love Sponge'
+p207
+(dp208
+VLove Sponge
+p209
+I15
+ss.

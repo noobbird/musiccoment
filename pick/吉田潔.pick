@@ -1,0 +1,689 @@
+(dp0
+VNHK\u30b9\u30da\u30b7\u30e3\u30eb\u300c\u65e5\u672c\u4eba\u306f\u308b\u304b\u306a\u65c5\u300d\u30aa\u30ea\u30b8\u30ca...
+p1
+(dp2
+V\u98a8\u306b\u3075\u304b\u308c\u3066
+p3
+I107
+sVD.N.A
+p4
+I55
+sV\u5922\u9192\u3081\u3066 (\u300c\u306f\u308b\u304b\u306a\u65c5\u300d\u30bd\u30ed.\u30d4\u30a2\u30ce.\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3)
+p5
+I199
+sV\u61d0\u304b\u3057\u3044\u4eba\u3005
+p6
+I86
+sV\u5e7e\u3064\u3082\u306e\u8a95\u751f
+p7
+I49
+sV\u306f\u308b\u304b\u306a\u65c5 (TV\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de)
+p8
+I747
+sV\u65c5\u7acb\u3061 (\u300c\u306f\u308b\u304b\u306a\u65c5\u300d\u30b9\u30c8\u30ea\u30f3\u30b0\u30b9.\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3)
+p9
+I596
+sVTV\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de
+p10
+I8673
+sV\u5730\u5e73\u306e\u679c\u3066\u306b
+p11
+I45
+sV\u6d17\u793c
+p12
+I126
+sV\u5927\u5730\u3092\u6c42\u3081\u3066
+p13
+I180
+sV\u671b\u90f7 (\u300c\u306f\u308b\u304b\u306a\u65c5\u300d\u4e8c\u80e1.\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3)
+p14
+I257
+sV\u967d\u3060\u307e\u308a
+p15
+I81
+ssV\u5929\u306e\u3057\u305a\u304f\u306e\u8a00\u8449\u3068\u97f3\u697d
+p16
+(dp17
+V\u6625\u306e\u82bd\u5439\u304d
+p18
+I23
+sV\u7121\u57a2
+p19
+I12
+sV\u3057\u305a\u304f ~Ending~
+p20
+I3
+sV\u638c ~\u624b\u306e\u5fc3~
+p21
+I5
+sV\u5927\u5730\u306e\u30b5\u30a4\u30af\u30eb ~\u571f\u306b\u8074\u304f~
+p22
+I6
+sV\u68ee\u306e\u3053\u3068\u3070
+p23
+I10
+sV\u3057\u305a\u304f ~Opening~
+p24
+I4
+sV\u3081\u3056\u3081 ~\u767d\u548c\u3048~
+p25
+I2
+sV\u3081\u3056\u3081 ~\u30d4\u30a2\u30ce\u30bd\u30ed~
+p26
+I2
+sV\u91ce\u306e\u8349\u82b1 ~\u3044\u306e\u3061\u306e\u30b9\u30fc\u30d7~
+p27
+I4
+sV\u865a\u7a7a
+p28
+I11
+sV-\u6717\u8aad\u306e\u307f-
+p29
+I3
+sV\u3081\u3056\u3081 ~\u5b9f\u308a\u306e\u79cb~
+p30
+I5
+sV\u91ce\u306e\u8349\u82b1
+p31
+I31
+sV\u5927\u5730\u306e\u30b5\u30a4\u30af\u30eb ~\u751f\u7523\u8005\u305f\u3061~
+p32
+I2
+ssV\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa...
+p33
+(dp34
+V\u30b9\u30b1\u30c3\u30c1
+p35
+I70
+sV\u5909\u308f\u3089\u306a\u3044\u3082\u306e (\u30b9\u30c8\u30ea\u30f3\u30b0\u30b9\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3)
+p36
+I158
+sV\u30bf\u30a4\u30e0\u30ea\u30fc\u30d7 (\u30ed\u30f3\u30b0\u30fb\u30d0\u30fc\u30b7\u30e7\u30f3)
+p37
+I108
+sV\u7b2c\u4e00\u5909\u594f\u66f2 (\u30b4\u30fc\u30eb\u30c9\u30d9\u30eb\u30b0\u5909\u594f\u66f2\u3088\u308a
+p38
+I49
+sV\u9759\u5bc2
+p39
+I70
+sV\u30b9\u30b1\u30c3\u30c1 (\u30ed\u30f3\u30b0\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3)
+p40
+I48
+sV\u590f\u7a7a\uff5e\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30fb\u30c6\u30fc\u30de\uff5e
+p41
+I183
+sV\u590f\u7a7a (\u30ed\u30f3\u30b0\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3)
+p42
+I77
+sV\u590f\u7a7a\uff5e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30fb\u30c6\u30fc\u30de\uff5e
+p43
+I51
+sVDaylife
+p44
+I160
+sV\u5c11\u5973\u306e\u4e0d\u5b89
+p45
+I28
+sV\u304b\u3089\u304f\u308a\u6642\u8a08\uff5e\u30bf\u30a4\u30e0\u30ea\u30fc\u30d7
+p46
+I24
+sV\u672a\u6765\u306e\u8a18\u61b6
+p47
+I57
+sV\u30ac\u30fc\u30cd\u30c3\u30c8 (\u4e88\u544a\u7de8\u30b7\u30e7\u30fc\u30c8\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3)
+p48
+I449
+sV\u30a2\u30ea\u30a2 (\u30b4\u30fc\u30eb\u30c9\u30d9\u30eb\u30b0\u5909\u594f\u66f2\u3088\u308a)
+p49
+I41
+ssS'Tariiq'
+p50
+(dp51
+VTaqsim Bouselik \u300c\u30aa\u30fc\u30eb\u30c9\u30fb\u30b8\u30c3\u30c0/\u5199\u771f\u306e\u6545\u90f7\u300d
+p52
+I1
+sVCiftetelli
+p53
+I1
+sV\u6708\u5149\u795e\u6bbf \u300c\u6708\u5149\u795e\u6bbf\uff5eFarha Version\uff5e\u300d
+p54
+I2
+sVTaqsim on Beat Bambi \uff5e Ibn El Balad \u300c\u30aa\u30a4\u30eb\u30de\u30cd\u30fc\u300d
+p55
+I1
+sVEl Mamalik
+p56
+I0
+sVTaqsim Raahat Al Arwaah \u300c\u30de\u30fc\u30eb\u30fc\u30e9\u300d
+p57
+I1
+sVKull Da Kan len \u300c\u30b7\u30eb\u30af\u30ed\u30fc\u30c9\u306e\u8594\u8587\u30d1\u30eb\u30df\u30e9\u300d
+p58
+I2
+sVEl Nahr El Khaled
+p59
+I1
+sVBint El Balad \u300c\u7802\u4e0a\u306e\u72c2\u5bb4\u300d
+p60
+I1
+sVTaqsim Nahawand \u300c\u6e07\u304d\uff5eOud Solo\uff5e\u6545\u90f7\u306e\u7a7a\u3001\u9060\u304f\u9ad8\u304f\u300d
+p61
+I0
+sVTaqsim Huzam \u300c\u7948\u308a\u97ff\u304f\u9053\u300d
+p62
+I0
+sVCleopatra \u300c\u30aa\u30a2\u30b7\u30b9\u306e\u9053\u300d
+p63
+I4
+sVTaqsim Hijaz \uff5e layali El Jazaier \u300c\u7570\u306a\u308b\u4e8c\u3064\u306e\u6559\u3048\u300d
+p64
+I1
+sV\u5bb6\u65cf \u300c\u5bb6\u65cf\uff5eFarha Version\uff5e\u300d
+p65
+I3
+sVTaqsim Kurd \u300c\u8def\u5730\u88cf\u306e\u4e73\u9999\u58f2\u308a/\u6211\u304c\u9b42\u306e\u5263\u300d
+p66
+I1
+sVTaqsim Hijazkar \u300c\u5239\u90a3\u300d
+p67
+I2
+sVTaqsim Nahawand \u300c\u6545\u90f7\u306e\u5927\u5730\u300d
+p68
+I3
+ssS'Amal'
+p69
+(dp70
+V\u30ec\u30d0\u30ce\u30f3\u6749\uff5e\u5e0c\u671b remix\uff5e
+p71
+I4
+sV\u9053\uff5e\u4e88\u5146\uff5e
+p72
+I3
+sV\u8461\u8404\u6458\u307f
+p73
+I2
+sV\u5e0c\u671b\uff5e\u843d\u65e5\u306e\u5f7c\u65b9\uff5e
+p74
+I12
+sV\u6545\u90f7
+p75
+I4
+sV\u5bb6\u65cf
+p76
+I4
+sV\u98a8\u306b\u306e\u3063\u3066
+p77
+I4
+sV\u615f\u54ed
+p78
+I2
+sV\u4e88\u5146
+p79
+I2
+sV\u6708\u5149\u795e\u6bbf
+p80
+I144
+sV\u6e07\u304d
+p81
+I3
+sV\u5e0c\u671b
+p82
+I5
+sVGo West
+p83
+I7
+sV\u79d2\u91dd
+p84
+I4
+sVMoon Light Blue
+p85
+I6
+sV\u96ea\u89e3\u3051
+p86
+I3
+ssVNHK\u30b9\u30da\u30b7\u30e3\u30eb\u300c\u65b0\u30b7\u30eb\u30af\u30ed\u30fc\u30c92007\u300d\u6fc0\u52d5\u306e...
+p87
+(dp88
+VFamily
+p89
+I7
+sVA Lunar Sanctuary
+p90
+I58
+sVRiding on the wind
+p91
+I7
+sVAway to the calm
+p92
+I8
+sVMohini (Enchantment)
+p93
+I43
+sVOminous
+p94
+I4
+sVGo West
+p95
+I3
+ssV\u30b7\u30b0\u30eb\u30a4 \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af
+p96
+(dp97
+V\u30b7\u30b0\u30eb\u30a4::\u65e0\u660e\u9006\u6d41\u308c
+p98
+I9
+sV\u30b7\u30b0\u30eb\u30a4::\u5080\u5121
+p99
+I11
+sV\u30b7\u30b0\u30eb\u30a4::\u8749\u3057\u3050\u308c
+p100
+I4
+sV\u30b7\u30b0\u30eb\u30a4::\u4e00\u864e\u53cc\u7adc
+p101
+I19
+sV\u30b7\u30b0\u30eb\u30a4::\u938c\u9f2c
+p102
+I9
+sV\u30b7\u30b0\u30eb\u30a4::\u6697\u541b
+p103
+I3
+sV\u30b7\u30b0\u30eb\u30a4::\u7523\u58f0
+p104
+I2
+sV\u30b7\u30b0\u30eb\u30a4::\u4e09\u53f6\u8475
+p105
+I4
+sV\u30b7\u30b0\u30eb\u30a4::\u6b7b\u72c2\u3044~\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30fb\u30c6\u30fc\u30de
+p106
+I58
+sV\u30b7\u30b0\u30eb\u30a4::\u6d53\u5c3e\u65e0\u53cc
+p107
+I8
+sV\u30b7\u30b0\u30eb\u30a4::\u5c0f\u591c\u5c9a
+p108
+I21
+sV\u30b7\u30b0\u30eb\u30a4::\u7259
+p109
+I10
+sV\u30b7\u30b0\u30eb\u30a4::\u60aa\u6839
+p110
+I3
+sV\u30b7\u30b0\u30eb\u30a4::\u6d8e\u5c0f\u8c46
+p111
+I7
+sV\u30b7\u30b0\u30eb\u30a4::\u864e\u5b50~\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30fb\u30c6\u30fc\u30de
+p112
+I2
+sV\u30b7\u30b0\u30eb\u30a4::\u4e03\u4e01\u5ff5\u4ecf
+p113
+I9
+sV\u30b7\u30b0\u30eb\u30a4::\u6d41\u308c\u661f
+p114
+I5
+ssV\u6253
+p115
+(dp116
+VOiuchidaiko
+p117
+I11
+sVForest \u2162
+p118
+I6
+sVForest \u2161
+p119
+I5
+sVRising Sun
+p120
+I210
+sVForest\u2160
+p121
+I10
+sVWave
+p122
+I11
+sVSpirit
+p123
+I41
+sVFire Works
+p124
+I18
+sVMikado
+p125
+I36
+sVAnother Day
+p126
+I21
+sVMatsuri
+p127
+I1029
+sVLegend Of The Ocean
+p128
+I82
+sVEnding
+p129
+I10
+sVYamato
+p130
+I20
+sVCherry Blossom
+p131
+I32
+ssV\u5927\u9c7c\u6d77\u68e0 \u7535\u5f71\u539f\u58f0\u5927\u789f
+p132
+(dp133
+V\u80cc\u7740\u693f\u9cb2\u7684\u6e6b
+p134
+I82
+sV\u65e0\u5bb6\u53ef\u5f52\u7684\u9cb2
+p135
+I66
+sV\u693f\u4e4b\u68a6
+p136
+I973
+sV\u817e\u96fe\u5954\u9704
+p137
+I620
+sV\u4e09\u624b\u6446\u6e21\u8005
+p138
+I76
+sV\u693f\u7684\u51b3\u5fc3
+p139
+I147
+sV\u7237\u7237\u7684\u542f\u793a
+p140
+I83
+sV\u751f
+p141
+I1867
+sV\u9f20\u5a46\u5b50
+p142
+I177
+sV\u5c11\u5e74\u4e4b\u6b7b
+p143
+I96
+sV\u9065\u8fdc\u7684\u65c5\u9014
+p144
+I616
+sV\u9cb2\u5728\u957f\u5927
+p145
+I95
+sV\u53cc\u5934\u86c7
+p146
+I58
+sV\u6e6b\u4e0e\u7075\u5a46\u7684\u4ea4\u6613
+p147
+I166
+sV\u4e0d\u88ab\u4fe1\u4efb\u7684\u5c11\u5e74
+p148
+I55
+sV\u65e0\u754f\u7684\u6e6b
+p149
+I203
+sV\u693f\u7684\u68a6 \u5e8f\u66f2
+p150
+I1023
+sV\u8001\u5e74\u693f\u4e4b\u68a6
+p151
+I127
+sV\u7237\u7237\u7684\u9ec4\u660f
+p152
+I91
+sV\u900d\u9065\u6e38
+p153
+I157
+sV\u66b4\u98ce\u96e8\u7684\u7b2c\u4e03\u65e5
+p154
+I56
+sV\u5de8\u6d77\u68e0
+p155
+I179
+sV\u5728\u6bdb\u6bdb\u7ec6\u96e8\u4e2d\u98de\u7fd4
+p156
+I255
+sV\u7237\u7237\u544a\u522b\u7684\u8bdd
+p157
+I134
+sV\u9192\u6765
+p158
+I105
+sV\u9633\u5149\u5c11\u5e74
+p159
+I195
+sV\u91cd\u751f
+p160
+I314
+sV\u6d77\u5929\u4e4b\u95e8
+p161
+I170
+sV\u6e6b\u4e4b\u91cd\u751f
+p162
+I623
+sV\u53bb\u5f80\u5982\u5347\u697c
+p163
+I343
+sV\u751f\u957f\u7684\u6d77\u68e0\u6811
+p164
+I182
+sV\u6e6b\u4e4b\u60b2
+p165
+I492
+sV\u9003\u79bb
+p166
+I112
+sV\u9f20\u5a46\u4e4b\u821e
+p167
+I116
+sV\u693f\u4e0e\u7075\u5a46\u7684\u4ea4\u6613
+p168
+I240
+sV\u6210\u5e74\u793c
+p169
+I197
+sV\u7f8e\u4e3d\u7684\u4eba\u7c7b\u4e16\u754c
+p170
+I326
+sV\u6700\u540e\u7684\u79bb\u522b
+p171
+I482
+ssV\u30ab\u30a4\u30d0 ORIGINAL SOUNDTRACK
+p172
+(dp173
+VBaby's Noise
+p174
+I2
+sVPink Algorithm
+p175
+I1
+sVThe Tree Song (a capella)
+p176
+I14
+sVNight Sound
+p177
+I2
+sVMemories
+p178
+I0
+sVNightmare
+p179
+I0
+sVPlanet (enjoying version)
+p180
+I4
+sVCarry Me Awway (tv size -KAIBA mix-)
+p181
+I6
+sVPlanet (lonely version)
+p182
+I1
+sVThink It over!
+p183
+I1
+sVThe Tree Song (scat)
+p184
+I11
+sVCrazy in Love
+p185
+I1
+sVPlanet (laughing version)
+p186
+I5
+sVGray in Calculation
+p187
+I1
+sVThe Tree Song
+p188
+I10
+sVThe grand soul flits freely
+p189
+I2
+sVCatch It up!
+p190
+I2
+sVTwinkling Photon
+p191
+I1
+sVNever (tv size -KAIBA mix-)
+p192
+I10
+sVChase to It!
+p193
+I1
+sVPlanet (blueing version)
+p194
+I1
+sVPlanet
+p195
+I2
+sVDark Nebula
+p196
+I1
+sVInitialize Me
+p197
+I4
+sVCraze in Love (light version)
+p198
+I1
+sVHello, Goodbye, My memory
+p199
+I1
+ssS'Kaiba OST'
+p200
+(dp201
+VBaby's Noise
+p202
+I5
+sVPink Algorithm
+p203
+I6
+sVThe Tree Song (a capella)
+p204
+I24
+sVNight Sound
+p205
+I11
+sVNever (tv size -KAIBA mix-) - remix
+p206
+I97
+sVNightmare
+p207
+I10
+sVPlanet (enjoying version)
+p208
+I10
+sVPlanet (lonely version)
+p209
+I8
+sVThink It over!
+p210
+I2
+sVThe Tree Song (scat)
+p211
+I30
+sVMemories
+p212
+I13
+sVCarry Me Awway (tv size -KAIBA mix-) - remix
+p213
+I56
+sVCrazy in Love
+p214
+I25
+sVPlanet (laughing version)
+p215
+I21
+sVGray in Calculation
+p216
+I3
+sVThe Tree Song
+p217
+I162
+sVThe grand soul flits freely
+p218
+I8
+sVCatch It up!
+p219
+I5
+sVTwinkling Photon
+p220
+I2
+sVChase to It!
+p221
+I11
+sVPlanet (blueing version)
+p222
+I5
+sVPlanet
+p223
+I12
+sVDark Nebula
+p224
+I5
+sVInitialize Me
+p225
+I18
+sVCraze in Love (light version)
+p226
+I7
+sVHello, Goodbye, My memory
+p227
+I15
+ssV\u6b66\u58eb
+p228
+(dp229
+V\u6b8b\u5fc3
+p230
+I12
+sV\u5200
+p231
+I103
+sV\u7985
+p232
+I51
+sV\u4e94\u661f
+p233
+I25
+sV\u5239\u90a3
+p234
+I35
+sV\u98a8\u306e\u5982\u304f
+p235
+I355
+sV\u5fd7\u58eb
+p236
+I23
+sV\u660e\u6ec5
+p237
+I12
+sV\u6b66\u58eb
+p238
+I277
+sV\u515c
+p239
+I14
+sV\u5c71\u9daf
+p240
+I18
+sV\u7d62\u721b
+p241
+I58
+ss.

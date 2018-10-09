@@ -1,0 +1,512 @@
+(dp0
+S'The Adventures of Bernie the Schoolboy'
+p1
+(dp2
+VThe Adventures of Bernie the Schoolboy
+p3
+I50
+sVOnly Child
+p4
+I21
+sVThe Fool
+p5
+I78
+sVChitterchat(Reprise)
+p6
+I11
+sVWe Just Won't Know
+p7
+I17
+sVApathy
+p8
+I28
+sVThe Revenge of the Farm Animal
+p9
+I23
+sVI Blame it on You
+p10
+I13
+sVThe Adventure Comes to an End
+p11
+I32
+sVThe Bug
+p12
+I85
+sVChitterchat
+p13
+I18
+sVPlotting Revenge
+p14
+I45
+sVThe Chicken Circus
+p15
+I13
+ssS'The Adult Storybook'
+p16
+(dp17
+VMaybe Some Other Time
+p18
+I24
+sVI\u2019m Pathetic Enough
+p19
+I24
+sV\u4e00\u79cd\u5ff5\u5934
+p20
+I51
+sV\u73ab\u7470\u73ab\u7470\u6211\u7231\u4f60
+p21
+I860
+sVTikiville
+p22
+I36
+sVAubrey
+p23
+I156
+sVPalpitation
+p24
+I20
+sVCan't Take My Eyes Off You
+p25
+I1365
+sVMaybe Some Other Time(\u56fd)
+p26
+I19
+sVTimes of Your Life
+p27
+I23
+sV\u6211\u7684\u7231
+p28
+I108
+sVEven If We Did
+p29
+I33
+sVI Guess I\u2019m Paranoid
+p30
+I16
+sVVincent
+p31
+I142
+sVJust The Two Of Us
+p32
+I543
+sVHis Remedy
+p33
+I35
+sVTikiville(\u56fd)
+p34
+I23
+ssS'House of Bullies'
+p35
+(dp36
+VIntermission (Looney Galop)
+p37
+I46
+sVWhen You Dream in Technicolor
+p38
+I76
+sVThe Cult Leader
+p39
+I101
+sVMy Belly Really Aches
+p40
+I333
+sVThe Art of Bullying
+p41
+I185
+sVIsn't It Exciting?
+p42
+I2373
+sVMeanest Kids in Town
+p43
+I79
+sVThe Rightful Heir
+p44
+I515
+sVWhen You Dream in Technicolor (Inst.)
+p45
+I61
+sVThe Greatest Stink
+p46
+I139
+sVRun Away from Home!
+p47
+I82
+sVSenile Rock
+p48
+I151
+sVInside the Mind of a Chicken
+p49
+I113
+sVScary Cousins
+p50
+I198
+sVLiar
+p51
+I135
+sVMom and Dad Don't Understand
+p52
+I101
+sVPick of the Litter
+p53
+I208
+sVThe Tale Begins
+p54
+I478
+ssV\u5348\u591c\u5267\u9662
+p55
+(dp56
+V\u5f53\u5e74\u60c5
+p57
+I592
+sV\u82b1\u6837\u5e74\u534e
+p58
+I956
+sV\u73ab\u7470\u9999
+p59
+I230
+sV\u8ffd\u68a6\u4eba
+p60
+I718
+sV\u591c\u4e0a\u6d77
+p61
+I669
+sVWhat Is A Youth?
+p62
+I215
+sVAlice in Wonderland
+p63
+I210
+sVPure Imagination
+p64
+I86
+sVYou Only Live Twice
+p65
+I41
+sV\u88ab\u9057\u5fd8\u7684\u65f6\u5149
+p66
+I453
+sV\u4eca\u5bb5\u591a\u73cd\u91cd
+p67
+I450
+sVIf I Had Words
+p68
+I44
+sVMoon River
+p69
+I217
+ssVJoanna&\u738b\u82e5\u7433(\u9884\u8d2d\u793c)
+p70
+(dp71
+VTimes of your life
+p72
+I25
+sV50 Ways to Leave Your Lover
+p73
+I39
+sVHis Remedy
+p74
+I27
+sVWe've Only Just Begun
+p75
+I26
+ssVJoanna \uff06 \u738b\u82e5\u7433
+p76
+(dp77
+V\u6211\u7684\u7231
+p78
+I82
+sVLonging for Romance
+p79
+I18
+sVMaybe Some Other Time
+p80
+I24
+sVAubrey
+p81
+I76
+sV\u4e00\u79cd\u5ff5\u5934
+p82
+I675
+sV\u73ab\u7470\u73ab\u7470\u6211\u7231\u4f60
+p83
+I134
+sVTikiville
+p84
+I120
+sVHow I Feel About Businessm
+p85
+I25
+sVNobody\u2019s A Nun
+p86
+I92
+sVTikiville(\u56fd)
+p87
+I39
+sVPalpitation
+p88
+I33
+sVTimes of Your Life
+p89
+I226
+sVHis Remedy
+p90
+I35
+sVI\u2019m Pathetic Enough
+p91
+I29
+sVI Guess I\u2019m Paranoid
+p92
+I27
+sVAdult Crap
+p93
+I37
+sV50 Ways To Leave Your Lover
+p94
+I67
+sVVincent
+p95
+I2060
+sVEven If We Did
+p96
+I67
+sVWe've Only Just Begun
+p97
+I121
+sVMan
+p98
+I42
+ssS'BOB MUSIC'
+p99
+(dp100
+VWhen I Nod
+p101
+I471
+sVTruckin' Everyday
+p102
+I191
+sVThe Scientific Method
+p103
+I140
+sVLiquified Cheese
+p104
+I46
+sVI Don't Give a Hoot
+p105
+I87
+sVSimply Nothing You Can Do
+p106
+I91
+sVAin't She Sweet
+p107
+I53
+sVSpanish Flea
+p108
+I75
+sVI'm Fucked!
+p109
+I129
+sVTeenager Statement
+p110
+I69
+sVFeet
+p111
+I193
+sVNow We're Together Forever and Always
+p112
+I62
+sVI Knew It, I Swear!
+p113
+I84
+sVWhip Out the Shampoo
+p114
+I101
+sVEverything Anything
+p115
+I154
+sVKungfu Sound Bite
+p116
+I396
+ssV\u4e3a\u7231\u505a\u7684\u4e00\u5207
+p117
+(dp118
+VRaindrops Keep Fallin' On My Head
+p119
+I799
+sVStay - Acoustic version
+p120
+I37
+sVWild World
+p121
+I1246
+sV\u4e09\u4e2a\u4eba\u7684\u665a\u9910
+p122
+I2751
+sVLemon Tree(\u56fd)
+p123
+I1225
+sV\u507f\u8fd8
+p124
+I1324
+sVWild World - Acoustic version
+p125
+I393
+sV\u4e00\u751f\u5b88\u5019
+p126
+I6588
+sVStay
+p127
+I143
+sVLemon Tree
+p128
+I3177
+sVYou've Got a Friend - Acoustic version
+p129
+I56
+sVDirty Work
+p130
+I156
+sVThe Things We Do For Love
+p131
+I212
+sV\u4eb2\u5bc6\u7231\u4eba
+p132
+I6507
+sVYou've Got a Friend
+p133
+I192
+ssS'Start From Here'
+p134
+(dp135
+VNow
+p136
+I386
+sVLost in Paradise
+p137
+I829
+sVThe Best Mistake I've Ever Made
+p138
+I2189
+sV\u6709\u4f60\u7684\u5feb\u4e50
+p139
+I2979
+sVFor No Reason
+p140
+I319
+sVLost Taipei
+p141
+I246
+sVI Love You(\u7231\u5f88\u7b80\u5355)
+p142
+I3315
+sVNew York State of Mind
+p143
+I181
+sVFor No Reason (OT: For No Reas
+p144
+I309
+sVAs Love Begins to Mend
+p145
+I119
+sVLet's Start From Here
+p146
+I5011
+sV\u56e0\u4e3a\u4f60\u7231\u6211(OT: As Love Begins)
+p147
+I232
+sV\u8ff7\u5bab(OT: Let\u2019s Start from He)
+p148
+I917
+sVNow (OT: Now)
+p149
+I75
+sVTRUE
+p150
+I234
+sVBada Bada
+p151
+I301
+sVStages of Flying
+p152
+I57
+ssV\u94f6\u6cb3\u7684\u5371\u673a: \u6700\u5947\u5f02\u7684\u5348\u591c\u8f6c\u64ad
+p153
+(dp154
+VThe Rabbit Chase/Garden Party On Mars
+p155
+I25
+sVFrolicktown
+p156
+I32
+sVEvil Nerd Theme
+p157
+I196
+sVCoins
+p158
+I90
+sVMeteor One (Inside The Mind Of A Wrestling Fanatic)
+p159
+I11
+sVGalaxy Crisis
+p160
+I56
+sVChitterchat (TV Theme)
+p161
+I21
+sVAn Audience with the King
+p162
+I31
+sVRemote Control
+p163
+I25
+sVPressure\u2019s On Me (Space Saloon Theme)
+p164
+I51
+sVYou and Me
+p165
+I256
+sVGalaxy Prologue
+p166
+I45
+sVPicnicktown
+p167
+I22
+sVEnlightenment
+p168
+I66
+sVThe Chicken Circus (Crash Detour into the Chip Galaxy)
+p169
+I14
+sVThe Antagonist
+p170
+I33
+ssV\u706b\u817f
+p171
+(dp172
+V\u597d\u65f6\u5149
+p173
+I1365
+sV\u54c8\u55bd\u5b89\u5a18
+p174
+I3645
+sV\u9752\u5c11\u5973\u5de1\u903b\u961f
+p175
+I1936
+ssS'Time in a bottle'
+p176
+(dp177
+VBad moon rising
+p178
+I62
+sVTime in a bottle
+p179
+I451
+sVDesperado
+p180
+I1012
+sVYesterday
+p181
+I355
+sVBlackbird
+p182
+I134
+ss.
